@@ -1,19 +1,27 @@
-# Attending remote interviews via Google Meet
-## This file introduced what to expect when attending remote interviews
+---
+title: "Attending remote interviews via Google Meet"
+output: html_document
+date: "June 2022"
+---
 
-# Key points
+This file introduced what to expect when attending remote interviews
+
+## Key points
 When joining an interview, the most important rules are to:
+
 - **MUTE** your microphone
 - Turn your video **OFF**
 - Put down **VIEWER** as your display name
 - **REMOVE** your profile picture
 
-# Before the interview
-You should receive a link **Meeting ID** starting with https://meet.google.com in order to dial in via Google Meet to attend a remote interview.
+## Before the interview
+You should receive a link **Meeting ID** starting with <https://meet.google.com> in order to dial in via Google Meet to attend a remote interview.
+
 Before each session starts or at the start of the day, we will share relevant information about the participant joining the next session via WhatsApp, Slack or email.
 
-# What to expect when entering the meeting room?
+## What to expect when entering the meeting room?
 There are a few things we recommend to do and watch out for when you enter the meeting room:
+
 1. **Start time**: Please join at least 10 minutes before if possible to ensure that your camera and microphone are set off. The interviews often start on time.
 2. **Who is attending**: You will see the moderator, anonymous note-taker, participant and viewers.
 3. **Recording**: All the sessions will be recorded.
@@ -23,7 +31,7 @@ There are a few things we recommend to do and watch out for when you enter the m
 7. **Discussion guide**: The discussion guide is not a verbatim script. When needed, the order and questions may be adjusted accordingly by the moderator.
 8. **Attendance**: The thoughts, feelings and experiences of each participant can be very different. We suggest you not make assumptions based on listening to one participant. Attend as many sessions as you can to benefit from these different learnings.
 
-# How to join with Google Meet?
+## How to join with Google Meet?
 You will be able to dial in on a web browser without downloading an app.
 
 ## Step by step guidelines:
@@ -37,7 +45,7 @@ Enjoy your time!
 
 Any questions, please reach out to
 
-Dr Chiawei Wang
-Mixed Methods User Researcher
-PhD Theoretical and Experimental Pragmatics
+Dr Chiawei Wang\
+Mixed Methods User Researcher\
+PhD Theoretical and Experimental Pragmatics\
 ch.wng@outlook.com
