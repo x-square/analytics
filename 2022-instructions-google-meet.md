@@ -12,10 +12,10 @@ This file introduced what to expect when attending remote interviews
 
 When joining an interview, the most important rules are to:
 
--   [**MUTE**]{style="color:orange;"} your microphone
--   Turn your video [**OFF**]{style="color:orange;"}
--   Put down [**VIEWER**]{style="color:orange;"} as your display name
--   [**REMOVE**]{style="color:orange;"} your profile picture
+-   **MUTE** your microphone
+-   Turn your video **OFF**
+-   Put down **VIEWER** as your display name
+-   **REMOVE** your profile picture
 
 ## Before the interview
 
