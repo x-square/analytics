@@ -4,7 +4,6 @@ author: "Chiawei Wang"
 date: "June 2022"
 date-format: "MMMM, YYYY"
 format: html
-editor: visual
 ---
 
 This file introduced what to expect when attending remote interviews
