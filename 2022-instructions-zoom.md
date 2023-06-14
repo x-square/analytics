@@ -34,7 +34,7 @@ There are a few things we recommend to do and watch out for when you enter the m
 1.  **Start time**: Please join at least 10 minutes before if possible to ensure that your camera and microphone are set off. The interviews often start on time.
 2.  **Who is attending**: You will see the moderator, anonymous note-taker, participant and viewers.
 3.  **Recording**: All the sessions will be recorded.
-4.  **Avoid distraction**: You must **mute** yourself, change your name to **Viewer** and remove your **profile photo**, in order not to put pressure on the participant.
+4.  **Avoid distraction**: You must mute yourself, change your name to viewer and remove your profile photo, in order not to put pressure on the participant.
 5.  **Avoid interruption**: Do not unmute yourself or use the Zoom chat whilst a session is in progress.
 6.  **Questions**: If you have additional questions for the participant, please put them in the WhatsApp group chat or Slack channel.
 7.  **Discussion guide**: The discussion guide is not a verbatim script. When needed, the order and questions may be adjusted accordingly by the moderator.
@@ -72,7 +72,7 @@ You will be able to dial in on the Zoom app or on a web browser (without downloa
 2.  By using the meeting ID:
     a.  Go to <http://join.zoom.us>.
     b.  After entering the meeting ID, click **Join**.
-    c.  Click **Cancel** when you are prompted to open **zoom.us.app**.
+    c.  Click **Cancel** when you are prompted to open `zoom.us.app`.
     d.  Click **Launch Meeting**.
     e.  After you are again prompted to open **zoom.us.app**, click **Cancel** and then click the link **Join from Your Browser** at the bottom of the page.
     f.  Select **Mute** and **Stop Video** and put down **Viewer** as your display name.
