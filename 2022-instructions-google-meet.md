@@ -12,14 +12,14 @@ This file introduced what to expect when attending remote interviews
 
 When joining an interview, the most important rules are to:
 
--   **MUTE** your microphone
--   Turn your video **OFF**
--   Put down **VIEWER** as your display name
--   **REMOVE** your profile picture
+-   [**MUTE**]{style="color:orange;"} your microphone
+-   Turn your video [**OFF**]{style="color:orange;"}
+-   Put down [**VIEWER**]{style="color:orange;"} as your display name
+-   [**REMOVE**]{style="color:orange;"} your profile picture
 
 ## Before the interview
 
-You should receive a link **Meeting ID** starting with `https://meet.google.com` in order to dial in via Google Meet to attend a remote interview.
+You should receive a link Meeting ID starting with `https://meet.google.com` in order to dial in via Google Meet to attend a remote interview.
 
 Before each session starts or at the start of the day, we will share relevant information about the participant joining the next session via WhatsApp, Slack or email.
 
@@ -30,7 +30,7 @@ There are a few things we recommend to do and watch out for when you enter the m
 1.  **Start time**: Please join at least 10 minutes before if possible to ensure that your camera and microphone are set off. The interviews often start on time.
 2.  **Who is attending**: You will see the moderator, anonymous note-taker, participant and viewers.
 3.  **Recording**: All the sessions will be recorded.
-4.  **Avoid distraction**: You must **mute** yourself, change your name to **Viewer** and remove your **profile photo**, in order not to put pressure on the participant.
+4.  **Avoid distraction**: You must mute yourself, change your name to viewer and remove your profile photo, in order not to put pressure on the participant.8
 5.  **Avoid interruption**: Do not unmute yourself or use the Google Meet chat whilst a session is in progress.
 6.  **Questions**: If you have additional questions for the participant, please put them in the WhatsApp group chat or Slack channel.
 7.  **Discussion guide**: The discussion guide is not a verbatim script. When needed, the order and questions may be adjusted accordingly by the moderator.
