@@ -50,7 +50,7 @@ You will be able to dial in on a web browser without downloading an app.
 
 Enjoy your time!
 
-Any questions, please reach out to
+Any questions, please reach out
 
 Dr Chiawei Wang\
 Mixed Methods User Researcher\
