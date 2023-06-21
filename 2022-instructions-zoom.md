@@ -80,7 +80,7 @@ You will be able to dial in on the Zoom app or on a web browser (without downloa
 
 Enjoy your time!
 
-Any questions, please reach out to
+Any questions, please reach out
 
 Dr Chiawei Wang\
 Mixed Methods User Researcher\
