@@ -83,6 +83,6 @@ Enjoy your time!
 Any questions, please reach out
 
 Dr Chiawei Wang\
-Mixed Methods User Researcher\
+User Researcher\
 PhD Theoretical and Experimental Pragmatics\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com){.email}
