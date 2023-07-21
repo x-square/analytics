@@ -44,7 +44,7 @@ There are a few things we recommend to do and watch out for when you enter the m
 
 You will be able to dial in on the Zoom app or on a web browser (without downloading the app). Please refer to <https://zoom.us/download> to download the app if needed.
 
-### **Step by step guidelines for Zoom app users** (by using the meeting link or the meeting ID):
+### **Step-by-step guidelines for Zoom app users** (by using the meeting link or the meeting ID):
 
 1.  By using the meeting link:
     a.  Open the Zoom app and sign out of your account. Please note that you will be unable to remove your profile picture when joining with your account signed in.
@@ -85,4 +85,4 @@ You will be able to dial in on the Zoom app or on a web browser (without downloa
 Dr Chiawei Wang\
 User Researcher\
 PhD Theoretical and Experimental Pragmatics\
-[ch.wng\@outlook.com](mailto:ch.wng@outlook.com){.email}
+[ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
