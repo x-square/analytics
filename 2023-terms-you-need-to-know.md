@@ -137,5 +137,4 @@ This type of research focuses on assessing and judging the effectiveness and imp
 
 Dr Chiawei Wang\
 User Researcher\
-PhD Theoretical and Experimental Pragmatics\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
