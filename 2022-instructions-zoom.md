@@ -84,5 +84,4 @@ You will be able to dial in on the Zoom app or on a web browser (without downloa
 
 Dr Chiawei Wang\
 User Researcher\
-PhD Theoretical and Experimental Pragmatics\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
