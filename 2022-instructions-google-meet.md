@@ -54,5 +54,4 @@ You will be able to dial in on a web browser without downloading an app.
 
 Dr Chiawei Wang\
 User Researcher\
-PhD Theoretical and Experimental Pragmatics\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
