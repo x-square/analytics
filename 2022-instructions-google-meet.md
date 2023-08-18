@@ -52,6 +52,6 @@ You will be able to dial in on a web browser without downloading an app.
 
 `Any questions, please reach out`
 
-Dr Chiawei Wang\
+Chiawei Wang, PhD\
 User Researcher\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
