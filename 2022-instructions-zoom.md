@@ -82,6 +82,6 @@ You will be able to dial in on the Zoom app or on a web browser (without downloa
 
 `Any questions, please reach out`
 
-Dr Chiawei Wang\
+Chiawei Wang, PhD\
 User Researcher\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
