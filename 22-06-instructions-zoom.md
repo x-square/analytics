@@ -6,7 +6,7 @@ date-format: "MMMM YYYY"
 format: html
 ---
 
-`This file introduces what to expect when attending remote interviews`
+`This document introduces what to expect when attending remote interviews`
 
 ## Key points
 
