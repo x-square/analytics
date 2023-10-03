@@ -16,6 +16,6 @@ Bias means having unfair feelings or thoughts about something or someone. It can
 
 `Any questions, please reach out`
 
-Chiawei Wang `PhD`\
+Chiawei Wang, PhD\
 User Researcher\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
