@@ -1,7 +1,7 @@
 ---
 title: "Laws of user experience"
 author: "Chiawei Wang"
-date: "November 2023"
+date: "October 2023"
 date-format: "MMMM YYYY"
 format: html
 ---
