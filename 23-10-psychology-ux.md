@@ -144,7 +144,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 
 -   **Peak-end rule** says we remember experiences mainly by how they felt at their most intense moment and how they ended, rather than the whole experience. It shows that these moments have a big impact on our memories.
 
--   **Serial position effect** is about how we remember things in a list. We tend to remember the first and last items better, but the ones in the middle are harder to recall. This is important when trying to remember information or when creating presentations.
+-   **Serial position effect**, also known as the **first and last effect**, is about how we remember things in a list. We tend to remember the first and last items better, but the ones in the middle are harder to recall. This is important when trying to remember information or when creating presentations.
 
 -   **Tesler's law**, also known as the **law of conservation of complexity**, suggests that as you add new features to a design, you should try to simplify or balance the complexity in other parts of the design. In other words, there is a certain amount of complexity that cannot be reduced. This helps ensure that the overall usability and user experience remain good even as a design becomes more feature-rich.
 
@@ -176,7 +176,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 
 -   **Moore's law** says that computer chips get smaller and more powerful every two years. This makes our devices faster and cheaper. It's why technology keeps improving so quickly.
 
--   **Metcalfe's law** says that the more people or devices are in a network, the more valuable it becomes. For example, a social media platform is more useful when more people join because there are more connections and interactions. So, more users make a network much more valuable.
+-   **Metcalfe's law**, also known as **the more the better effect**, says that the more people or devices are in a network, the more valuable it becomes. For example, a social media platform is more useful when more people join because there are more connections and interactions. So, more users make a network much more valuable.
 
 -   **Fogg behavior model** explains why people do things. It says for an action to happen, you need motivation, ability, and a trigger. If any of these is missing or weak, the action won't occur. It's used to design things that make it easier for people to do what you want, like using an app or buying a product.
 
@@ -201,6 +201,10 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 -   **Law of expectation** says that what we expect to happen influences how we see things. For example, if we expect something to be good, we're more likely to notice the good parts and overlook the bad. In user experience design, it's important to match what users expect to create a positive experience.
 
 -   **Law of navigation** is like having clear signs and roads in a city. In a website or app, it means making sure there are easy-to-find menus and buttons so users can quickly go where they want to.
+
+-   **Hofstadter's law** says that things usually take longer than you think, even if you consider that they might take longer. It reminds us that tasks can be more complex and unpredictable than we expect, so we should be ready for delays and challenges in our plans.
+
+-   **Amara's law** suggests that we often overestimate the immediate impact of new technologies and underestimate their long-term effects. In simpler terms, we tend to get too excited about new tech, thinking it will change everything right away, but the real changes take longer to show up and can be significant. So, it's essential to be patient and consider the bigger picture when evaluating new technologies.
 
 `Any questions, please reach out`
 
