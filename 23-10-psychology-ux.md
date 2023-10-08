@@ -6,7 +6,7 @@ date-format: "MMMM YYYY"
 format: html
 ---
 
-`This document introduces how psychology can be applied for better user experience`
+`This document introduces what psychology concepts can be applied for better user experience`
 
 ### Psychology for better user experience
 
@@ -14,7 +14,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 
 ------------------------------------------------------------------------
 
-#### Psychology concepts
+#### Mind and behaviour
 
 -   **Mental model** is like a personal guide in our minds that helps us understand and predict how things work. We build it from what we've experienced and learned. It simplifies complex stuff, making it easier to understand and make decisions about the world around us. It's like our inner map for navigating our surroundings.
 
