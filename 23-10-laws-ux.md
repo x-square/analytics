@@ -1,12 +1,12 @@
 ---
-title: "Laws of user experience"
+title: "Psychology for better user experience"
 author: "Chiawei Wang"
 date: "October 2023"
 date-format: "MMMM YYYY"
 format: html
 ---
 
-`This document introduces the laws of user experience`
+`This document introduces how psychology is applied for better user experience`
 
 `In preparation`
 
