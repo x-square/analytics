@@ -136,7 +136,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 
 -   **Occam's razor** is a problem-solving principle that means when you have several possible explanations for something, the simplest one is usually the right one. It's about choosing the easiest and most straightforward answer that makes sense."
 
--   **Pareto principle**, also known as the **80/20 rule** or **Law of the Vital Few**, is a concept that suggests that roughly 80% of results or effects come from 20% of causes or efforts. In simpler terms, it means that a small portion of your actions or inputs often leads to the majority of your outcomes or results. This principle is used in various contexts, such as business and time management, to focus efforts on the most productive or impactful activities.
+-   **Pareto principle**, also known as the **80/20 rule** or the **law of the vital few**, is a concept that suggests that roughly 80% of results or effects come from 20% of causes or efforts. In simpler terms, it means that a small portion of your actions or inputs often leads to the majority of your outcomes or results. This principle is used in various contexts, such as business and time management, to focus efforts on the most productive or impactful activities.
 
 -   **Parkinson's law** means that work often takes as long as you give it, even if it could be done faster. So, setting reasonable deadlines is important to avoid unnecessary delays.
 
