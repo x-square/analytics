@@ -1,12 +1,12 @@
 ---
-title: "Statistical analysis with R to measure user experience"
+title: "Data analysis using R for quantitative user research"
 author: "Chiawei Wang"
 date: "December 2023"
 date-format: "MMMM YYYY"
 format: html
 ---
 
-`This document introduces how to do statistical analysis with R to measure user experience`
+`This document introduces how to perform data analysis using R for quantitative user research`
 
 `In preparation`
 
