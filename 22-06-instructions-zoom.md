@@ -1,12 +1,12 @@
 ---
-title: "Attending remote interviews via Zoom"
+title: "Attending remote user interviews via Zoom"
 author: "Chiawei Wang"
 date: "June 2022"
 date-format: "MMMM YYYY"
 format: html
 ---
 
-`This document introduces what to expect when attending remote interviews`
+`This document introduces what to expect when attending remote user interviews`
 
 ## Key points
 
