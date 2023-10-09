@@ -138,7 +138,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 
 -   **Pareto principle**, also known as the **80/20 rule** or the **law of the vital few**, is a concept that suggests that roughly 80% of results or effects come from 20% of causes or efforts. In simpler terms, it means that a small portion of your actions or inputs often leads to the majority of your outcomes or results. This principle is used in various contexts, such as business and time management, to focus efforts on the most productive or impactful activities.
 
--   **Parkinson's law** means that work often takes as long as you give it, even if it could be done faster. So, setting reasonable deadlines is important to avoid unnecessary delays.
+-   **Parkinson's law**, also known as the **last-minute effect** means that work often takes as long as you give it, even if it could be done faster. So, setting reasonable deadlines is important to avoid unnecessary delays.
 
 -   **Postel's law**, also known as the **robustness principle**, means that when you send information, be specific and precise, but when you receive information, be flexible and open-minded. It's a guideline for making sure different systems can work together on the internet.
 
