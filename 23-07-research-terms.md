@@ -6,7 +6,7 @@ date-format: "MMMM YYYY"
 format: html
 ---
 
-`This document covers essential user research terms for both researchers and non-researchers`
+`This document covers user research terms for both researchers and non-researchers`
 
 Knowing the terms in user research is important because it allows clear communication, efficient planning and informed decision-making. It helps researchers interpret findings accurately and stay updated with the latest trends. For non-researchers, understanding these terms enables meaningful engagement and contributes to user-centred design, leading to better products and services for users.
 
