@@ -40,6 +40,8 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 
 -   **Paradox of choice** means that when people are given too many options, it can be stressful and confusing for them to make a decision. This concept is applied to avoid overwhelming users. Designers achieve this by carefully selecting a smaller set of choices for users and providing tools to help them filter and decide. This simplifies the decision-making process and leads to a better user experience.
 
+-   **Satisfaction** is a feeling of contentment or fulfilment that arises when one's desires, expectations, or needs are met. It's the sense of pleasure and reassurance you get when you believe that a specific situation, outcome, or experience was positive, worthwhile, or met a particular standard. In essence, satisfaction is a measure of the gap between one's expectations and the reality of a situation. When expectations are met or exceeded, satisfaction typically ensues.
+
 #### User interaction
 
 -   **Consistency** means keeping things in a design uniform and predictable. This includes elements like buttons, fonts, and colours. By doing this, users can expect a familiar and expected experience, making it easier for them to understand and use the product or interface.
