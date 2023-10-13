@@ -1,12 +1,12 @@
 ---
-title: "Data analysis using R for quantitative user research"
+title: "Data analysis using R"
 author: "Chiawei Wang"
 date: "December 2023"
 date-format: "MMMM YYYY"
 format: html
 ---
 
-`This document introduces how to perform data analysis using R for quantitative user research`
+`This document introduces how to perform data analysis using R`
 
 `In preparation`
 
