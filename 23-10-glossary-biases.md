@@ -195,7 +195,7 @@ Statistical bias means that data collection is skewed and can lead to misleading
 
 -   **Selection bias** happens when samples for analysis aren't randomly chosen, making them unrepresentative of the intended population. This can distort statistical analysis and lead to incorrect study conclusions if not considered.
 
--   **Non-response bias** happens when the people who don't answer a survey are different from those who do in a way that matters for the study. Imagine asking kids in a class if they like homework. If only the kids who like homework answer, then the results won't show how the whole class really feels. This can make the survey results misleading.
+-   **Participation bias** or **non-response bias** happens when the people who don't answer a survey are different from those who do in a way that matters for the study. Imagine asking kids in a class if they like homework. If only the kids who like homework answer, then the results won't show how the whole class really feels. This can make the survey results misleading.
 
 ------------------------------------------------------------------------
 
