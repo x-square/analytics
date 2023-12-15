@@ -213,5 +213,5 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 `Any questions, please reach out`
 
 Chiawei Wang, PhD\
-User Researcher\
+Behavioural Scientist\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
