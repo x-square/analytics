@@ -13,5 +13,5 @@ format: html
 `Any questions, please reach out`
 
 Chiawei Wang, PhD\
-User Researcher\
+Behavioural Scientist\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
