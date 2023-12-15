@@ -175,5 +175,5 @@ This type of research focuses on assessing and judging the effectiveness and imp
 `Any questions, please reach out`
 
 Chiawei Wang, PhD\
-User Researcher\
+Behavioural Scientist\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
