@@ -53,5 +53,5 @@ You will be able to dial in on a web browser without downloading an app.
 `Any questions, please reach out`
 
 Chiawei Wang, PhD\
-Behavioural Scientist\
+Behavioural Data Scientist\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
