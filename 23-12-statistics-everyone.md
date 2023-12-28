@@ -1,7 +1,7 @@
 ---
 title: "Statistics for everyone"
 author: "Chiawei Wang"
-date: "December 2023"
+date: "February 2024"
 date-format: "MMMM YYYY"
 format: html
 ---
@@ -13,5 +13,5 @@ format: html
 `Any questions, please reach out`
 
 Chiawei Wang, PhD\
-Behavioural Scientist\
+Behavioural Data Scientist\
 [ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
