@@ -4,6 +4,9 @@ author: "Chiawei Wang"
 date: "June 2022"
 date-format: "MMMM YYYY"
 format: html
+number-sections: true
+toc: true
+toc-location: left
 ---
 
 `This document introduces what to expect when attending remote user interviews`
@@ -54,4 +57,4 @@ You will be able to dial in on a web browser without downloading an app.
 
 Chiawei Wang, PhD\
 Behavioural Data Scientist\
-[ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
+[chw.wng\@outlook.com](mailto:ch.wng@outlook.com)
