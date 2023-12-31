@@ -4,9 +4,14 @@ author: "Chiawei Wang"
 date: "January 2024"
 date-format: "MMMM YYYY"
 format: html
+toc: true
+toc-location: left
+number-sections: true
 ---
 
-`This document compiles information from Google Data Analytics`
+`This document compiles information from Google Data Analytics`[^1]
+
+[^1]: [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job.
 
 Data analytics is the collection, transformation and organization of data in order to draw conclusions, make predictions and drive informed decision making.
 
@@ -23,7 +28,7 @@ Analysts use data-driven decision-making and follow a step-by-step process:
 5.  **Share** data with your audience
 6.  **Act** on the data and use the analysis results
 
-![Data analysis process](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/1SGUPX1MSv6hlD19TDr-og_c73fbb7c8c87419cb4a705b4eff51dee_Screen-Shot-2021-03-17-at-5.38.27-PM.png?expiry=1703980800000&hmac=1aENoHwECEwBr67V-pJ0wQEoKQBHUUOI91jUr1zncLM)
+![Data analysis process](https://github.com/x-square/images/blob/main/data-analysis-process.png?raw=true)
 
 ### SQL (structured query language)
 
@@ -33,7 +38,7 @@ SQL is designed for managing and manipulating relational databases. It is used f
 -   **FROM** to choose the tables where the columns you want are located
 -   **WHERE** to filter for certain information
 
-![Example of SQL syntax](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ecPw3J_NQcmD8NyfzRHJUw_5120dcd87b99400cb7f4a9014439ee18_Screen-Shot-2020-11-11-at-4.29.06-PM.png?expiry=1703980800000&hmac=LNHqATW8VivM6WscEbfh3y3MQaFFB1-Lxy_uLhuHmxk)
+![Example of SQL syntax](https://github.com/x-square/images/blob/main/sql-syntax.png?raw=true)
 
 BigQuery is Google's fully managed, serverless data warehouse that works across clouds and enables scalable analysis. It supports querying using a dialect of SQL.
 
@@ -43,7 +48,7 @@ BigQuery is Google's fully managed, serverless data warehouse that works across 
 
 Data analytics is so much more than just plugging information into a platform to find insights. It is about solving problems. To get to the root of these problems and find practical solutions, there are lots of opportunities for creative thinking. No matter the problem, the first and most important step is understanding it.
 
-![Analysts typically work with six problem types](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/QJL2lG1VQxWS9pRtVTMVTw_6217c9fe51ec43f48f02dc4f42cc1d56_Screen-Shot-2020-12-09-at-10.17.12-PM.png?expiry=1703980800000&hmac=LON7Hkmf-xG-2PlbWOhnf3tUe6ASYR-o0IHxofvjMkQ)
+![Analysts typically work with six problem types](https://github.com/x-square/images/blob/main/six-problem-types.png?raw=true)
 
 Examples are summarized below for review:
 
@@ -77,7 +82,7 @@ Companies in lots of industries today are dealing with rapid change and rising u
 
 No matter how much information you have or how advanced your tools are, your data won't tell you much if you don't start with the right questions. Think of it like a detective with tons of evidence who doesn't ask a key suspect about it.
 
-![Examples of SMART questions](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/YFin0nVBQQyYp9J1QfEMPA_5938fab12a0e4b76a479cef2a8fb4af1_Screen-Shot-2021-06-24-at-1.23.25-PM.png?expiry=1703980800000&hmac=f1VncWYETVBIpDZ0Z4MQQbUyjD65s7q5GGUFRsEX7xc)
+![Examples of SMART questions](https://github.com/x-square/images/blob/main/smart-questions.png?raw=true)
 
 ### Qualitative and quantitative data in business
 
@@ -132,13 +137,13 @@ Data is powerful, but it has its limitations. Has someone's personal opinion fou
 
 ### Leading great meetings
 
-![Example of agenda](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Il-6RShbRaKfukUoW1Wi7Q_46e361d8d3ed42f89ed9d908e795c9a0_Screen-Shot-2020-12-09-at-11.47.11-AM.png?expiry=1704067200000&hmac=vgzVUPhkCfxukk9si86rLtNnlYyGPYueu7YjwnSPiI4)
+![Example of meeting agenda](https://github.com/x-square/images/blob/main/meeting-agenda.png?raw=true)
 
 ## Prepare data for exploration
 
 ### Selecting the right data
 
-![Use the flowchart if data collection relies heavily on how much time you have](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/5TyGAFZrRi28hgBWa-Ytcg_a723a1a4d78b42e1bcb6ddd2178adc42_Screen-Shot-2020-12-14-at-2.19.22-PM.png?expiry=1704067200000&hmac=K9NcoK4lBTj0-mmZzzTQ_2JI8Q1-xmndsc0d8__ywYk)
+![How to collect the right data?](https://github.com/x-square/images/blob/main/data-collection-considerations.png?raw=true)
 
 ### Data modelling levels and techniques
 
@@ -146,9 +151,9 @@ Data modelling is the process of creating diagrams that visually represent how d
 
 There are a lot of approaches when it comes to developing data models, but two common methods are the **Entity Relationship Diagram** (ERD) and the **Unified Modelling Language** (UML) diagram. ERDs are a visual way to understand the relationship between entities in the data model. UML diagrams are very detailed diagrams that describe the structure of a system by showing the system's entities, attributes, operations, and their relationships. As a junior data analyst, you will need to understand that there are different data modelling techniques, but in practice, you will probably be using your organization's existing technique.
 
-![Example of ERD](https://dataedo.com/asset/img/blog/dataedo_sample_erd.png)
+![Example of ERD](https://github.com/x-square/images/blob/main/erd-diagram.png?raw=true)
 
-![Example of UML](https://dataedo.com/asset/img/blog/uml_class_diagram.png)
+![Example of UML](https://github.com/x-square/images/blob/main/uml-diagram.png?raw=true)
 
 ### Understanding Boolean logic
 
@@ -178,7 +183,7 @@ By contrast, a **foreign key** is a field within a table that is a primary key i
 
 Some tables don't require a primary key. For example, a revenue table can have multiple foreign keys and not have a primary key. A primary key may also be constructed using multiple columns of a table. This type of primary key is called a composite key. For example, if customer_id and location_id are two columns of a **composite key** for a customer table, the values assigned to those fields in any given row must be unique within the entire table.
 
-![Example of database keys](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/syB_f3KVRrOgf39ylaaznA_45b04edc1ba243d8b5b6d869c61a21f1_Screenshot-2021-04-29-5.11.22-PM.png?expiry=1704067200000&hmac=XMxRmBYpyb0MpuY8ILiM0Cgbzv7qv7CafC59hYoTXJM)
+![Example of database keys](https://github.com/x-square/images/blob/main/database-keys.png?raw=true)
 
 ## Process data from dirty to clean
 
@@ -192,14 +197,14 @@ Imagine account managers at Impress Me, an online content subscription service, 
 
 To start off, the data analyst verifies that the data exported to spreadsheets is clean and confirms that the data needed (when users access content) is available. Knowing this, the analyst decides there is good alignment of the data to the business objective. All that is missing is figuring out exactly how long it takes each user to view content after their subscription has been activated.
 
-![Relevant data in spreadsheet](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/jV8hcatCTq2fIXGrQr6ttw_b4f3452496b543bd9e46716485d5175e_Screen-Shot-2021-01-18-at-6.41.56-PM.png?expiry=1704067200000&hmac=xQW0rZsBUEQ4j5T8ULkmXOqmpD8BqR9udISFDHDJ9L0)
+![Example of relevant data in spreadsheet](https://github.com/x-square/images/blob/main/data-spreadsheet.png?raw=true)
 
 #### Business case B
 
 Imagine Cloud Gate, a software company, recently hosted a series of public webinars as free product introductions. The data analyst and webinar program manager want to identify companies that had five or more people attend these sessions. They want to give this list of companies to sales managers who can follow up for potential sales.
 
 | **Name**          | **Research methods** | **Additional information**                   |
-|-------------------|-------------------|------------------------------------|
+|-------------------|-------------------|----------------------------------|
 | **Email Address** | xxxxx\@company.com   | Required information attendees had to submit |
 | **Company**       | \<company name\>     | Optional information attendees could provide |
 
@@ -225,12 +230,12 @@ After looking at the data, the data analyst discovers that there are **other var
 
 When you are getting ready for data analysis, you might realize you don't have the data you need or you don't have enough of it. In some cases, you can use what is known as proxy data in place of the real data. Think of it like substituting oil for butter in a recipe when you don't have butter. In other cases, there is no reasonable substitute and your only option is to collect more data.
 
-![Decision tree of how to deal with data errors or not enough data](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/nubavN6IS5mm2rzeiFuZgw_1204106238b34cff9a89859772cdfaa1_Screen-Shot-2021-03-05-at-10.36.19-AM.png?expiry=1704067200000&hmac=-7r9J_5O6H9cx9e4M6pKjRuBFU2We1FSdcIFKXob2pA)
+![Decision tree of how to deal with data errors or not enough data](https://github.com/x-square/images/blob/main/data-errors-not-enough.png?raw=true)
 
 ### Calculating sample size
 
 | **Terminology**              | **Definitions**                                                                                                                                                                                                                                                                                                                                                                      |
-|------------------|------------------------------------------------------|
+|-------------------------|----------------------------------------------|
 | **Population**               | The entire group that you are interested in for your study. For example, if you are surveying people in your company, the population would be all the employees in your company.                                                                                                                                                                                                     |
 | **Sample**                   | A subset of your population. Just like a food sample, it is called a sample because it is only a taste. So if your company is too large to survey every individual, you can survey a representative sample of your population.                                                                                                                                                       |
 | **Margin of error**          | Since a sample is used to represent a population, the sample’s results are expected to differ from what the result would have been if you had surveyed the entire population. This difference is called the margin of error. The smaller the margin of error, the closer the results of the sample are to what the result would have been if you had surveyed the entire population. |
@@ -265,7 +270,7 @@ Does that mean subject line A is better than subject line B? It depends on your 
 
 ### What is dirty data?
 
-![Types of dirty data](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/apsqUaUcTWabKlGlHK1mGw_2d181a03a4c6408aa1b7be625c6f9c97_Screen-Shot-2021-01-24-at-11.51.49-PM.png?expiry=1704067200000&hmac=3JzK6l2QPKr2vUO-p7froqVp8FEOQwxe_K7L8eXy0xs)
+![Types of dirty data](https://github.com/x-square/images/blob/main/dirty-data.png?raw=true)
 
 #### Business impact of dirty data
 
@@ -278,12 +283,12 @@ Here are a few impacts cited for certain industries from a previous search:
 
 ### [Common data-cleaning pitfalls](https://www.coursera.org/learn/process-data/supplement/m3iWu/common-data-cleaning-pitfalls)
 
-![Errors you might come across while cleaning your data](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xKinzzFmTkKop88xZs5C2Q_5da922d4cbd349e7aeb60ace3e18393a_Screen-Shot-2021-01-18-at-8.03.48-PM.png?expiry=1704067200000&hmac=AvLMh8W0tpuOwWri5SNdvf45qrVzWCurBQukxuWwyUM)
+![Errors you might come across while cleaning your data](https://github.com/x-square/images/blob/main/data-cleaning-errors.png?raw=true)
 
 ### Workflow automation
 
 | **Task**                                      | **Can it be automated?** | **Why?**                                                                                                                                                                                                                                                                                                          |
-|----------------|----------------|---------------------------------------|
+|-------------------|-------------------|----------------------------------|
 | Communicating with your team and stakeholders | No                       | Communication is key to understanding the needs of your team and stakeholders as you complete the tasks you are working on. There is no replacement for person-to-person communications.                                                                                                                          |
 | Presenting your findings                      | No                       | Presenting your data is a big part of your job as a data analyst. Making data accessible and understandable to stakeholders and creating data visualizations can’t be automated for the same reasons that communications can’t be automated.                                                                      |
 | Preparing and cleaning data                   | Partially                | Some tasks in data preparation and cleaning can be automated by setting up specific processes, like using a programming script to automatically detect missing values.                                                                                                                                            |
@@ -296,11 +301,11 @@ Here are a few impacts cited for certain industries from a previous search:
 
 Engineers use **engineering change orders** to keep track of new product design details and proposed changes to existing products. Writers use document revision histories to keep track of changes to document flow and edits. And data analysts use changelogs to keep track of data transformation and cleaning.
 
-![Changelogs](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/pr6P4pdeTFi-j-KXXhxY5w_2b7d8a3b5343431c9a50d00357b92e25_Screen-Shot-2021-01-25-at-1.56.25-PM.png?expiry=1704067200000&hmac=KH1Upi2ep55TJSJOCXSm9wDoM-2Ia4aVbQH1_n1oQug)
+![Example of changelogs](https://github.com/x-square/images/blob/main/changelogs.png?raw=true)
 
 ### [Adding softs skills to your resume](https://www.coursera.org/learn/process-data/supplement/U8xZj/adding-softs-skills-to-your-resume)
 
-![Most common soft skills you will find in an entry-level data analyst resume](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/PjtlXxgvTl67ZV8YL15eZA_7980b0b8f6314e7ba63c0c997ae808b1_Screen-Shot-2021-01-22-at-6.16.12-PM.png?expiry=1704067200000&hmac=sBIX9n9ZvgKdd8w6jyjl4YktZ8_18gsE_win-abUV-c)
+![Common soft skills you will find in an entry-level data analyst resume](https://github.com/x-square/images/blob/main/data-analyst-soft-skills.png?raw=true)
 
 ## Analyze data to answer questions
 
@@ -346,7 +351,7 @@ Correlation in statistics is the measure of the degree to which two variables mo
 
 Causation refers to the idea that an event leads to a specific outcome. For example, when lightning strikes, we hear the thunder (sound wave) caused by the air heating and cooling from the lightning strike. Lightning causes thunder.
 
-![Examples of correlation and causation](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/vSdSBR13Sk6nUgUdd8pO_A_21e08b21d16f4bc6b28a7db5f1d58115_Screen-Shot-2021-02-26-at-5.54.00-PM.png?expiry=1704067200000&hmac=m9Ubp81i5iAo-T11a8m4hSVm6d0w1nOPuCjudS9M8kA)
+![Examples of correlation and causation](https://github.com/x-square/images/blob/main/correlation-causation.png?raw=true)
 
 ### [The wonderful world of visualizations](https://www.coursera.org/learn/visualize-data/supplement/j9Wdl/the-wonderful-world-of-visualizations)
 
@@ -362,11 +367,132 @@ Meaningful patterns can take many forms, such as:
 
 A decision tree is a decision-making tool that allows you, the data analyst, to make decisions based on key questions that you can ask yourself. Each question in the visualization decision tree will help you make a decision about critical features for your visualization. Below is an example of a basic decision tree to guide you towards making a data-driven decision about which visualization is the best way to tell your story. Please note that there are many different types of decision trees that vary in complexity, and can provide more in-depth decisions.
 
-![Example of decision tree](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/iV-otJ4pQCafqLSeKZAmjg_9519536f4aa94268af3600263793b237_Screen-Shot-2021-02-23-at-4.21.13-PM.png?expiry=1704067200000&hmac=1XUlv3v_ourg9XTgeMNICrEmUSXmse2J_jnPkCOezYY)
+![Best way to represent data](https://github.com/x-square/images/blob/main/data-dicision-tree.png?raw=true)
 
 ### [Principles of design](https://www.coursera.org/learn/visualize-data/supplement/Ijxn6/principles-of-design)
 
-![Nine basic principles of design](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mn0oQGvPS2K9KEBrz8tidQ_a674eeba5224451db6df1c973e41d44b_Screen-Shot-2021-02-26-at-3.20.16-PM.png?expiry=1704067200000&hmac=-XyYSyo9L72-met39lTbjjL7wNeHpJF40nSRxvpUqn4)
+![Nine principles of design](https://github.com/x-square/images/blob/main/nine-design-principles.png?raw=true)
+
+## Foundations of data science[^2]
+
+[^2]: This part of notes is compiled from [Google Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics). This program includes over 200 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world advanced data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in advanced data analytics and data science. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to advanced data analytics tools and platforms and key technical skills required for an advanced role.
+
+### PACE stages
+
+As a general rule, data professionals rely on workflow structures to guide them through the duration of data projects. Within a large-scale project, there can be a number of tasks that require a certain order of operations. Identifying complexities and finding consistent ways to work together can make projects more efficient and enable more productive communication. Identifying these and other types of potential blockers early can help you plan and prepare resources in advance before they can negatively affect a project.
+
+Data professionals at Google developed PACE as a flexible model. Through PACE, you will identify areas of action and contexts for when they will need to be considered. All in all, PACE offers professionals a customizable scaffold that can support their efforts while working through every stage of a data project.
+
+![Pace model](https://github.com/x-square/images/blob/main/pace-model.png?raw=true)
+
+Let’s take a closer look at each stage of the PACE model.
+
+#### Plan
+
+At the beginning of a project, it is important to establish a solid foundation for success. Here you will define the scope of your project. This is when you will begin by identifying the informational needs of the organization. During the planning stage, you will have the widest viewpoint of a project. By assessing all of the factors and processes involved, you are mapping a path to completion, using your creativity to conceptualize a course of action. Here you will also take special note of tasks that may require an innovative approach within your workflow.
+
+The planning stage is where you conceptualize the scope of the project and develop the steps that will guide you through the process of completing a project. Here are a few examples of the types of planning stage tasks:
+
+-   Research business data
+-   Define the project scope
+-   Develop a workflow
+-   Assess project and or stakeholder needs
+
+#### Analyze
+
+In the analyzing stage, you will interact with the data for the first time. Here you will acquire all of the data you will need for the project. Some datasets could come from primary sources within your organization. Others may need to be collected from secondary sources outside your company. You may even find that you need governmental or open source data. The analyzing stage is also where you will engage in exploratory data analysis or EDA. This involves cleaning, reorganizing and analyzing all of the necessary data for the project.
+
+The analyzing stage is where you will collect, prepare, and analyze all of the data for your project. Here are a few examples of the types of analyzing stage tasks:
+
+-   Format database
+-   Scrub data
+-   Convert data into usable formats
+
+#### Construct
+
+Just as the name suggests, the construction stage is all about building. In this stage of PACE, you will be building, interpreting, and revising models. Some projects will require machine learning algorithms to uncover correlations within your data. You will use these correlations to uncover information from the data that would otherwise go unused. These relationships can help your organization make informed decisions about the future.
+
+In the construction stage you will build models that will allow you access to hidden relationships locked within data. Here are a few examples of the types of construction stage tasks:
+
+-   Select modeling approach
+-   Build models
+-   Build machine learning algorithms
+
+#### Execute
+
+In the execution stage, you will put your analysis and construction into action. Here you will deliver your findings to the internal (inside of your organization) and external (outside of your organization) stakeholders. Quite often, this will involve stakeholders from the business-side of the companies you are working with. Presenting your findings is only a part of the execution stage. Stakeholders will provide feedback, ask questions, and make recommendations that you will collect and incorporate.
+
+In the execution stage you will present the finding of your analysis, receive feedback, and make revisions as necessary. Here are a few examples of the types of execution stage tasks:
+
+-   Share results
+-   Present findings to other stakeholders
+-   Address feedback
+
+### Communicate objectives with a project proposal
+
+A project proposal can provide the structure and communication needed for tracking tasks. In addition, project proposals are beneficial for teams when facing challenges that require a high degree of flexibility. As projects progress, the expectations, resources, or even team members can change. This will require adjustments within a project that can impact the overall workflow and delivery date.
+
+Each project proposal contains important information that a team will need to consider before work begins. Below is a brief explanation of some common sections you will find in project proposals. Note that the format of project proposals will vary, so not every section described here will be included in every project proposal.
+
+#### Project title
+
+The title of the project is prominent, usually placed near the top of a document. Effective titles are brief and purposeful. Depending on the context and circumstances surrounding a project, the title can change over time.
+
+#### Project objective
+
+The objective statement is a one to three sentence explanation of what the project is trying to achieve.
+
+#### Milestones
+
+Milestones are groupings of tasks within a project, breaking the work needed into smaller, manageable goals. Milestones assist in the delegation and scheduling of work that needs to be completed within projects. The milestones in the provided example are representative of future end-of-course projects.
+
+#### Tasks
+
+Tasks detail the work that needs to be completed within a milestone. The tasks in the provided example parallel some of the work you will complete in upcoming end-of-course projects.
+
+#### Outcomes
+
+Outcomes are the completed actions or results that allow a project to continue.
+
+#### Deliverables
+
+Deliverables are items that can be shared amongst team members or with stakeholders. These are the end products of work undertaken for a project.
+
+#### Stakeholders
+
+The individuals or groups who are directly involved and have a vested interest in the success of a project. Input from stakeholders can serve as a basis for making decisions throughout a project.
+
+#### Estimated time
+
+At the beginning of a project, the time needed to complete milestones is estimated. As a project develops, these estimates will often need to be updated to account for adjustments to timelines or changes in team members.
+
+### Connect PACE with executive summaries
+
+Executive summaries are documents that summarize the most important points about a project, giving decision makers a brief overview of the most relevant information. They can also be used to help new team members quickly become acquainted with a project. The format is designed to respect the responsibilities of decision makers and or executives who may not have time to read and understand an entire report.
+
+Executive summaries are used across numerous industries and organizations. There are many ways to present information within an executive summary, including software options built specifically for that purpose. In this program, you will primarily consider a one-page format within a presentation slide. Although the design and layout of executive summaries can vary, there are key elements that are common among them.
+
+Executive summaries are used across a wide variety of businesses and typically include the following elements:
+
+#### Project title
+
+A project's theme is incorporated into the executive summary title to create an immediate connection with the target audience.
+
+#### Problem
+
+A statement that focuses on the need or concern being targeted or addressed by the project. Note that the problem can also be referred to as the hypothesis that you’re trying to prove through data analysis.
+
+#### Solution
+
+This statement summarizes a project’s main goal. In this section, actions are described that address the concerns outlined in the problem statement.
+
+#### Details or key insights
+
+The purpose of this section is to provide any additional background information that may assist the target audience in understanding the project's objectives. Determining what details to include depends on the intended audience.
+
+#### Next steps or recommendations
+
+Information that supports the actions the team plans to take. This can also include recommendations for decision makers based on the insights gained over the course of the project. In this section, a data professional may also include general project reflections. When you are adding to this section, include at least one point for recommendations and one for the suggested next steps.
 
 `Any questions, please reach out`
 
