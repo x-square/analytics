@@ -4,21 +4,22 @@ author: "Chiawei Wang"
 date: "October 2023"
 date-format: "MMMM YYYY"
 format: html
+toc: true
+toc-location: left
+number-sections: true
 ---
 
 `This document provides a glossary of biases`
 
-### What is bias?
+## What is bias?
 
 Bias means having unfair feelings or thoughts about something or someone. It can be because we don't like or trust them, even without a good reason. Bias can also happen in science when mistakes are made that affect the results. It's important to be fair and accurate.
 
-------------------------------------------------------------------------
-
-### Cognitive biases
+## Cognitive biases
 
 Cognitive bias is when our thinking goes off track, leading to mistakes or illogical judgments. It happens because we see the world based on our own perspective, which can influence our actions. These biases can cause us to see things wrongly or make decisions that don't make sense. Some biases can be helpful in specific situations, while others result from our limits in processing information.
 
-#### Belief, decision-making and behavioural
+### Belief, decision-making and behavioural
 
 -   **Anchoring effect** is when our decisions are influenced by a starting point, even if it's not related. For example, if you see an expensive car next to a cheaper one, you might think the cheaper one is a good deal. It's like using the first and last things you see to judge everything in between.
     -   **Common source bias** is a problem in research when we get information about both the things we're studying and the people we're studying from the same group. This can happen in surveys, experiments, and studies. It's a big worry because it can make our results not trustworthy. It's especially common in public administration research, where it can lead to wrong conclusions about how well an organisation is doing.
@@ -120,7 +121,7 @@ Cognitive bias is when our thinking goes off track, leading to mistakes or illog
     -   **Rhyme-as-reason effect** is when people think a saying is truer if it rhymes. In experiments, people rated rhyming sayings as more accurate than non-rhyming ones, even when the meaning was the same. This might happen because we like things that sound good (Keats heuristic) or are easy to understand (fluency heuristic).
     -   **Subjective validation** is when people believe something is true because it's personally meaningful to them, even if there's no real connection. It's like interpreting vague horoscopes as accurate because they align with one's self-image, leading to biased beliefs and actions.
 
-#### Social
+### Social
 
 -   **Association fallacy** is a mistake in logic where it's assumed that if two things belong to the same group, they must share the same properties. For instance, thinking all animals are dangerous because some are. When it's used to make people dislike something by linking it to something they already dislike, it's called guilt by association. It's like saying your dog is dangerous just because it's an animal, exploiting people's existing dislike of animals.
     -   **Authority bias** is when people give more weight to the opinion of an authority figure, regardless of what they're saying. People tend to obey and believe authority figures because they're seen as credible. This bias is linked to our natural inclination to respect authority, and it can vary between cultures. For example, in Eastern Europe, this bias is stronger than in Western Europe.
@@ -153,7 +154,7 @@ Cognitive bias is when our thinking goes off track, leading to mistakes or illog
     -   **Out-group homogeneity effect** is when people think those in another group are more alike, while those in their own group are seen as more diverse. This can lead to stereotypes about the other group, assuming they all share the same traits. It happens when people have limited exposure to the other group and don't have personal experiences with their diversity. Researchers study this in situations involving conflicts, prejudice, and stereotypes to learn how it affects social interactions.
     -   **Cultural bias** is when people judge things based on their own culture's standards. It can be a problem in social and human sciences. Some experts in these fields try to find ways to avoid cultural bias. It happens when people assume that their culture's way of doing things is the only right way. This can affect things like language, justice, and how they see evidence and taboos.
 
-#### Memory
+### Memory
 
 -   **Misattribution of memory** happens when you mix up where a memory comes from. It often occurs when you can't control your feelings while remembering things. There are three types: cryptomnesia (forgetting the source), false memories (remembering things that didn't happen), and source confusion (mixing up where a memory came from). This was part of Daniel Schacter's study on memory errors.
     -   **Cryptomnesia** is when a forgotten memory comes back, but you don't realise it's from the past. You might think it's a new idea, but it's actually something you remembered but forgot where it came from. It's like unintentional plagiarism of your own memory.
@@ -163,9 +164,7 @@ Cognitive bias is when our thinking goes off track, leading to mistakes or illog
     -   **Suggestibility** is when someone easily accepts and acts on suggestions from others, even if those suggestions are false. It can make people remember things differently because they've been told something repeatedly. People with strong emotions are more susceptible to this. Suggestibility generally decreases with age, but individual self-esteem and assertiveness levels can make some more suggestible than others.
     -   **Perky Effect** occurs when actual images can impact imagined ones, or when real images are mistakenly recalled as imagined instead of real.
 
-------------------------------------------------------------------------
-
-### Conflicts of interest
+## Conflicts of interest
 
 A conflict of interest occurs when someone or a group has interests that overlap, like financial or personal ones, which could lead to corruption. This conflict can exist even before any wrongdoing occurs and should be addressed to prevent bias in decisions. It's when there's a risk that personal interests might unduly influence professional judgments or actions related to their main responsibilities.
 
@@ -176,9 +175,7 @@ A conflict of interest occurs when someone or a group has interests that overlap
 -   **Regulatory capture** is a type of corruption. It happens when a government agency, meant to protect the public, starts favouring big businesses or special interest groups. This happens because these groups put a lot of effort into getting the rules they want, while regular people often don't pay much attention. It's a risk for any regulatory agency.
 -   **Shill** is someone who secretly promotes a person or group without revealing their connection. They can be found in media, marketing or politics. Shills often pretend to be enthusiastic supporters to influence others. They may work with salespeople or marketing campaigns. Shilling is against the law in many cases because it can lead to fraud. But sometimes, when it doesn't harm anyone, it's allowed, like when someone in the audience laughs or participates in a show as part of the act.
 
-------------------------------------------------------------------------
-
-### Statistical biases
+## Statistical biases
 
 Statistical bias means that data collection is skewed and can lead to misleading results. It happens due to how samples are chosen or data is collected, causing the results to differ from the true value being estimated.
 
@@ -188,18 +185,16 @@ Statistical bias means that data collection is skewed and can lead to misleading
 -   **Selection bias** happens when samples for analysis aren't randomly chosen, making them unrepresentative of the intended population. This can distort statistical analysis and lead to incorrect study conclusions if not considered.
 -   **Participation bias** or **non-response bias** happens when the people who don't answer a survey are different from those who do in a way that matters for the study. Imagine asking kids in a class if they like homework. If only the kids who like homework answer, then the results won't show how the whole class really feels. This can make the survey results misleading.
 
-------------------------------------------------------------------------
-
-### Prejudices
+## Prejudices
 
 Bias and prejudice are closely linked. Prejudice is forming opinions about someone before knowing the facts, often based on characteristics like gender, age, or race. It can also involve holding irrational beliefs or unreasonable attitudes that are hard to change.
 
-#### Forms
+### Forms
 
 -   **Institutional discrimination** is when society or institutions treat certain groups unfairly due to their gender, caste, race, ethnicity, religion, or socio-economic status. It happens through unfair policies, laws, and procedures within institutions.
 -   **Structural discrimination** also known as **systemic discrimination** is when certain groups face unequal opportunities and outcomes due to their characteristics like race or gender within a society's institutions. It's not always intentional but is built into policies and practices. It's rooted in historical inequalities and affects areas like education, employment, housing, and justice. Efforts to address it focus on systemic factors causing these disparities.
 
-#### Attributes
+### Attributes
 
 -   **Lookism** is when people are unfairly treated because they're considered unattractive. This happens in dating, social situations, and workplaces. Lookism doesn't get as much attention as racism or sexism, and it often lacks legal protection. But it still affects people's chances of dating, jobs, and more. Good-looking people tend to be seen more positively, with benefits in friendships, social skills, and even their love lives.
 -   **Sizeism** is discrimination based on body size or weight. It involves unfair treatment, stereotypes, and biases against people perceived as overweight or underweight. Sizeism affects areas like employment, healthcare, media representation, and social interactions, leading to body shaming and unequal opportunities. This form of discrimination can harm physical and mental health.
@@ -222,13 +217,11 @@ Bias and prejudice are closely linked. Prejudice is forming opinions about someo
 -   **Sanism** is when people face discrimination or oppression because others think they have a mental disorder or cognitive issues. This happens because of stereotypes about neurodiversity. Sanism can show up in many ways, like unfair treatment, insults, or even clear discrimination. It affects those with conditions like autism, ADHD, and more. It's not just about how the public treats them. It also happens in mental health care, the legal system, and other places.
 -   **Multiculturalism** is a social and political ideology that promotes the coexistence of diverse cultural groups within a single society. It encourages respect for different cultural backgrounds, traditions, and values. Multiculturalism aims to create inclusive and harmonious societies where people of various ethnicities, religions, and backgrounds can live together, contributing to the richness of the overall culture.
 
-------------------------------------------------------------------------
-
-### Contextual biases
+## Contextual biases
 
 Contextual biases are biases influenced by the situation. They lead to judgments not solely based on facts but shaped by circumstances, surroundings, or social factors. These biases affect decisions, perceptions, and behaviour, often unconsciously. Recognising and addressing them is crucial for fairness and objectivity in areas like hiring, education, and social interactions.
 
-#### Academia
+### Academia
 
 -   **Academic bias** is when scholars let their beliefs influence their research and the scientific community. Some people claim there's bias against political conservatives and Christians in academia, but others say this is based on anecdotal evidence and that it might be because conservatives are less likely to pursue academic careers. Classroom bias may also be linked to issues like sexuality, race, class, and gender, not just religion.
 -   **Experimenter bias** in science research happens when the expectations of the researchers affect the study's results. This can include unintentional influences on how study subjects behave and how the researchers record the results.
@@ -239,7 +232,7 @@ Contextual biases are biases influenced by the situation. They lead to judgments
 -   **Inductive bias** in machine learning refers to the set of assumptions and preferences that a learning algorithm uses to make predictions about new data it hasn't seen before. These assumptions guide the algorithm in forming hypotheses or predictions. For example, Occam's Razor, a common inductive bias, suggests that simpler explanations are preferred over complex ones. Inductive bias helps the algorithm generalise from the training data to make accurate predictions on unseen data.
 -   **Algorithmic bias** is when computer algorithms produce unfair or discriminatory outcomes due to biased training data or design. This bias can affect areas like hiring, lending, and criminal justice. It's essential to address this to ensure fairness and prevent discrimination in automated decision systems, promoting equity and equal opportunities for all.
 
-#### Law enforcement
+### Law enforcement
 
 -   **Driving while black** refers to racial profiling of African-American drivers, suggesting they may be stopped by police due to racial bias rather than a valid traffic violation. It plays on the phrase driving while intoxicated.
 -   **Racial profiling** is when someone is suspected or targeted because of their race, rather than individual suspicion or evidence. It's often associated with law enforcement and can lead to discrimination against minority groups.
@@ -248,7 +241,7 @@ Contextual biases are biases influenced by the situation. They lead to judgments
 -   **Match-fixing** is when someone manipulates the outcome of a sports match, game, or event to ensure a specific result, usually for financial gain. This unethical practice can involve players, officials, or others involved in the sport, and it undermines the fairness and integrity of the competition. Match-fixing is widely condemned and illegal in most sports and countries, with severe penalties for those involved.
 -   **Spot-fixing** is a form of corruption in sports, particularly in cricket and some other sports, where individuals manipulate specific aspects of a game rather than the overall result. It typically involves betting on or arranging events within the game, such as the timing of no-balls or wides in cricket, without necessarily altering the final outcome of the match.
 
-#### Media
+### Media
 
 -   **Media bias** refers to the tendency of news organisations to favour particular perspectives, ideologies, or political views in their reporting. This bias can impact the way news stories are framed, the selection of sources, and the overall tone of coverage. It can be intentional or unintentional and may affect public perception of issues and events. It's crucial for consumers of news to be aware of potential bias and seek diverse sources for a well-rounded understanding of current events.
 -   **Media manipulation** involves using various techniques to create a biased image or argument that serves a specific agenda. These tactics can include logical fallacies, deception, propaganda, and the suppression of opposing views. It's used in fields like public relations and marketing. While the goals may differ, the methods often involve distracting the public to control their perception.
@@ -260,4 +253,4 @@ Contextual biases are biases influenced by the situation. They lead to judgments
 
 Chiawei Wang, PhD\
 Behavioural Data Scientist\
-[ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
+[chw.wng\@outlook.com](mailto:ch.wng@outlook.com)
