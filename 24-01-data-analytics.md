@@ -15,7 +15,7 @@ number-sections: true
 
 Data analytics is the collection, transformation and organization of data in order to draw conclusions, make predictions and drive informed decision making.
 
-## Foundations: Data, data, everywhere
+## Foundations of data analytics
 
 ### Six data analysis phases
 
@@ -30,9 +30,9 @@ Analysts use data-driven decision-making and follow a step-by-step process:
 
 ![Data analysis process](https://github.com/x-square/images/blob/main/data-analysis-process.png?raw=true)
 
-### SQL (structured query language)
+### SQL
 
-SQL is designed for managing and manipulating relational databases. It is used for tasks such as querying data, updating records, inserting new data and deleting information from databases.
+SQL (structured query language) is designed for managing and manipulating relational databases. It is used for tasks such as querying data, updating records, inserting new data and deleting information from databases.
 
 -   **SELECT** to choose the columns you want to return
 -   **FROM** to choose the tables where the columns you want are located
@@ -248,8 +248,8 @@ When you are getting ready for data analysis, you might realize you don't have t
 When figuring out a sample size, here are things to keep in mind:
 
 -   Don't use a sample size less than 30. It has been statistically proven that 30 is the smallest sample size where an average result of a sample starts to represent the average result of a population.
-    -   This recommendation is based on the **Central Limit Theorem** (CLT) in the field of probability and statistics. As sample size increases, the results more closely resemble the normal (bell-shaped) distribution from a large number of samples.
-    -   A sample of 30 is the smallest sample size for which the CLT is still valid. Researchers who rely on **regression analysis** – statistical methods to determine the relationships between controlled and dependent variables – also prefer a minimum sample of 30.
+    -   This recommendation is based on the **Central Limit Theorem** in the field of probability and statistics. As sample size increases, the results more closely resemble the normal (bell-shaped) distribution from a large number of samples.
+    -   A sample of 30 is the smallest sample size for which the Central Limit Theorem is still valid. Researchers who rely on **regression analysis** – statistical methods to determine the relationships between controlled and dependent variables – also prefer a minimum sample of 30.
 -   The confidence level most commonly used is 95%, but 90% can work in some cases.
 -   Increase the sample size to meet specific needs of your project
     -   For a higher confidence level, use a larger sample size
