@@ -4,9 +4,9 @@ author: "Chiawei Wang"
 date: "June 2022"
 date-format: "MMMM YYYY"
 format: html
-number-sections: true
 toc: true
 toc-location: left
+number-sections: true
 ---
 
 `This document introduces what to expect when attending remote user interviews`
