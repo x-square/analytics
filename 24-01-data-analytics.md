@@ -324,9 +324,8 @@ As a data analyst, there are lots of scenarios when you might need to convert da
 -   Combining columns
 -   Number to percentage
 
-::: callout-tip
-Keep in mind that you may have lots of columns of data that require different formats. Consistency is key, and best practice is to make sure an entire column has the same format.
-:::
+> [!TIP]
+> Keep in mind that you may have lots of columns of data that require different formats. Consistency is key, and best practice is to make sure an entire column has the same format.
 
 ### [Types of data validation](https://www.coursera.org/learn/analyze-data/supplement/tQAED/types-of-data-validation)
 
