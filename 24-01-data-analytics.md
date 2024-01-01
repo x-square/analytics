@@ -205,14 +205,14 @@ Imagine Cloud Gate, a software company, recently hosted a series of public webin
 
 | **Name**          | **Research methods** | **Additional information**                   |
 |-------------------|-------------------|----------------------------------|
-| **Email Address** | `xxxxx\@company.com` | Required information attendees had to submit |
+| **Email Address** | `xxxxx@company.com` | Required information attendees had to submit |
 | **Company**       | \<company name\>     | Optional information attendees could provide |
 
 : Webinar attendance data includes the fields
 
 The webinar attendance data seems to align with the business objective. But the data analyst and program manager decide that some **data cleaning** is needed before the analysis. They think data cleaning is required because:
 
--   The company name wasn't a mandatory field. If the company name is blank, it might be found from the email address. For example, if the email address is `username\@google.com`, the company field could be filled in with Google for the data analysis. This data cleaning step assumes that people with company-assigned email addresses attended a webinar for business purposes.
+-   The company name wasn't a mandatory field. If the company name is blank, it might be found from the email address. For example, if the email address is `username@google.com`, the company field could be filled in with Google for the data analysis. This data cleaning step assumes that people with company-assigned email addresses attended a webinar for business purposes.
 -   Attendees could enter any name. Since attendance across a series of webinars is being looked at, they need to validate names against unique email addresses. For example, if Joe Cox attended two webinars but signed in as Joe Cox for one and Joseph Cox for the other, he would be counted as two different people. To prevent this, they need to check his unique email address to determine that he was the same person. After the validation, Joseph Cox could be changed to Joe Cox to match the other instance.
 
 #### Business case C
@@ -240,7 +240,7 @@ When you are getting ready for data analysis, you might realize you don't have t
 | **Sample**                   | A subset of your population. Just like a food sample, it is called a sample because it is only a taste. So if your company is too large to survey every individual, you can survey a representative sample of your population.                                                                                                                                                       |
 | **Margin of error**          | Since a sample is used to represent a population, the sample’s results are expected to differ from what the result would have been if you had surveyed the entire population. This difference is called the margin of error. The smaller the margin of error, the closer the results of the sample are to what the result would have been if you had surveyed the entire population. |
 | **Confidence level**         | How confident you are in the survey results. For example, a 95% confidence level means that if you were to run the same survey 100 times, you would get similar results 95 of those 100 times. Confidence level is targeted before you start your study because it will affect how big your margin of error is at the end of your study.                                             |
-| **Confidence interval**      | The range of possible values that the population’s result would be at the confidence level of the study. This range is the sample result +/- the margin of error. To be brief, **confidence interval = sample mean ± margin of error**.                                                                                                                                              |
+| **Confidence interval**      | The range of possible values that the population’s result would be at the confidence level of the study. This range is the sample result `plus and minus` the margin of error. Briefly, **confidence interval = sample mean ± margin of error**.                                                                                                                                              |
 | **Statistical significance** | The determination of whether your result could be due to random chance or not. The greater the significance, the less due to chance.                                                                                                                                                                                                                                                 |
 
 : Statistical terms and definitions
