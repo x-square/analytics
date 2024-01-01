@@ -324,9 +324,7 @@ As a data analyst, there are lots of scenarios when you might need to convert da
 -   Combining columns
 -   Number to percentage
 
-#### Pro tip
-
-Keep in mind that you may have lots of columns of data that require different formats. Consistency is key, and best practice is to make sure an entire column has the same format.
+`Keep in mind that you may have lots of columns of data that require different formats. Consistency is key, and best practice is to make sure an entire column has the same format.`
 
 ### [Types of data validation](https://www.coursera.org/learn/analyze-data/supplement/tQAED/types-of-data-validation)
 
@@ -434,37 +432,14 @@ A project proposal can provide the structure and communication needed for tracki
 
 Each project proposal contains important information that a team will need to consider before work begins. Below is a brief explanation of some common sections you will find in project proposals. Note that the format of project proposals will vary, so not every section described here will be included in every project proposal.
 
-#### Project title
-
-The title of the project is prominent, usually placed near the top of a document. Effective titles are brief and purposeful. Depending on the context and circumstances surrounding a project, the title can change over time.
-
-#### Project objective
-
-The objective statement is a one to three sentence explanation of what the project is trying to achieve.
-
-#### Milestones
-
-Milestones are groupings of tasks within a project, breaking the work needed into smaller, manageable goals. Milestones assist in the delegation and scheduling of work that needs to be completed within projects. The milestones in the provided example are representative of future end-of-course projects.
-
-#### Tasks
-
-Tasks detail the work that needs to be completed within a milestone. The tasks in the provided example parallel some of the work you will complete in upcoming end-of-course projects.
-
-#### Outcomes
-
-Outcomes are the completed actions or results that allow a project to continue.
-
-#### Deliverables
-
-Deliverables are items that can be shared amongst team members or with stakeholders. These are the end products of work undertaken for a project.
-
-#### Stakeholders
-
-The individuals or groups who are directly involved and have a vested interest in the success of a project. Input from stakeholders can serve as a basis for making decisions throughout a project.
-
-#### Estimated time
-
-At the beginning of a project, the time needed to complete milestones is estimated. As a project develops, these estimates will often need to be updated to account for adjustments to timelines or changes in team members.
+-   **Project title** is usually placed near the top of a document. Effective titles are brief and purposeful. Depending on the context and circumstances surrounding a project, the title can change over time.
+-   **Project objective** is a one to three sentence explanation of what the project is trying to achieve.
+-   **Milestones** are groupings of tasks within a project, breaking the work needed into smaller, manageable goals. Milestones assist in the delegation and scheduling of work that needs to be completed within projects. The milestones in the provided example are representative of future end-of-course projects.
+-   **Tasks** detail the work that needs to be completed within a milestone. The tasks in the provided example parallel some of the work you will complete in upcoming end-of-course projects.
+-   **Outcomes** are the completed actions or results that allow a project to continue.
+-   **Deliverables** are items that can be shared amongst team members or with stakeholders. These are the end products of work undertaken for a project.
+-   **Stakeholders** either individuals or groups are directly involved and have a vested interest in the success of a project. Input from stakeholders can serve as a basis for making decisions throughout a project.
+- **Estimated time** is provided at the beginning of a project to indicate the time needed to complete milestones. As a project develops, these estimates will often need to be updated to account for adjustments to timelines or changes in team members.
 
 ### Connect PACE with executive summaries
 
@@ -474,25 +449,11 @@ Executive summaries are used across numerous industries and organizations. There
 
 Executive summaries are used across a wide variety of businesses and typically include the following elements:
 
-#### Project title
-
-A project's theme is incorporated into the executive summary title to create an immediate connection with the target audience.
-
-#### Problem
-
-A statement that focuses on the need or concern being targeted or addressed by the project. Note that the problem can also be referred to as the hypothesis that you’re trying to prove through data analysis.
-
-#### Solution
-
-This statement summarizes a project’s main goal. In this section, actions are described that address the concerns outlined in the problem statement.
-
-#### Details or key insights
-
-The purpose of this section is to provide any additional background information that may assist the target audience in understanding the project's objectives. Determining what details to include depends on the intended audience.
-
-#### Next steps or recommendations
-
-Information that supports the actions the team plans to take. This can also include recommendations for decision makers based on the insights gained over the course of the project. In this section, a data professional may also include general project reflections. When you are adding to this section, include at least one point for recommendations and one for the suggested next steps.
+- **Project theme** is incorporated into the executive summary title to create an immediate connection with the target audience.
+- **Problem statement** focuses on the need or concern being targeted or addressed by the project. Note that the problem can also be referred to as the hypothesis that you’re trying to prove through data analysis.
+- **Solution statement** summarizes a project’s main goal. In this section, actions are described that address the concerns outlined in the problem statement.
+- **Details or key insights** are to provide any additional background information that may assist the target audience in understanding the project's objectives. Determining what details to include depends on the intended audience.
+- **Next steps or recommendations** are information that supports the actions the team plans to take. This can also include recommendations for decision makers based on the insights gained over the course of the project. In this section, a data professional may also include general project reflections. When you are adding to this section, include at least one point for recommendations and one for the suggested next steps.
 
 `Any questions, please reach out`
 
