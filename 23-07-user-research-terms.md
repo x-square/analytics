@@ -4,9 +4,14 @@ author: "Chiawei Wang"
 date: "July 2023"
 date-format: "MMMM YYYY"
 format: html
+toc: true
+toc-location: left
+number-sections: true
 ---
 
 `This document covers user research terms for both researchers and non-researchers`
+
+## Three-dimensional framework
 
 Knowing the terms in user research is crucial because it allows clear communication, efficient planning and informed decision-making. It helps researchers interpret findings accurately and stay updated with the latest trends. For non-researchers, understanding these terms enables meaningful engagement and contributes to user-centred design, leading to better products and services for users.
 
@@ -117,7 +122,7 @@ User research adopts a common iterative design approach found in user-centred de
 -   **Scripted use** of the product is commonly employed in lab-based or usability studies, focusing on testing or examining specific aspects of the product. This approach allows researchers to control and standardise the testing process, ensuring the desired aspects are thoroughly assessed.
 -   **Natural use** of the product involves testing products in a real-world or near-natural setting with minimal interference from researchers. This method provides highly valid data as users interact with the product in authentic contexts. However, the drawback is that researchers cannot ask clarifying questions to users during the process, potentially limiting the depth of insights obtained.
 
-### Design of experiments
+## Design of experiments
 
 -   **Randomisation** is a way to put people into different groups in a study so that everyone has an equal chance of being picked. It helps make the study more reliable because it reduces the chance that other factors could affect the results. This is what makes it a true experiment rather than just an observation. While there's a slight risk of the groups being unbalanced, using a large enough number of people can manage this risk. If the people in the study have important differences, you can use a method called 'stratified sampling' to make sure each group is fairly represented. This helps in getting results that can be applied to a larger group of people.
 -   **Blocking** in research is the practice of organising experimental units into groups, or blocks, that are similar in some way that might affect the result of the experiment. For example, if you're studying the effects of a drug on people of different ages, you might create blocks of participants who are similarly aged. This helps to make the study's findings more accurate by controlling for variables like age.
@@ -128,7 +133,7 @@ User research adopts a common iterative design approach found in user-centred de
 -   **Unblinding** happens when someone in a blind experiment figures out information they're not supposed to know, like whether they got the real treatment or a fake one. This can mess up the results because it adds bias. Sometimes unblinding happens by accident or too early, which isn't ideal. The success of keeping the experiment blind is usually checked by asking people questions to see if they've figured anything out. While it's hard to measure unblinding perfectly, you can still get a good idea of how well the experiment was kept blind.
 -   **Replication** is the process of repeating a study or experiment to see if the same results are obtained. This helps to confirm the findings are reliable and not just a one-off occurrence. For example, if one research team finds that a certain diet helps in weight loss, another team might replicate the study to ensure the results hold true.
 
-### Recruitment
+## Recruitment
 
 -   **Sourcing** in an experiment refers to the process of finding and selecting participants, materials, or data for the study. For example, researchers might source participants through online advertisements or use specific criteria to select data sets for analysis. Proper sourcing is crucial for ensuring the experiment's validity and reliability.
     -   **Email survey** is a questionnaire sent via email to collect data for research or feedback. Participants receive the survey in their inbox, complete it at their convenience, and then submit their responses electronically. It's a cost-effective and quick way to gather information, though response rates can vary.
@@ -140,7 +145,7 @@ User research adopts a common iterative design approach found in user-centred de
     -   **Cluster random sample** is where the population is divided into clusters, often geographically or by some other natural grouping. A random sample of clusters is chosen, and then either all individuals in the selected clusters are surveyed, or a random sample from each selected cluster is surveyed.
 -   **Screening** in research refers to the initial process of evaluating potential participants to determine their suitability for a study. Criteria may include age, health status, or specific behaviours. The aim is to ensure that the selected participants fit the study's objectives and requirements, thereby making the results more reliable and applicable.
 
-------------------------------------------------------------------------
+## Types of user research
 
 Applied research focuses on practical problem-solving and finding real-world solutions. Its primary goal is to address specific issues, improve processes or develop new products and technologies. Unlike pure research, applied research is directly connected to making tangible improvements and positive impacts in various fields. It uses existing theories and knowledge as a foundation to generate actionable results and practical insights.
 
@@ -176,4 +181,4 @@ This type of research focuses on assessing and judging the effectiveness and imp
 
 Chiawei Wang, PhD\
 Behavioural Data Scientist\
-[ch.wng\@outlook.com](mailto:ch.wng@outlook.com)
+[chw.wng\@outlook.com](mailto:ch.wng@outlook.com)
