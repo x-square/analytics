@@ -235,7 +235,7 @@ When you are getting ready for data analysis, you might realize you don't have t
 ### Calculating sample size
 
 | **Terminology**              | **Definitions**                                                                                                                                                                                                                                                                                                                                                                      |
-|----------------------|-------------------------------------------------|
+|-----------------------|-------------------------------------------------|
 | **Population**               | The entire group that you are interested in for your study. For example, if you are surveying people in your company, the population would be all the employees in your company.                                                                                                                                                                                                     |
 | **Sample**                   | A subset of your population. Just like a food sample, it is called a sample because it is only a taste. So if your company is too large to survey every individual, you can survey a representative sample of your population.                                                                                                                                                       |
 | **Margin of error**          | Since a sample is used to represent a population, the sample’s results are expected to differ from what the result would have been if you had surveyed the entire population. This difference is called the margin of error. The smaller the margin of error, the closer the results of the sample are to what the result would have been if you had surveyed the entire population. |
@@ -288,7 +288,7 @@ Here are a few impacts cited for certain industries from a previous search:
 ### Workflow automation
 
 | **Task**                                      | **Can it be automated?** | **Why?**                                                                                                                                                                                                                                                                                                          |
-|-------------------|-------------------|-----------------------------------|
+|-------------------|-------------------|----------------------------------|
 | Communicating with your team and stakeholders | No                       | Communication is key to understanding the needs of your team and stakeholders as you complete the tasks you are working on. There is no replacement for person-to-person communications.                                                                                                                          |
 | Presenting your findings                      | No                       | Presenting your data is a big part of your job as a data analyst. Making data accessible and understandable to stakeholders and creating data visualizations can’t be automated for the same reasons that communications can’t be automated.                                                                      |
 | Preparing and cleaning data                   | Partially                | Some tasks in data preparation and cleaning can be automated by setting up specific processes, like using a programming script to automatically detect missing values.                                                                                                                                            |
@@ -347,9 +347,9 @@ A data visualization, sometimes referred to as a data viz, allows analysts to pr
 
 ### [Correlation and causation](https://www.coursera.org/learn/visualize-data/supplement/PPdt5/correlation-and-causation)
 
-Correlation in statistics is the measure of the degree to which two variables move in relationship to each other. An example of correlation is the idea that “As the temperature goes up, ice cream sales also go up.” It is important to remember that correlation doesn’t mean that one event causes another. But, it does indicate that they have a pattern with or a relationship to each other. If one variable goes up and the other variable also goes up, it is a positive correlation. If one variable goes up and the other variable goes down, it is a negative or inverse correlation. If one variable goes up and the other variable stays about the same, there is no correlation.
+Correlation in statistics is the measure of the degree to which two variables move in relationship to each other. An example of correlation is the idea that `as the temperature goes up, ice cream sales also go up`. It is important to remember that correlation doesn't mean that one event causes another. But, it does indicate that they have a pattern with or a relationship to each other. If one variable goes up and the other variable also goes up, it is a positive correlation. If one variable goes up and the other variable goes down, it is a negative or inverse correlation. If one variable goes up and the other variable stays about the same, there is no correlation.
 
-Causation refers to the idea that an event leads to a specific outcome. For example, when lightning strikes, we hear the thunder (sound wave) caused by the air heating and cooling from the lightning strike. Lightning causes thunder.
+Causation refers to the idea that an event leads to a specific outcome. For example, `when lightning strikes, we hear the thunder`. The sound wave is caused by the air heating and cooling from the lightning strike. Lightning causes thunder.
 
 ![Examples of correlation and causation](https://github.com/x-square/images/blob/main/correlation-causation.png?raw=true)
 
