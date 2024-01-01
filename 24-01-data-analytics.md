@@ -205,7 +205,7 @@ Imagine Cloud Gate, a software company, recently hosted a series of public webin
 
 | **Name**          | **Research methods** | **Additional information**                   |
 |-------------------|-------------------|----------------------------------|
-| **Email Address** | `xxxxx@company.com` | Required information attendees had to submit |
+| **Email Address** | `xxxxx@company.com`  | Required information attendees had to submit |
 | **Company**       | \<company name\>     | Optional information attendees could provide |
 
 : Webinar attendance data includes the fields
@@ -235,12 +235,12 @@ When you are getting ready for data analysis, you might realize you don't have t
 ### Calculating sample size
 
 | **Terminology**              | **Definitions**                                                                                                                                                                                                                                                                                                                                                                      |
-|--------------------------|----------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | **Population**               | The entire group that you are interested in for your study. For example, if you are surveying people in your company, the population would be all the employees in your company.                                                                                                                                                                                                     |
 | **Sample**                   | A subset of your population. Just like a food sample, it is called a sample because it is only a taste. So if your company is too large to survey every individual, you can survey a representative sample of your population.                                                                                                                                                       |
 | **Margin of error**          | Since a sample is used to represent a population, the sample’s results are expected to differ from what the result would have been if you had surveyed the entire population. This difference is called the margin of error. The smaller the margin of error, the closer the results of the sample are to what the result would have been if you had surveyed the entire population. |
 | **Confidence level**         | How confident you are in the survey results. For example, a 95% confidence level means that if you were to run the same survey 100 times, you would get similar results 95 of those 100 times. Confidence level is targeted before you start your study because it will affect how big your margin of error is at the end of your study.                                             |
-| **Confidence interval**      | The range of possible values that the population’s result would be at the confidence level of the study. This range is the sample result `plus and minus` the margin of error. Briefly, **confidence interval = sample mean ± margin of error**.                                                                                                                                              |
+| **Confidence interval**      | The range of possible values that the population’s result would be at the confidence level of the study. This range is the sample result plus and minus the margin of error. Briefly, `confidence interval = sample mean ± margin of error`.                                                                                                                                         |
 | **Statistical significance** | The determination of whether your result could be due to random chance or not. The greater the significance, the less due to chance.                                                                                                                                                                                                                                                 |
 
 : Statistical terms and definitions
@@ -288,7 +288,7 @@ Here are a few impacts cited for certain industries from a previous search:
 ### Workflow automation
 
 | **Task**                                      | **Can it be automated?** | **Why?**                                                                                                                                                                                                                                                                                                          |
-|-------------------|-------------------|----------------------------------|
+|-----------------|-----------------|--------------------------------------|
 | Communicating with your team and stakeholders | No                       | Communication is key to understanding the needs of your team and stakeholders as you complete the tasks you are working on. There is no replacement for person-to-person communications.                                                                                                                          |
 | Presenting your findings                      | No                       | Presenting your data is a big part of your job as a data analyst. Making data accessible and understandable to stakeholders and creating data visualizations can’t be automated for the same reasons that communications can’t be automated.                                                                      |
 | Preparing and cleaning data                   | Partially                | Some tasks in data preparation and cleaning can be automated by setting up specific processes, like using a programming script to automatically detect missing values.                                                                                                                                            |
@@ -439,7 +439,7 @@ Each project proposal contains important information that a team will need to co
 -   **Outcomes** are the completed actions or results that allow a project to continue.
 -   **Deliverables** are items that can be shared amongst team members or with stakeholders. These are the end products of work undertaken for a project.
 -   **Stakeholders** either individuals or groups are directly involved and have a vested interest in the success of a project. Input from stakeholders can serve as a basis for making decisions throughout a project.
-- **Estimated time** is provided at the beginning of a project to indicate the time needed to complete milestones. As a project develops, these estimates will often need to be updated to account for adjustments to timelines or changes in team members.
+-   **Estimated time** is provided at the beginning of a project to indicate the time needed to complete milestones. As a project develops, these estimates will often need to be updated to account for adjustments to timelines or changes in team members.
 
 ### Connect PACE with executive summaries
 
@@ -449,11 +449,11 @@ Executive summaries are used across numerous industries and organizations. There
 
 Executive summaries are used across a wide variety of businesses and typically include the following elements:
 
-- **Project theme** is incorporated into the executive summary title to create an immediate connection with the target audience.
-- **Problem statement** focuses on the need or concern being targeted or addressed by the project. Note that the problem can also be referred to as the hypothesis that you’re trying to prove through data analysis.
-- **Solution statement** summarizes a project’s main goal. In this section, actions are described that address the concerns outlined in the problem statement.
-- **Details or key insights** are to provide any additional background information that may assist the target audience in understanding the project's objectives. Determining what details to include depends on the intended audience.
-- **Next steps or recommendations** are information that supports the actions the team plans to take. This can also include recommendations for decision makers based on the insights gained over the course of the project. In this section, a data professional may also include general project reflections. When you are adding to this section, include at least one point for recommendations and one for the suggested next steps.
+-   **Project theme** is incorporated into the executive summary title to create an immediate connection with the target audience.
+-   **Problem statement** focuses on the need or concern being targeted or addressed by the project. Note that the problem can also be referred to as the hypothesis that you’re trying to prove through data analysis.
+-   **Solution statement** summarizes a project’s main goal. In this section, actions are described that address the concerns outlined in the problem statement.
+-   **Details or key insights** are to provide any additional background information that may assist the target audience in understanding the project's objectives. Determining what details to include depends on the intended audience.
+-   **Next steps or recommendations** are information that supports the actions the team plans to take. This can also include recommendations for decision makers based on the insights gained over the course of the project. In this section, a data professional may also include general project reflections. When you are adding to this section, include at least one point for recommendations and one for the suggested next steps.
 
 `Any questions, please reach out`
 
