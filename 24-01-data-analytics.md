@@ -381,7 +381,7 @@ As a general rule, data professionals rely on workflow structures to guide them 
 
 Data professionals at Google developed PACE as a flexible model. Through PACE, you will identify areas of action and contexts for when they will need to be considered. All in all, PACE offers professionals a customizable scaffold that can support their efforts while working through every stage of a data project.
 
-![Pace model](https://github.com/x-square/images/blob/main/pace-model.png?raw=true)
+![PACE model](https://github.com/x-square/images/blob/main/pace-model.png?raw=true)
 
 Let’s take a closer look at each stage of the PACE model.
 
