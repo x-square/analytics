@@ -16,5 +16,5 @@ number-sections: true
 `Any questions, please reach out`
 
 Chiawei Wang, PhD\
-User Researcher\
+Behavioural Data Scientist\
 [chw.wng\@outlook.com](mailto:ch.wng@outlook.com)
