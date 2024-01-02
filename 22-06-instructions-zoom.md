@@ -87,4 +87,4 @@ You will be able to dial in on the Zoom app or on a web browser (without downloa
 
 Chiawei Wang, PhD\
 Behavioural Data Scientist\
-[chw.wng\@outlook.com](mailto:ch.wng@outlook.com)
+[chw.wng\@outlook.com](mailto:chw.wng@outlook.com)
