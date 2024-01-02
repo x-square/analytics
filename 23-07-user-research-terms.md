@@ -181,4 +181,4 @@ This type of research focuses on assessing and judging the effectiveness and imp
 
 Chiawei Wang, PhD\
 Behavioural Data Scientist\
-[chw.wng\@outlook.com](mailto:ch.wng@outlook.com)
+[chw.wng\@outlook.com](mailto:chw.wng@outlook.com)
