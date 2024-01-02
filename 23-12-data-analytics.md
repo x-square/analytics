@@ -460,4 +460,4 @@ Executive summaries are used across a wide variety of businesses and typically i
 
 Chiawei Wang, PhD\
 Behavioural Data Scientist\
-[chw.wng\@outlook.com](mailto:ch.wng@outlook.com)
+[chw.wng\@outlook.com](mailto:chw.wng@outlook.com)
