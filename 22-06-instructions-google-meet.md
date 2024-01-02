@@ -57,4 +57,4 @@ You will be able to dial in on a web browser without downloading an app.
 
 Chiawei Wang, PhD\
 Behavioural Data Scientist\
-[chw.wng\@outlook.com](mailto:ch.wng@outlook.com)
+[chw.wng\@outlook.com](mailto:chw.wng@outlook.com)
