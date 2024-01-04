@@ -12,7 +12,7 @@ number-sections: true
 
 `This document covers user research terms for both researchers and non-researchers`
 
-## Three-dimensional user research framework
+## Three-dimensional framework of user research
 
 Knowing the terms in user research is crucial because it allows clear communication, efficient planning and informed decision-making. It helps researchers interpret findings accurately and stay updated with the latest trends. For non-researchers, understanding these terms enables meaningful engagement and contributes to user-centred design, leading to better products and services for users.
 
@@ -25,7 +25,7 @@ User research adopts a common iterative design approach found in user-centred de
 | Attitudinal          | Qualitative      | Scripted       |
 | Behaviour            | Quantitative     | Natural        |
 
-: Three-dimensional framework
+: Three-dimensional framework of user research
 
 ### What users say or do
 
@@ -146,7 +146,7 @@ User research adopts a common iterative design approach found in user-centred de
     -   **Cluster random sample** is where the population is divided into clusters, often geographically or by some other natural grouping. A random sample of clusters is chosen, and then either all individuals in the selected clusters are surveyed, or a random sample from each selected cluster is surveyed.
 -   **Screening** in research refers to the initial process of evaluating potential participants to determine their suitability for a study. Criteria may include age, health status, or specific behaviours. The aim is to ensure that the selected participants fit the study's objectives and requirements, thereby making the results more reliable and applicable.
 
-## Types of user research
+## Types of applied research
 
 Applied research focuses on practical problem-solving and finding real-world solutions. Its primary goal is to address specific issues, improve processes or develop new products and technologies. Unlike pure research, applied research is directly connected to making tangible improvements and positive impacts in various fields. It uses existing theories and knowledge as a foundation to generate actionable results and practical insights.
 
@@ -157,7 +157,7 @@ User research as part of applied research can be classified into various types, 
 | Exploratory         | Formative           | Traditional         |
 | Explanatory         | Summative           | Agile               |
 
-: Types of user research
+: Types of applied research
 
 ### Generative research
 
@@ -178,7 +178,7 @@ This type of research focuses on assessing and judging the effectiveness and imp
 -   **Traditional approach** is the usual way of doing research, following a step-by-step process. It includes planning, data collection, analysis and reporting in a specific order. It has a fixed design and is focused on getting accurate results, but it may take longer because it's less flexible.
 -   **Agile approach** is a flexible and adaptive approach to research, inspired by agile software development. It breaks down the process into smaller tasks, allowing continuous data gathering and analysis. Researchers can make real-time adjustments based on insights, focusing on high-priority areas. It is valuable in dynamic environments with evolving research questions.
 
-## Level of analysis in social science
+## Levels of analysis in social science
 
 Social science research typically categorises into three levels of analysis, including micro, meso, and macro. Note that analytical levels are not necessarily mutually exclusive.
 
@@ -186,10 +186,9 @@ Social science research typically categorises into three levels of analysis, inc
 
 The smallest unit of analysis is an individual within their social setting. At the micro level, also known as the local level, the research often focuses on individuals or small groups in a specific social context. Examples of micro-level analysis include various individual-focused approaches.
 
--   Alien, stateless person, asylum seeker, refugee
 -   Person
 -   Citizen
--   Partnership, marriage
+-   Partnership
 -   Families
 -   Household
 -   Neighbourhood
