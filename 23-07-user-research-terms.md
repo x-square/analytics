@@ -1,5 +1,5 @@
 ---
-title: "Beginner’s guide to user research terms"
+title: "Beginner's guide to user research terms"
 author: "Chiawei Wang"
 date: "July 2023"
 date-format: "MMMM YYYY"
