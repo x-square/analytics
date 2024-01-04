@@ -184,7 +184,7 @@ Social science research typically categorises into three levels of analysis, inc
 
 ### Micro level
 
-The smallest unit of analysis is an individual within their social setting. At the micro level, also known as the local level, the research often focuses on individuals or small groups in a specific social context. Examples of micro-level analysis include various individual-focused approaches.
+The smallest unit of analysis is an individual within their social setting. At the micro level, also known as the local level, the research often focuses on individuals or small groups in a specific social context. Examples of micro level analysis include various individual-focused approaches.
 
 -   Person
 -   Citizen
@@ -195,7 +195,7 @@ The smallest unit of analysis is an individual within their social setting. At t
 
 ### Meso level
 
-Typically, meso level analysis focuses on populations larger than individuals (micro) but smaller than society as a whole (macro), like communities or organizations. Additionally, meso-level analysis can aim to uncover connections between micro and macro levels. This is sometimes termed mid-range, particularly in sociology. Examples of meso level units of analysis include communities and organisations.
+Typically, meso level analysis focuses on populations larger than individuals (micro) but smaller than society as a whole (macro), like communities or organizations. Additionally, meso level analysis can aim to uncover connections between micro and macro levels. This is sometimes termed mid-range, particularly in sociology. Examples of meso level units of analysis include communities and organisations.
 
 -   Clan
 -   Tribe
@@ -206,7 +206,7 @@ Typically, meso level analysis focuses on populations larger than individuals (m
 
 ### Macro level
 
-Macro level analyses typically examine the results of interactions, like large-scale economic or resource transfers across populations. This is also known as the global level. Examples of macro-level units of analysis encompass various large-scale phenomena.
+Macro level analyses typically examine the results of interactions, like large-scale economic or resource transfers across populations. This is also known as the global level. Examples of macro level units of analysis encompass various large-scale phenomena.
 
 -   Nation
 -   Society
