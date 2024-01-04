@@ -3,7 +3,8 @@ title: "Notes on behavioural data analysis"
 author: "Chiawei Wang"
 date: "January 2024"
 date-format: "MMMM YYYY"
-format: html
+format: HTML
+page-layout: full
 toc: true
 toc-location: left
 number-sections: true
