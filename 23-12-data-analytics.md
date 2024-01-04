@@ -28,7 +28,7 @@ Analysts use data-driven decision-making and follow a step-by-step process:
 5.  **Share** data with your audience
 6.  **Act** on the data and use the analysis results
 
-![Data analysis process](https://github.com/x-square/images/blob/main/data-analysis-process.png?raw=true)
+![Data analysis process](https://github.com/x-square/visual-resources/blob/main/data-analysis-process.png?raw=true)
 
 ### SQL
 
@@ -38,7 +38,7 @@ SQL (structured query language) is designed for managing and manipulating relati
 -   **FROM** to choose the tables where the columns you want are located
 -   **WHERE** to filter for certain information
 
-![Example of SQL syntax](https://github.com/x-square/images/blob/main/sql-syntax.png?raw=true)
+![Example of SQL syntax](https://github.com/x-square/visual-resources/blob/main/sql-syntax.png?raw=true)
 
 BigQuery is Google's fully managed, serverless data warehouse that works across clouds and enables scalable analysis. It supports querying using a dialect of SQL.
 
@@ -48,7 +48,7 @@ BigQuery is Google's fully managed, serverless data warehouse that works across 
 
 Data analytics is so much more than just plugging information into a platform to find insights. It is about solving problems. To get to the root of these problems and find practical solutions, there are lots of opportunities for creative thinking. No matter the problem, the first and most important step is understanding it.
 
-![Analysts typically work with six problem types](https://github.com/x-square/images/blob/main/six-problem-types.png?raw=true)
+![Analysts typically work with six problem types](https://github.com/x-square/visual-resources/blob/main/problem-types-six.png?raw=true)
 
 Examples are summarized below for review:
 
@@ -82,7 +82,7 @@ Companies in lots of industries today are dealing with rapid change and rising u
 
 No matter how much information you have or how advanced your tools are, your data won't tell you much if you don't start with the right questions. Think of it like a detective with tons of evidence who doesn't ask a key suspect about it.
 
-![Examples of SMART questions](https://github.com/x-square/images/blob/main/smart-questions.png?raw=true)
+![Examples of SMART questions](https://github.com/x-square/visual-resources/blob/main/smart-questions.png?raw=true)
 
 ### Qualitative and quantitative data in business
 
@@ -137,13 +137,13 @@ Data is powerful, but it has its limitations. Has someone's personal opinion fou
 
 ### Leading great meetings
 
-![Example of meeting agenda](https://github.com/x-square/images/blob/main/meeting-agenda.png?raw=true)
+![Example of meeting agenda](https://github.com/x-square/visual-resources/blob/main/meeting-agenda.png?raw=true)
 
 ## Prepare data for exploration
 
 ### Selecting the right data
 
-![How to collect the right data?](https://github.com/x-square/images/blob/main/data-collection-considerations.png?raw=true)
+![How to collect the right data?](https://github.com/x-square/visual-resources/blob/main/data-collection-considerations.png?raw=true)
 
 ### Data modelling levels and techniques
 
@@ -151,9 +151,9 @@ Data modelling is the process of creating diagrams that visually represent how d
 
 There are a lot of approaches when it comes to developing data models, but two common methods are the **Entity Relationship Diagram** (ERD) and the **Unified Modelling Language** (UML) diagram. ERDs are a visual way to understand the relationship between entities in the data model. UML diagrams are very detailed diagrams that describe the structure of a system by showing the system's entities, attributes, operations, and their relationships. As a junior data analyst, you will need to understand that there are different data modelling techniques, but in practice, you will probably be using your organization's existing technique.
 
-![Example of ERD](https://github.com/x-square/images/blob/main/erd-diagram.png?raw=true)
+![Example of ERD](https://github.com/x-square/visual-resources/blob/main/diagram-erd.png?raw=true)
 
-![Example of UML](https://github.com/x-square/images/blob/main/uml-diagram.png?raw=true)
+![Example of UML](https://github.com/x-square/visual-resources/blob/main/diagram-uml.png?raw=true)
 
 ### Understanding Boolean logic
 
@@ -183,7 +183,7 @@ By contrast, a **foreign key** is a field within a table that is a primary key i
 
 Some tables don't require a primary key. For example, a revenue table can have multiple foreign keys and not have a primary key. A primary key may also be constructed using multiple columns of a table. This type of primary key is called a composite key. For example, if customer_id and location_id are two columns of a **composite key** for a customer table, the values assigned to those fields in any given row must be unique within the entire table.
 
-![Example of database keys](https://github.com/x-square/images/blob/main/database-keys.png?raw=true)
+![Example of database keys](https://github.com/x-square/visual-resources/blob/main/database-keys.png?raw=true)
 
 ## Process data from dirty to clean
 
@@ -197,14 +197,14 @@ Imagine account managers at Impress Me, an online content subscription service, 
 
 To start off, the data analyst verifies that the data exported to spreadsheets is clean and confirms that the data needed (when users access content) is available. Knowing this, the analyst decides there is good alignment of the data to the business objective. All that is missing is figuring out exactly how long it takes each user to view content after their subscription has been activated.
 
-![Example of relevant data in spreadsheet](https://github.com/x-square/images/blob/main/data-spreadsheet.png?raw=true)
+![Example of relevant data in spreadsheet](https://github.com/x-square/visual-resources/blob/main/data-spreadsheet.png?raw=true)
 
 #### Business case B
 
 Imagine Cloud Gate, a software company, recently hosted a series of public webinars as free product introductions. The data analyst and webinar program manager want to identify companies that had five or more people attend these sessions. They want to give this list of companies to sales managers who can follow up for potential sales.
 
 | **Name**          | **Research methods** | **Additional information**                   |
-|-------------------|-------------------|----------------------------------|
+|------------------|------------------|-------------------------------------|
 | **Email Address** | `xxxxx@company.com`  | Required information attendees had to submit |
 | **Company**       | \<company name\>     | Optional information attendees could provide |
 
@@ -230,12 +230,12 @@ After looking at the data, the data analyst discovers that there are **other var
 
 When you are getting ready for data analysis, you might realize you don't have the data you need or you don't have enough of it. In some cases, you can use what is known as proxy data in place of the real data. Think of it like substituting oil for butter in a recipe when you don't have butter. In other cases, there is no reasonable substitute and your only option is to collect more data.
 
-![Decision tree of how to deal with data errors or not enough data](https://github.com/x-square/images/blob/main/data-errors-not-enough.png?raw=true)
+![Decision tree of how to deal with data errors or not enough data](https://github.com/x-square/visual-resources/blob/main/data-errors-not-enough.png?raw=true)
 
 ### Calculating sample size
 
 | **Terminology**              | **Definitions**                                                                                                                                                                                                                                                                                                                                                                      |
-|-----------------------|-------------------------------------------------|
+|-------------|-----------------------------------------------------------|
 | **Population**               | The entire group that you are interested in for your study. For example, if you are surveying people in your company, the population would be all the employees in your company.                                                                                                                                                                                                     |
 | **Sample**                   | A subset of your population. Just like a food sample, it is called a sample because it is only a taste. So if your company is too large to survey every individual, you can survey a representative sample of your population.                                                                                                                                                       |
 | **Margin of error**          | Since a sample is used to represent a population, the sample’s results are expected to differ from what the result would have been if you had surveyed the entire population. This difference is called the margin of error. The smaller the margin of error, the closer the results of the sample are to what the result would have been if you had surveyed the entire population. |
@@ -270,7 +270,7 @@ Does that mean subject line A is better than subject line B? It depends on your 
 
 ### What is dirty data?
 
-![Types of dirty data](https://github.com/x-square/images/blob/main/dirty-data.png?raw=true)
+![Types of dirty data](https://github.com/x-square/visual-resources/blob/main/data-dirty.png?raw=true)
 
 #### Business impact of dirty data
 
@@ -288,7 +288,7 @@ Here are a few impacts cited for certain industries from a previous search:
 ### Workflow automation
 
 | **Task**                                      | **Can it be automated?** | **Why?**                                                                                                                                                                                                                                                                                                          |
-|-------------------|-------------------|----------------------------------|
+|------------|------------|-------------------------------------------------|
 | Communicating with your team and stakeholders | No                       | Communication is key to understanding the needs of your team and stakeholders as you complete the tasks you are working on. There is no replacement for person-to-person communications.                                                                                                                          |
 | Presenting your findings                      | No                       | Presenting your data is a big part of your job as a data analyst. Making data accessible and understandable to stakeholders and creating data visualizations can’t be automated for the same reasons that communications can’t be automated.                                                                      |
 | Preparing and cleaning data                   | Partially                | Some tasks in data preparation and cleaning can be automated by setting up specific processes, like using a programming script to automatically detect missing values.                                                                                                                                            |
@@ -301,11 +301,11 @@ Here are a few impacts cited for certain industries from a previous search:
 
 Engineers use **engineering change orders** to keep track of new product design details and proposed changes to existing products. Writers use document revision histories to keep track of changes to document flow and edits. And data analysts use changelogs to keep track of data transformation and cleaning.
 
-![Example of changelogs](https://github.com/x-square/images/blob/main/changelogs.png?raw=true)
+![Example of changelogs](https://github.com/x-square/visual-resources/blob/main/changelogs.png?raw=true)
 
 ### [Adding softs skills to your resume](https://www.coursera.org/learn/process-data/supplement/U8xZj/adding-softs-skills-to-your-resume)
 
-![Common soft skills you will find in an entry-level data analyst resume](https://github.com/x-square/images/blob/main/data-analyst-soft-skills.png?raw=true)
+![Common soft skills you will find in an entry-level data analyst resume](https://github.com/x-square/visual-resources/blob/main/data-analyst-soft-skills.png?raw=true)
 
 ## Analyze data to answer questions
 
@@ -350,7 +350,7 @@ Correlation in statistics is the measure of the degree to which two variables mo
 
 Causation refers to the idea that an event leads to a specific outcome. For example, `when lightning strikes, we hear the thunder`. The sound wave is caused by the air heating and cooling from the lightning strike. Lightning causes thunder.
 
-![Examples of correlation and causation](https://github.com/x-square/images/blob/main/correlation-causation.png?raw=true)
+![Examples of correlation and causation](https://github.com/x-square/visual-resources/blob/main/correlation-causation.png?raw=true)
 
 ### [The wonderful world of visualizations](https://www.coursera.org/learn/visualize-data/supplement/j9Wdl/the-wonderful-world-of-visualizations)
 
@@ -366,11 +366,11 @@ Meaningful patterns can take many forms, such as:
 
 A decision tree is a decision-making tool that allows you, the data analyst, to make decisions based on key questions that you can ask yourself. Each question in the visualization decision tree will help you make a decision about critical features for your visualization. Below is an example of a basic decision tree to guide you towards making a data-driven decision about which visualization is the best way to tell your story. Please note that there are many different types of decision trees that vary in complexity, and can provide more in-depth decisions.
 
-![Best way to represent data](https://github.com/x-square/images/blob/main/data-dicision-tree.png?raw=true)
+![Best way to represent data](https://github.com/x-square/visual-resources/blob/main/data-dicision-tree.png?raw=true)
 
 ### [Principles of design](https://www.coursera.org/learn/visualize-data/supplement/Ijxn6/principles-of-design)
 
-![Nine principles of design](https://github.com/x-square/images/blob/main/nine-design-principles.png?raw=true)
+![Nine principles of design](https://github.com/x-square/visual-resources/blob/main/design-principles-nine.png?raw=true)
 
 ## Foundations of data science[^2]
 
@@ -382,7 +382,7 @@ As a general rule, data professionals rely on workflow structures to guide them 
 
 Data professionals at Google developed PACE as a flexible model. Through PACE, you will identify areas of action and contexts for when they will need to be considered. All in all, PACE offers professionals a customizable scaffold that can support their efforts while working through every stage of a data project.
 
-![PACE model](https://github.com/x-square/images/blob/main/pace-model.png?raw=true)
+![PACE model](https://github.com/x-square/visual-resources/blob/main/pace-model.png?raw=true)
 
 Let’s take a closer look at each stage of the PACE model.
 
