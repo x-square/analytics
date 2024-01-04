@@ -3,7 +3,8 @@ title: "Attending remote user interviews via Zoom"
 author: "Chiawei Wang"
 date: "June 2022"
 date-format: "MMMM YYYY"
-format: html
+format: HTML
+page-layout: full
 toc: true
 toc-location: left
 number-sections: true
