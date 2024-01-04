@@ -3,7 +3,8 @@ title: "Glossary of biases"
 author: "Chiawei Wang"
 date: "October 2023"
 date-format: "MMMM YYYY"
-format: html
+format: HTML
+page-layout: full
 toc: true
 toc-location: left
 number-sections: true
