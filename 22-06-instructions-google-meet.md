@@ -4,6 +4,7 @@ author: "Chiawei Wang"
 date: "June 2022"
 date-format: "MMMM YYYY"
 format: html
+page-layout: full
 toc: true
 toc-location: left
 number-sections: true
