@@ -150,7 +150,7 @@ User research adopts a common iterative design approach found in user-centred de
 
 Applied research focuses on practical problem-solving and finding real-world solutions. Its primary goal is to address specific issues, improve processes or develop new products and technologies. Unlike pure research, applied research is directly connected to making tangible improvements and positive impacts in various fields. It uses existing theories and knowledge as a foundation to generate actionable results and practical insights.
 
-User research as part of applied research can be classified into various types, each serving specific purposes and providing unique insights. Some common types of user research include:
+User research as part of applied research can be classified into various types, each serving specific purposes and providing unique insights. Some common types of applied research include:
 
 | Generative research | Evaluative research | Research approaches |
 |---------------------|---------------------|---------------------|
@@ -195,7 +195,7 @@ The smallest unit of analysis is an individual within their social setting. At t
 
 ### Meso level
 
-Typically, meso level analysis focuses on populations larger than individuals (micro) but smaller than society as a whole (macro), like communities or organizations. Additionally, meso-level analysis can aim to uncover connections between micro and macro levels. This is sometimes termed mid-range, particularly in sociology. Examples of meso-level units of analysis include communities and organisations.
+Typically, meso level analysis focuses on populations larger than individuals (micro) but smaller than society as a whole (macro), like communities or organizations. Additionally, meso-level analysis can aim to uncover connections between micro and macro levels. This is sometimes termed mid-range, particularly in sociology. Examples of meso level units of analysis include communities and organisations.
 
 -   Clan
 -   Tribe
