@@ -3,7 +3,8 @@ title: "Statistics for everyone"
 author: "Chiawei Wang"
 date: "February 2024"
 date-format: "MMMM YYYY"
-format: html
+format: HTML
+page-layout: full
 toc: true
 toc-location: left
 number-sections: true
