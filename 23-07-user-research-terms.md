@@ -189,7 +189,7 @@ The smallest unit of analysis is an individual within their social setting. At t
 -   Person
 -   Citizen
 -   Partnership
--   Families
+-   Family
 -   Household
 -   Neighbourhood
 
@@ -201,6 +201,8 @@ Typically, meso level analysis focuses on populations larger than individuals (m
 -   Tribe
 -   Community
 -   Village
+-   Town
+-   City
 
 ### Macro level
 
