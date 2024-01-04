@@ -12,7 +12,7 @@ number-sections: true
 
 `This document covers user research terms for both researchers and non-researchers`
 
-## Three-dimensional framework
+## Three-dimensional user research framework
 
 Knowing the terms in user research is crucial because it allows clear communication, efficient planning and informed decision-making. It helps researchers interpret findings accurately and stay updated with the latest trends. For non-researchers, understanding these terms enables meaningful engagement and contributes to user-centred design, leading to better products and services for users.
 
@@ -203,7 +203,7 @@ Typically, meso level analysis focuses on populations larger than individuals (m
 -   Community
 -   Village
 
-### Micro level
+### Macro level
 
 Macro level analyses typically examine the results of interactions, like large-scale economic or resource transfers across populations. This is also known as the global level. Examples of macro-level units of analysis encompass various large-scale phenomena.
 
