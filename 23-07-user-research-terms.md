@@ -178,6 +178,41 @@ This type of research focuses on assessing and judging the effectiveness and imp
 -   **Traditional approach** is the usual way of doing research, following a step-by-step process. It includes planning, data collection, analysis and reporting in a specific order. It has a fixed design and is focused on getting accurate results, but it may take longer because it's less flexible.
 -   **Agile approach** is a flexible and adaptive approach to research, inspired by agile software development. It breaks down the process into smaller tasks, allowing continuous data gathering and analysis. Researchers can make real-time adjustments based on insights, focusing on high-priority areas. It is valuable in dynamic environments with evolving research questions.
 
+## Level of analysis in social science
+
+Social science research typically categorises into three levels of analysis, including micro, meso, and macro. Note that analytical levels are not necessarily mutually exclusive.
+
+### Micro level
+
+The smallest unit of analysis is an individual within their social setting. At the micro level, also known as the local level, the research often focuses on individuals or small groups in a specific social context. Examples of micro-level analysis include various individual-focused approaches.
+
+-   Alien, stateless person, asylum seeker, refugee
+-   Person
+-   Citizen
+-   Partnership, marriage
+-   Families
+-   Household
+-   Neighbourhood
+
+### Meso level
+
+Typically, meso level analysis focuses on populations larger than individuals (micro) but smaller than society as a whole (macro), like communities or organizations. Additionally, meso-level analysis can aim to uncover connections between micro and macro levels. This is sometimes termed mid-range, particularly in sociology. Examples of meso-level units of analysis include communities and organisations.
+
+-   Clan
+-   Tribe
+-   Community
+-   Village
+
+### Micro level
+
+Macro level analyses typically examine the results of interactions, like large-scale economic or resource transfers across populations. This is also known as the global level. Examples of macro-level units of analysis encompass various large-scale phenomena.
+
+-   Nation
+-   Society
+-   Civilisation
+-   International
+-   Global
+
 `Any questions, please reach out`
 
 Chiawei Wang, PhD\
