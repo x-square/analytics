@@ -107,7 +107,7 @@ User research adopts a common iterative design approach found in user-centred de
     -   **Metrics** are quantitative data used to measure various aspects of a product's performance. User experience metrics, like feature adoption rate and task completion time, assess user experience. Financial metrics, such as customer acquisition costs, reveal user profitability. Choose relevant metrics aligned with your goals and track user actions for accurate measurement.
 -   User experience metrics
     -   **Descriptive metrics** provide specific insights into user behaviour and system performance. For example, waiting time measures the time users spend waiting for a response or service. Average spent time reveals how long users typically stay on a website or perform specific actions. Website visits count the number of times users access the website, while usage metrics track how users interact with the product or service. Lastly, page visits indicate the number of pages users navigate within the website. These metrics offer objective data without interpretation, enabling a clear understanding of user actions and system usage.
-    -   **Perception metrics** measure how customers think and feel about their experiences. Factors like messages or music during a wait can influence how they perceive the waiting time. Metrics such as customer satisfaction, system usability scale and net promoter score gather subjective feedback to understand the overall customer experience and loyalty. By capturing these perceptions, businesses can identify areas for improvement and enhance the overall user experience.
+    -   **Perception metrics** measure how customers think and feel about their experiences. Factors like messages or music during a wait can influence how they perceive the waiting time. Metrics such as customer satisfaction and system usability scale gather subjective feedback to understand the overall customer experience and loyalty. By capturing these perceptions, businesses can identify areas for improvement and enhance the overall user experience.
     -   **Outcome metrics** are measurements that evaluate how users behave after their experience with a product or service. They help understand how users interact with the interface, achieve their goals efficiently and effectively and take actions like making purchases or becoming loyal customers. These metrics are crucial in assessing the impact of user experience design on user behaviour and business goals.
 -   Business metrics
     -   **Website traffic** is the number of people who visit a website. It's like a digital footfall, showing how popular or busy a website is. High traffic usually means more potential customers and better chances for sales or engagement. This metric is often tracked to gauge a website's success and to make improvements.
@@ -117,6 +117,9 @@ User research adopts a common iterative design approach found in user-centred de
     -   **Inventory levels** refers to the amount of goods or materials a company has in stock at a given time. This is crucial for businesses that sell physical products. Too much inventory can be costly to store, while too little can result in missed sales opportunities. Keeping inventory levels balanced is key to running a business efficiently.
 
 [^2]: Rodden, Kerry; Hutchinson, Hilary & Fu, Xin. 2010. Measuring the user experience on a large scale: User-centered metrics for web applications. Google: Mountain View, California.
+
+> [!warning]
+> Net Promoter Score (NPS), commonly used as a perception metric in marketing, is no longer recommended for gathering customer insights in behavioural science and user experience due to its fallacious nature.
 
 ### Context of use
 
