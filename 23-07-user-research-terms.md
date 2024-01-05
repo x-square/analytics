@@ -16,9 +16,9 @@ number-sections: true
 
 Knowing the terms in user research is crucial because it allows clear communication, efficient planning and informed decision-making. It helps researchers interpret findings accurately and stay updated with the latest trends. For non-researchers, understanding these terms enables meaningful engagement and contributes to user-centred design, leading to better products and services for users.
 
-User research adopts a common iterative design approach found in user-centred design and design thinking. It can be applied throughout the design cycle, with software projects often beginning at the requirement-gathering stage to engage users from the project's outset. A variety of research methods are employed in user research. Rohrer (2022)[^1] offers a helpful three-dimensional framework to determine the appropriate method for specific situations.
+User research adopts a common iterative design approach found in user-centred design and design thinking. It can be applied throughout the design cycle, with software projects often beginning at the requirement-gathering stage to engage users from the project's outset. A variety of research methods are employed in user research. Rohrer (2022) offers a helpful three-dimensional framework to determine the appropriate method for specific situations.[^1]
 
-[^1]: Rohrer, C. 2022. When to use which user experience research methods? Nielsen Norman Group. https://www.nngroup.com/articles/which-ux-research-methods
+[^1]: Rohrer, C. 2022. When to use which user experience research methods? Nielsen Norman Group. <https://www.nngroup.com/articles/which-ux-research-methods>
 
 | What users say or do | Research methods | Context of use |
 |----------------------|------------------|----------------|
@@ -95,7 +95,7 @@ User research adopts a common iterative design approach found in user-centred de
     -   **Quantitative usability testing** is a technique to evaluate a product by testing it on users. The goal is to gather direct input on how real users interact with the system. It involves recording quantitative measures like system usability score or user experience questionnaire, as a post-task assessment. Usability testing can be conducted with scripted conditions to ensure standardised comparisons and observations.
     -   **Quantitative benchmarking** entails the systematic use of numerical metrics such as revenue, profit margins, and customer retention rates for comparative analysis. By focusing on these measurable data points, you can objectively assess your performance against industry standards or competitors. This approach provides a clear, numerical basis for identifying strengths and areas for improvement.
     -   **Quantitative competitor analysis** involves the use of numerical data to assess the performance and strategies of your competitors. This can include metrics like market share, revenue, profit margins, and customer retention rates. The aim is to use these measurable figures to compare your standing against competitors in various key areas objectively. Whether it's pricing strategies or advertising spending, quantitative analysis offers a factual basis to identify your competitive advantages and areas requiring improvement.
--   HEART framework is a user experience measurement model developed by Rodden and colleagues (2010)[^2] from Google. It helps assess the success of a product or service using user-centric metrics. It's widely used in user research to evaluate user satisfaction, measure the impact of design changes, and make informed decisions.
+-   HEART framework is a user experience measurement model developed by Rodden and colleagues (2010) from Google.[^2] It helps assess the success of a product or service using user-centric metrics. It's widely used in user research to evaluate user satisfaction, measure the impact of design changes, and make informed decisions.
     -   **Happiness** measures user satisfaction and happiness with the product or service. It aims to understand how well the user's emotional needs are met and how positively they perceive the overall experience. Common metrics used for assessing happiness include user satisfaction surveys and customer feedback.
     -   **Engagement** gauges how involved and interested users are with the product or service. It helps evaluate if users find the content or feature compelling enough to keep them engaged. Metrics such as time spent on the product, number of visits and user interactions can be used to measure engagement.
     -   **Adoption** metrics assess how well users adopt and use the product or service. It provides insights into the initial onboarding experience and the number of users successfully integrating the product into their routine. Metrics like sign-ups, account creations or downloads are commonly used to evaluate adoption.
@@ -116,10 +116,12 @@ User research adopts a common iterative design approach found in user-centred de
     -   **Employee engagement** measures how involved and enthusiastic employees are about their work and the company they work for. A high level of engagement suggests that employees are not just turning up for a paycheck but are emotionally invested in the company's success. This often leads to better performance and can be a sign of a healthy work environment. Companies typically gauge this through surveys, feedback, and observing work habits.
     -   **Inventory levels** refers to the amount of goods or materials a company has in stock at a given time. This is crucial for businesses that sell physical products. Too much inventory can be costly to store, while too little can result in missed sales opportunities. Keeping inventory levels balanced is key to running a business efficiently.
 
-[^2]: Rodden, Kerry; Hutchinson, Hilary & Fu, Xin. 2010. Measuring the user experience on a large scale: User-centered metrics for web applications. Google: Mountain View, California.
+[^2]: Rodden, K.; Hutchinson, H. & Fu, X. 2010. Measuring the user experience on a large scale: User-centered metrics for web applications. Google: Mountain View, California.
 
 > [!warning]
-> Net Promoter Score (NPS), commonly used as a perception metric in marketing, is no longer recommended for gathering customer insights in behavioural science and user experience due to its fallacious nature.
+> Net Promoter Score (NPS), commonly used as a perception metric in marketing, is no longer recommended for gathering customer insights in behavioural science and user experience due to its fallacious nature. Keiningham and colleagues (2007) argue that there is no empirical evidence supporting the likelihood to recommend question as a better predictor of business growth than other customer loyalty questions such as customer satisfaction and likelihood to purchase again.[^3]
+
+[^3]: Keiningham, T.; Cooil, B.; Andreassen, T. & Aksoy, L. 2007. A longitudinal examination of net promoter and firm revenue growth. *Journal of Marketing*, 71(3), 39–51. <https://doi.org/10.1509/jmkg.71.3.039>
 
 ### Context of use
 
