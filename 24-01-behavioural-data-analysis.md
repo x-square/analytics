@@ -10,7 +10,7 @@ toc-location: left
 number-sections: true
 ---
 
-`This document compiles information from Behavioral Data Analysis with R and Python`
+`This document compiles information from Behavioral Data Analysis with R and Python for academic purposes`
 
 `In preparation`
 
