@@ -1,7 +1,7 @@
 ---
 title: "Notes on data analytics"
 author: "Chiawei Wang"
-date: "December 2023"
+date: "November 2023"
 date-format: "MMMM YYYY"
 format: html
 page-layout: full
@@ -372,90 +372,6 @@ A decision tree is a decision-making tool that allows you, the data analyst, to 
 ### [Principles of design](https://www.coursera.org/learn/visualize-data/supplement/Ijxn6/principles-of-design)
 
 ![Nine principles of design](https://github.com/x-square/visual-resources/blob/main/design-principles-nine.png?raw=true)
-
-## Foundations of data science[^2]
-
-[^2]: This part of notes is compiled from [Google Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics). This program includes over 200 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world advanced data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in advanced data analytics and data science. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to advanced data analytics tools and platforms and key technical skills required for an advanced role.
-
-### PACE stages
-
-As a general rule, data professionals rely on workflow structures to guide them through the duration of data projects. Within a large-scale project, there can be a number of tasks that require a certain order of operations. Identifying complexities and finding consistent ways to work together can make projects more efficient and enable more productive communication. Identifying these and other types of potential blockers early can help you plan and prepare resources in advance before they can negatively affect a project.
-
-Data professionals at Google developed PACE as a flexible model. Through PACE, you will identify areas of action and contexts for when they will need to be considered. All in all, PACE offers professionals a customizable scaffold that can support their efforts while working through every stage of a data project.
-
-![PACE model](https://github.com/x-square/visual-resources/blob/main/pace-model.png?raw=true)
-
-Let’s take a closer look at each stage of the PACE model.
-
-#### Plan
-
-At the beginning of a project, it is important to establish a solid foundation for success. Here you will define the scope of your project. This is when you will begin by identifying the informational needs of the organization. During the planning stage, you will have the widest viewpoint of a project. By assessing all of the factors and processes involved, you are mapping a path to completion, using your creativity to conceptualize a course of action. Here you will also take special note of tasks that may require an innovative approach within your workflow.
-
-The planning stage is where you conceptualize the scope of the project and develop the steps that will guide you through the process of completing a project. Here are a few examples of the types of planning stage tasks:
-
--   Research business data
--   Define the project scope
--   Develop a workflow
--   Assess project and or stakeholder needs
-
-#### Analyze
-
-In the analyzing stage, you will interact with the data for the first time. Here you will acquire all of the data you will need for the project. Some datasets could come from primary sources within your organization. Others may need to be collected from secondary sources outside your company. You may even find that you need governmental or open source data. The analyzing stage is also where you will engage in exploratory data analysis or EDA. This involves cleaning, reorganizing and analyzing all of the necessary data for the project.
-
-The analyzing stage is where you will collect, prepare, and analyze all of the data for your project. Here are a few examples of the types of analyzing stage tasks:
-
--   Format database
--   Scrub data
--   Convert data into usable formats
-
-#### Construct
-
-Just as the name suggests, the construction stage is all about building. In this stage of PACE, you will be building, interpreting, and revising models. Some projects will require machine learning algorithms to uncover correlations within your data. You will use these correlations to uncover information from the data that would otherwise go unused. These relationships can help your organization make informed decisions about the future.
-
-In the construction stage you will build models that will allow you access to hidden relationships locked within data. Here are a few examples of the types of construction stage tasks:
-
--   Select modeling approach
--   Build models
--   Build machine learning algorithms
-
-#### Execute
-
-In the execution stage, you will put your analysis and construction into action. Here you will deliver your findings to the internal (inside of your organization) and external (outside of your organization) stakeholders. Quite often, this will involve stakeholders from the business-side of the companies you are working with. Presenting your findings is only a part of the execution stage. Stakeholders will provide feedback, ask questions, and make recommendations that you will collect and incorporate.
-
-In the execution stage you will present the finding of your analysis, receive feedback, and make revisions as necessary. Here are a few examples of the types of execution stage tasks:
-
--   Share results
--   Present findings to other stakeholders
--   Address feedback
-
-### Communicate objectives with a project proposal
-
-A project proposal can provide the structure and communication needed for tracking tasks. In addition, project proposals are beneficial for teams when facing challenges that require a high degree of flexibility. As projects progress, the expectations, resources, or even team members can change. This will require adjustments within a project that can impact the overall workflow and delivery date.
-
-Each project proposal contains important information that a team will need to consider before work begins. Below is a brief explanation of some common sections you will find in project proposals. Note that the format of project proposals will vary, so not every section described here will be included in every project proposal.
-
--   **Project title** is usually placed near the top of a document. Effective titles are brief and purposeful. Depending on the context and circumstances surrounding a project, the title can change over time.
--   **Project objective** is a one to three sentence explanation of what the project is trying to achieve.
--   **Milestones** are groupings of tasks within a project, breaking the work needed into smaller, manageable goals. Milestones assist in the delegation and scheduling of work that needs to be completed within projects. The milestones in the provided example are representative of future end-of-course projects.
--   **Tasks** detail the work that needs to be completed within a milestone. The tasks in the provided example parallel some of the work you will complete in upcoming end-of-course projects.
--   **Outcomes** are the completed actions or results that allow a project to continue.
--   **Deliverables** are items that can be shared amongst team members or with stakeholders. These are the end products of work undertaken for a project.
--   **Stakeholders** either individuals or groups are directly involved and have a vested interest in the success of a project. Input from stakeholders can serve as a basis for making decisions throughout a project.
--   **Estimated time** is provided at the beginning of a project to indicate the time needed to complete milestones. As a project develops, these estimates will often need to be updated to account for adjustments to timelines or changes in team members.
-
-### Connect PACE with executive summaries
-
-Executive summaries are documents that summarize the most important points about a project, giving decision makers a brief overview of the most relevant information. They can also be used to help new team members quickly become acquainted with a project. The format is designed to respect the responsibilities of decision makers and or executives who may not have time to read and understand an entire report.
-
-Executive summaries are used across numerous industries and organizations. There are many ways to present information within an executive summary, including software options built specifically for that purpose. In this program, you will primarily consider a one-page format within a presentation slide. Although the design and layout of executive summaries can vary, there are key elements that are common among them.
-
-Executive summaries are used across a wide variety of businesses and typically include the following elements:
-
--   **Project theme** is incorporated into the executive summary title to create an immediate connection with the target audience.
--   **Problem statement** focuses on the need or concern being targeted or addressed by the project. Note that the problem can also be referred to as the hypothesis that you’re trying to prove through data analysis.
--   **Solution statement** summarizes a project’s main goal. In this section, actions are described that address the concerns outlined in the problem statement.
--   **Details or key insights** are to provide any additional background information that may assist the target audience in understanding the project's objectives. Determining what details to include depends on the intended audience.
--   **Next steps or recommendations** are information that supports the actions the team plans to take. This can also include recommendations for decision makers based on the insights gained over the course of the project. In this section, a data professional may also include general project reflections. When you are adding to this section, include at least one point for recommendations and one for the suggested next steps.
 
 `Any questions, please reach out`
 
