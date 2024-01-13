@@ -205,7 +205,7 @@ To start off, the data analyst verifies that the data exported to spreadsheets i
 Imagine Cloud Gate, a software company, recently hosted a series of public webinars as free product introductions. The data analyst and webinar program manager want to identify companies that had five or more people attend these sessions. They want to give this list of companies to sales managers who can follow up for potential sales.
 
 | **Name**          | **Research methods** | **Additional information**                   |
-|------------------|------------------|-------------------------------------|
+|-------------------|-------------------|----------------------------------|
 | **Email Address** | `xxxxx@company.com`  | Required information attendees had to submit |
 | **Company**       | \<company name\>     | Optional information attendees could provide |
 
@@ -236,7 +236,7 @@ When you are getting ready for data analysis, you might realize you don't have t
 ### Calculating sample size
 
 | **Terminology**              | **Definitions**                                                                                                                                                                                                                                                                                                                                                                      |
-|-------------|-----------------------------------------------------------|
+|------------------------|------------------------------------------------|
 | **Population**               | The entire group that you are interested in for your study. For example, if you are surveying people in your company, the population would be all the employees in your company.                                                                                                                                                                                                     |
 | **Sample**                   | A subset of your population. Just like a food sample, it is called a sample because it is only a taste. So if your company is too large to survey every individual, you can survey a representative sample of your population.                                                                                                                                                       |
 | **Margin of error**          | Since a sample is used to represent a population, the sample’s results are expected to differ from what the result would have been if you had surveyed the entire population. This difference is called the margin of error. The smaller the margin of error, the closer the results of the sample are to what the result would have been if you had surveyed the entire population. |
@@ -282,14 +282,14 @@ Here are a few impacts cited for certain industries from a previous search:
 -   [Marketing and sales](https://www.dqglobal.com/blog/why-bad-data-is-wasting-your-marketing-efforts): 99% of companies are actively tackling data quality in some way
 -   [Healthcare](https://www.techtarget.com/searchhealthit): Duplicate records can be 10% and even up to 20% of a hospital’s electronic health records
 
-### [Common data-cleaning pitfalls](https://www.coursera.org/learn/process-data/supplement/m3iWu/common-data-cleaning-pitfalls)
+### Common data-cleaning pitfalls\]
 
 ![Errors you might come across while cleaning your data](https://github.com/x-square/images/blob/main/data-cleaning-errors.png?raw=true)
 
 ### Workflow automation
 
 | **Task**                                      | **Can it be automated?** | **Why?**                                                                                                                                                                                                                                                                                                          |
-|------------|------------|-------------------------------------------------|
+|-------------------|-------------------|----------------------------------|
 | Communicating with your team and stakeholders | No                       | Communication is key to understanding the needs of your team and stakeholders as you complete the tasks you are working on. There is no replacement for person-to-person communications.                                                                                                                          |
 | Presenting your findings                      | No                       | Presenting your data is a big part of your job as a data analyst. Making data accessible and understandable to stakeholders and creating data visualizations can’t be automated for the same reasons that communications can’t be automated.                                                                      |
 | Preparing and cleaning data                   | Partially                | Some tasks in data preparation and cleaning can be automated by setting up specific processes, like using a programming script to automatically detect missing values.                                                                                                                                            |
@@ -304,48 +304,81 @@ Engineers use **engineering change orders** to keep track of new product design 
 
 ![Example of changelogs](https://github.com/x-square/visual-resources/blob/main/changelogs.png?raw=true)
 
-### [Adding softs skills to your resume](https://www.coursera.org/learn/process-data/supplement/U8xZj/adding-softs-skills-to-your-resume)
+### Adding softs skills to your resume
+
+-   Analyze your previous work experience and find opportunities to insert a soft skill. For example, if you worked in a restaurant, you could emphasize your communication and adaptability skills that you utilized to effectively function during peak hours.
+-   Call attention to your problem-solving, presentation, research, and communication skills in previous projects or relevant coursework.
+-   Add a mix of soft and professional skills in the skills or summary section of your resume.
 
 ![Common soft skills you will find in an entry-level data analyst resume](https://github.com/x-square/visual-resources/blob/main/data-analyst-soft-skills.png?raw=true)
 
 ## Analyze data to answer questions
 
-### [Keeping data organized with sorting and filters](https://www.coursera.org/learn/analyze-data/supplement/RSNx9/keeping-data-organized-with-sorting-and-filters)
+### Keeping data organized with sorting and filters
 
 The organization of datasets is really important for data analysts. Most of the datasets you will use will be organized as tables. Tables are helpful because they let you manipulate your data and categorize it. Having distinct categories and classifications lets you focus on, and differentiate between, your data quickly and easily.
 
 Data analysts also need to format and adjust data when performing an analysis. **Sorting** and **filtering** are two ways you can keep things organized when you format and adjust data to work with it. For example, a filter can help you find errors or outliers so you can fix or flag them before your analysis. **Outliers** are data points that are very different from similarly collected data and might not be reliable values. The benefit of filtering the data is that after you fix errors or identify outliers, you can remove the filter and return the data to its original organization.
 
-### [Converting data in spreadsheets](https://www.coursera.org/learn/analyze-data/supplement/H7GTe/converting-data-in-spreadsheets)
+Sorting is when you arrange data into a meaningful order to make it easier to understand, analyze, and visualize. It ranks your data based on a specific metric you choose. You can sort data in spreadsheets, SQL databases (when your dataset is too large for spreadsheets), and tables in documents.
+
+Filtering is used when you are only interested in seeing data that meets a specific criteria, and hiding the rest. Filtering is really useful when you have lots of data. You can save time by zeroing in on the data that is really important or the data that has bugs or errors. Most spreadsheets and SQL databases allow you to filter your data in a variety of ways. Filtering gives you the ability to find what you are looking for without too much effor
+
+### Converting data in spreadsheets
 
 As a data analyst, there are lots of scenarios when you might need to convert data in a spreadsheet:
 
--   String to date
--   String to numbers
--   Combining columns
--   Number to percentage
+-   [String to date](https://www.ablebits.com/office-addins-blog/excel-convert-text-date/#:~:text=Excel%20DATEVALUE%20function%20%2D%20change%20text,Excel%20recognizes%20as%20a%20date.&text=So%2C%20the%20formula%20to%20convert,stored%20as%20a%20text%20string.)
+-   [String to numbers](https://www.ablebits.com/office-addins-blog/excel-convert-text-to-number/)
+-   [Combining columns](https://support.microsoft.com/en-us/office/combine-text-from-two-or-more-cells-into-one-cell-81ba0946-ce78-42ed-b3c3-21340eb164a6)
+-   [Number to percentage](https://support.microsoft.com/en-us/office/format-numbers-as-percentages-de49167b-d603-4450-bcaa-31fba6c7b6b4)
 
 > [!tip]
 > Keep in mind that you may have lots of columns of data that require different formats. Consistency is key, and best practice is to make sure an entire column has the same format.
 
-### [Types of data validation](https://www.coursera.org/learn/analyze-data/supplement/tQAED/types-of-data-validation)
+### Types of data validation
 
 As a junior data analyst, you might not perform all of these validations. But you could ask if and how the data was validated before you begin working with a dataset. Data validation helps to ensure the integrity of data. It also gives you confidence that the data you are using is clean.
 
 -   Data type
+    -   **Purpose**: Check that the data matches the data type defined for a field.
+    -   **Example**: Data values for school grades 1-12 must be a numeric data type.
+    -   **Limitations**: The data value 13 would pass the data type validation but would be an unacceptable value. For this case, data range validation is also needed.
 -   Data range
+    -   **Purpose**: Check that the data falls within an acceptable range of values defined for the field.
+    -   **Example**: Data values for school grades should be values between 1 and 12.
+    -   **Limitations**: The data value 11.5 would be in the data range and would also pass as a numeric data type. But, it would be unacceptable because there aren't half grades. For this case, data constraint validation is also needed.
 -   Data constraints
+    -   **Purpose**: Check that the data meets certain conditions or criteria for a field. This includes the type of data entered as well as other attributes of the field, such as number of characters.
+    -   **Example**: Data values for school grades 1-12 must be whole numbers.
+    -   **Limitations**: The data value 13 is a whole number and would pass the content constraint validation. But, it would be unacceptable since 13 isn’t a recognized school grade. For this case, data range validation is also needed.
 -   Data consistency
+    -   **Purpose**: Check that the data makes sense in the context of other related data.
+    -   **Example**: Data values for product shipping dates can’t be earlier than product production dates.
+    -   **Limitations**: Data might be consistent but still incorrect or inaccurate. A shipping date could be later than a production date and still be wrong.
 -   Data structure
+    -   **Purpose**: Check that the data follows or conforms to a set structure.
+    -   **Example**: Web pages must follow a prescribed structure to be displayed properly.
+    -   **Limitations**: A data structure might be correct with the data still incorrect or inaccurate. Content on a web page could be displayed properly and still contain the wrong information.
 -   Code validation
+    -   **Purpose:** Check that the application code systematically performs any of the previously mentioned validations during user data input.
+    -   **Example:** Common problems discovered during code validation include more than one data type allowed, data range checking not done, or ending of text strings not well defined.
+    -   **Limitations:** Code validation might not validate all possible variations with data input.
 
 ## Share data through the art of visualization
 
-### [Effective data visualizations](https://www.coursera.org/learn/visualize-data/supplement/9xEjx/effective-data-visualizations)
+### Effective data visualizations
 
 A data visualization, sometimes referred to as a data viz, allows analysts to properly interpret data. A good way to think of data visualization is that it can be the difference between utter confusion and really grasping an issue. Creating effective data visualizations is a complex task; there is a lot of advice out there, and it can be difficult to grasp it all. In this reading, you are going to learn some tips and tricks for creating effective data visualizations. First, you'll review two frameworks that are useful for thinking about how you can organize the information in your visualization. Second, you'll explore pre-attentive attributes and how they can be used to affect the way people think about your visualizations. From there, you'll do a quick review of the design principles that you should keep in mind when creating your visualization. You will end the reading by reviewing some practices that you can use to avoid creating misleading or inaccurate visualizations.
 
-### [Correlation and causation](https://www.coursera.org/learn/visualize-data/supplement/PPdt5/correlation-and-causation)
+#### McCandless method
+
+-   **Information**: the data you are working with
+-   **Story**: a clear and compelling narrative or concept
+-   **Goal**: a specific objective or function for the visual
+-   **Visual** form: an effective use of metaphor or visual expression
+
+### Correlation and causation
 
 Correlation in statistics is the measure of the degree to which two variables move in relationship to each other. An example of correlation is the idea that `as the temperature goes up, ice cream sales also go up`. It is important to remember that correlation doesn't mean that one event causes another. But, it does indicate that they have a pattern with or a relationship to each other. If one variable goes up and the other variable also goes up, it is a positive correlation. If one variable goes up and the other variable goes down, it is a negative or inverse correlation. If one variable goes up and the other variable stays about the same, there is no correlation.
 
@@ -353,7 +386,18 @@ Causation refers to the idea that an event leads to a specific outcome. For exam
 
 ![Examples of correlation and causation](https://github.com/x-square/visual-resources/blob/main/correlation-causation.png?raw=true)
 
-### [The wonderful world of visualizations](https://www.coursera.org/learn/visualize-data/supplement/j9Wdl/the-wonderful-world-of-visualizations)
+When you make conclusions from data analysis, you need to make sure that you don't assume a causal relationship between elements of your data when there is only a correlation. When your data shows that outdoor temperature and ice cream consumption both go up at the same time, it might be tempting to conclude that hot weather causes people to eat ice cream. But, a closer examination of the data would reveal that every change in temperature doesn’t lead to a change in ice cream purchases. In addition, there might have been a sale on ice cream at the same time that the data was collected, which might not have been considered in your analysis.
+
+For example, pellagra is a disease with symptoms of dizziness, sores, vomiting, and diarrhea. In the early 1900s, people thought that the disease was caused by unsanitary living conditions. Most people who got pellagra also lived in unsanitary environments. But, a closer examination of the data showed that pellagra was the result of a lack of niacin (Vitamin B3). Unsanitary conditions were related to pellagra because most people who couldn’t afford to purchase niacin-rich foods also couldn’t afford to live in more sanitary conditions. But, dirty living conditions turned out to be a correlation only.
+
+### The wonderful world of visualizations
+
+-   **Line chart** is used to track changes over short and long periods of time. When smaller changes exist, line charts are better to use than bar graphs. Line charts can also be used to compare changes over the same period of time for more than one group.
+-   **Column charts** e.g. bar chart use size to contrast and compare two or more values, using height or lengths to represent the specific values.
+-   **Heatmaps** also use color to compare categories in a data set. They are mainly used to show relationships between two variables and use a system of color-coding to represent different values. The following heatmap plots temperature changes for each city during the hottest and coldest months of the year.
+-   **Pie chart** is a circular graph that is divided into segments representing proportions corresponding to the quantity it represents, especially when dealing with parts of a whole.
+-   **Scatter plots** show relationships between different variables. Scatter plots are typically used for two variables for a set of data, although additional variables can be displayed.
+-   **Distribution graph** e.g. histogram displays the spread of various outcomes in a dataset.
 
 Meaningful patterns can take many forms, such as:
 
@@ -363,13 +407,22 @@ Meaningful patterns can take many forms, such as:
 -   **Ranking** is a position in a scale of achievement or status. Data that requires ranking is best represented by a column chart.
 -   **Correlation** shows a mutual relationship or connection between two or more things. A scatter plot is an excellent way to represent this type of data pattern.
 
-### [Data grows on decision trees](https://www.coursera.org/learn/visualize-data/supplement/XvN2U/data-grows-on-decision-trees)
+### Data grows on decision trees
 
 A decision tree is a decision-making tool that allows you, the data analyst, to make decisions based on key questions that you can ask yourself. Each question in the visualization decision tree will help you make a decision about critical features for your visualization. Below is an example of a basic decision tree to guide you towards making a data-driven decision about which visualization is the best way to tell your story. Please note that there are many different types of decision trees that vary in complexity, and can provide more in-depth decisions.
 
 ![Best way to represent data](https://github.com/x-square/visual-resources/blob/main/data-dicision-tree.png?raw=true)
 
-### [Principles of design](https://www.coursera.org/learn/visualize-data/supplement/Ijxn6/principles-of-design)
+Start off by evaluating the type of data you have and go through a series of questions to determine the best visual source:
+
+-   Does your data have only one numeric variable?
+-   Are there multiple datasets?
+-   Are you measuring changes over time?
+-   Do relationships between the data need to be shown?
+
+### Principles of design
+
+There are nine basic principles of design that data analysts should think about when building their visualizations.
 
 ![Nine principles of design](https://github.com/x-square/visual-resources/blob/main/design-principles-nine.png?raw=true)
 
