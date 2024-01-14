@@ -93,28 +93,37 @@ The Berkson's paradox is counterintuitive and hard to understand at first. It ca
 
 > [!important]
 > `Personal characteristics`\
+> \
 > As a behavioral science mantra puts it, **behavior is a function of the person and the environment**, and social factors often have arguably more weight than demographic variables.
 
 > [!important]
 > `Cognition and emotions`\
+> \
 > One of the biggest differences between user experience or human-centered design and behavioral science is that **user experience begins with the presumption that human beings know what they want, how they feel about something and why**, whereas **behavioral science begins with the presumption that we are unaware of a lot of things going on in our own heads**.\
+> \
 > To use a legal metaphor, a behavioral scientist will often treat what someone says as **suspicious until proven trustworthy**, whereas a user experience researcher will treat it as **honest until proven misleading**.\
+> \
 > However, the distinction often gets blurred in practice, depending on the situation at hand. If a behavioral scientist is told by a customer that a website is confusing and frustrating to use, they will take a page from the user experience book and trust that the customer did indeed experience negative emotions. Conversely, when doing foundational product research, a skilled user experience researcher will often go beyond stated intentions and attempt to identify a customer's deeper needs.
 
 > [!important]
 > `Intentions`\
+> \
 > People often fail to follow through on things they want to do, a concept known in behavioral science as the **intention-action gap**. As an example, think of New Year's resolutions and how often they are broken.\
+> \
 > Therefore, a key to driving customer behavior is determining whether a potential response doesn't occur because the customers don't want to take that action or because something happens between intention and action.
 
 > [!important]
 > `Actions`\
+> \
 > An action or behavior is something you should be able to observe if you were in the room at that moment without having to ask the person. **Buying something on Amazon** is an action. So is **reading a review of a product on Amazon**.\
+> \
 > But **knowing something** or **deciding to buy something on Amazon** is not. You can't know that someone has made a decision unless you either ask them or see them acting on that decision which is a consequence but not the same thing.
 
 > [!important]
 > `Business behaviors`\
-> Business behaviors can be an analyst’s worst nightmare: like water to fish, they can be invisible to an organization, and their effects on individual behaviors then become intractable noise:\
-> -   First, many organizations, if they track business behaviors at all, simply don’t track them at the same level of detail as customer behaviors.\
+> \
+> Business behaviors can be an analyst’s worst nightmare: like water to fish, they can be invisible to an organization, and their effects on individual behaviors then become intractable noise:
+> -   First, many organizations, if they track business behaviors at all, simply don’t track them at the same level of detail as customer behaviors.
 > -   Second, business behaviors can affect the interpretation of variables for customer behaviors. The clearest example of that would be sludges, intentional frictions and misleading communication introduced to confuse customers.
 
 ### How to connect behaviors and data?
@@ -276,7 +285,9 @@ Our goal in this book is always to measure the impact of one variable on another
 
 > [!warning]
 > Unobserved variables represent a challenge, because even if they are confirmed through interviews or user research, they can't be accounted for directly in the regression analysis. We can still try to mitigate them somewhat by identifying potential proxies. For example, we may find that conscientiousness is indeed correlated with a lower rate of cancellation, but also with requesting a confirmation email.\
+> \
 > Of course, requesting a confirmation email is not caused only by conscientiousness. It may also reflect the seriousness of the intent, lack of ease with digital channels, etc. And conversely, it may reduce the cancellation rate by itself, by providing easily accessible information on the reservation. Regardless, if we find that this behavior is negatively correlated with cancellation rate, we may leverage that insight by, for example, sending an SMS reminder to customers who didn’t choose to receive a confirmation email.\
+> \
 > By brainstorming and validating through research potential proxies for unobserved variables, we're providing meaningful connections between observable variables. Knowing that requested confirmation is connected with cancellation through Conscientiousness provides a behavioral rationale for what would otherwise be a raw statistical regularity.
 
 ![Identify proxies for unobserved variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-proxies.png?raw=true)
@@ -291,6 +302,7 @@ Our goal in this book is always to measure the impact of one variable on another
 
 > [!tip]
 > If this process seems long and somewhat tedious, that's because it is. Fortunately, this process is extremely cumulative and transferable. Once you've done it for a certain analysis, your knowledge of the causal relationships that matter for your business can be reused for another analysis.\
+> \
 > Similarly, once someone has gone through the process, a new team member or employee can very easily and quickly acquire the corresponding knowledge and pick up where they left off by looking at the resulting causal diagram or even just the list of relevant variables to keep in mind.
 
 ## Using causal diagrams to deconfound data analyses
