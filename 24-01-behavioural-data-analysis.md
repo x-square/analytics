@@ -387,5 +387,5 @@ A path is causal if it's a chain. On the other hand, the path is noncausal becau
 Image via Behavioral Data Analysis with R and Python
 
 Chiawei Wang, PhD\
-Behavioural Data Scientist\
+Cognitive Scientist\
 [chw.wng\@outlook.com](mailto:chw.wng@outlook.com)
