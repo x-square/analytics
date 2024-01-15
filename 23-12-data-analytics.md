@@ -12,13 +12,32 @@ number-sections: true
 
 `This document compiles information from Google Data Analytics for academic purposes`[^1]
 
-[^1]: [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job.
+[^1]: [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you'll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job.
 
 Data analytics is the collection, transformation and organization of data in order to draw conclusions, make predictions and drive informed decision making.
 
 ## Foundations of data analytics
 
-### Six data analysis phases
+### Thinking about analytical thinking
+
+-   **Curiosity**: a desire to know more about something, asking the right questions
+-   **Understanding context**: understanding where information fits into the **big picture**
+-   **Having a technical mindset**: breaking big things into smaller steps
+-   **Data design**: thinking about how to organize data and information
+-   **Data strategy**: thinking about the people, processes, and tools used in data analysis
+
+### Variations of the data life cycle
+
+The data life cycle provides a generic or common framework for how data is managed.
+
+1.  **Plan**: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
+2.  **Capture**: Collect or bring in data from a variety of different sources.
+3.  **Manage**: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so.
+4.  **Analyze**: Use the data to solve problems, make decisions, and support business goals.
+5.  **Archive**: Keep relevant data stored for long-term and future reference.
+6.  **Destroy**: Remove data from storage and delete any shared copies of the data.
+
+### Six phases of data analysis
 
 Analysts use data-driven decision-making and follow a step-by-step process:
 
@@ -31,7 +50,7 @@ Analysts use data-driven decision-making and follow a step-by-step process:
 
 ![Data analysis process](https://github.com/x-square/visual-resources/blob/main/data-analysis-process.png?raw=true)
 
-### SQL
+### Structured query language
 
 SQL (structured query language) is designed for managing and manipulating relational databases. It is used for tasks such as querying data, updating records, inserting new data and deleting information from databases.
 
@@ -43,9 +62,39 @@ SQL (structured query language) is designed for managing and manipulating relati
 
 BigQuery is Google's fully managed, serverless data warehouse that works across clouds and enables scalable analysis. It supports querying using a dialect of SQL.
 
+> [!tip]
+> -   \% is used as a wildcard to match one or more characters
+> -   \<\> means does not equal
+
+### The power of data in business
+
+Issue
+
+:   A topic or subject to investigate
+
+Question
+
+:   Designer to discover information
+
+Problem
+
+:   An obstacle or complication that needs to be worked out
+
+Business task
+
+:   The question or problem data analysis answers for a business e.g. analyse weather data from the last decade to identify predictable patterns
+
+Data-driven decision-making
+
+:   Using facts to guide bushiness strategy
+
+### Exploring your next job
+
+![Decoding job description for data professionals](https://github.com/x-square/visual-resources/blob/main/data-job-description.png?raw=true)
+
 ## Ask questions to make data-driven decisions
 
-### Six problem types
+### Solve problems with data
 
 Data analytics is so much more than just plugging information into a platform to find insights. It is about solving problems. To get to the root of these problems and find practical solutions, there are lots of opportunities for creative thinking. No matter the problem, the first and most important step is understanding it.
 
@@ -85,7 +134,34 @@ No matter how much information you have or how advanced your tools are, your dat
 
 ![Examples of SMART questions](https://github.com/x-square/visual-resources/blob/main/smart-questions.png?raw=true)
 
+### Data trials and triumphs
+
+#### Coke launch failure
+
+In 1985, New Coke was launched, replacing the classic Coke formula. The company had done taste tests with 200,000 people and found that test subjects preferred the taste of New Coke over Pepsi, which had become a tough competitor. Based on this data alone, classic Coke was taken off the market and replaced with New Coke. This was seen as the solution to take back the market share that had been lost to Pepsi.
+
+But as it turns out, New Coke was a massive flop and the company ended up losing tens of millions of dollars. How could this have happened with data that seemed correct? It is because the data wasn't complete, which made it inaccurate. The data didn't consider how customers would feel about New Coke replacing classic Coke. The company's decision to retire classic Coke was a data-driven decision based on incomplete data.
+
+#### Mars orbiter loss
+
+In 1999, NASA lost the \$125 million Mars Climate Orbiter, even though it had good data. The spacecraft burned to pieces because of poor collaboration and communication. The Orbiter's navigation team was using the SI or metric system (newtons) for their force calculations, but the engineers who built the spacecraft used the English Engineering Units system (pounds) for force calculations.
+
+No one realized a problem even existed until the Orbiter burst into flames in the Martian atmosphere. Later, a NASA review board investigating the root cause of the problem figured out that the issue was isolated to the software that controlled the thrusters. One program calculated the thrusters' force in pounds; another program looking at the data assumed it was in newtons. The software controllers were making data-driven decisions to adjust the thrust based on 100% accurate data, but these decisions were wrong because of inaccurate assumptions when interpreting it. A conversion of the data from one system of measurement to the other could have prevented the loss. Note that the data-informed approach can be considered in this case.
+
+> [!tip]
+> -   **Data-inspired** approach (subjective) involves drawing inspiration and insights from data but doesn't necessarily dictate decisions. It acknowledges that data can provide valuable perspectives and ideas, serving as a source of inspiration for further exploration or consideration.
+> -   **Data-informed** approach (inter-subjective) plays a more significant role in decision-making. Decisions are influenced by data, which is used to guide and support the decision-making process. However, other factors, such as experience or intuition, may still be taken into account.
+> -   **Data-driven** approach (objective) places data at the forefront of decision-making. Decisions are primarily based on the analysis and interpretation of data. This approach emphasizes using data to measure outcomes, predict trends, and guide strategic choices. It often involves relying heavily on quantitative evidence to inform decisions.
+  
 ### Qualitative and quantitative data in business
+
+Qualitative data
+
+:   Subjective or explanatory measures of qualities and characteristics
+
+Quantitative data
+
+:   Specific and objective measures of numerical facts
 
 We can take a closer look at the data types and data collection tools. Imagine that you are a data analyst for a chain of movie theaters. Your manager wants you to track trends in:
 
@@ -104,6 +180,31 @@ Your final online survey might include these questions for qualitative data:
 
 Data analysts will generally use both types of data in their work. Usually, qualitative data can help analysts better understand their quantitative data by providing a reason or more thorough explanation. In other words, quantitative data generally gives you the what, and qualitative data generally gives you the why. By using both quantitative and qualitative data, you can learn when people like to go to the movies and why they chose the theater. Maybe they really like the reclining chairs, so your manager can purchase more recliners. Maybe the theater is the only one that serves root beer. Maybe a later show time gives them more time to drive to the theater from where popular restaurants are located. Maybe they go to matinees because they have kids and want to save money. You wouldn't have discovered this information by analyzing only the quantitative data for attendance, profit, and showtimes.
 
+### Connecting the data dots
+
+When thinking about the benefits and challenges of big data, it helps to think about the four Vs:
+
+| Volume         | Variety                 | Velocity                           | Veracity                            |
+|------------------|------------------|------------------|-------------------|
+| Amount of data | Different kinds of data | How fast the data can be processed | Quality and reliability of the data |
+
+: Four Vs for big data
+
+### Structured thinking and scope of work
+
+Structured thinking is the process of recognizing the currect problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options.
+
+Scope of work is an agreed-upon outline of the work you're going to perform on a project:
+
+-   **Deliverables** are items or tasks you will complete before you can finish the project.
+-   **Timelines** include due dates for when deliverables, milestones, and or reports are due.
+-   **Milestones** are significant tasks you will confirm along your timeline to help everyone know the project is on track.
+-   **Reports** notify everyone as you finalize deliverables and meet milestones.
+
+![Example of scope of work](https://github.com/x-square/visual-resources/blob/main/scope-of-work.png?raw=true)
+
+![Example of scope of work in the spreadsheet](https://github.com/x-square/visual-resources/blob/main/scope-of-work-spreadsheet.png?raw=true)
+
 ### Importance of context
 
 Context is the condition in which something exists or happens. Context is important in data analytics because it helps us sift through huge amounts of disorganized data and turn it into something meaningful. The fact is, data has little value if it is not paired with context.
@@ -117,24 +218,112 @@ Context can turn raw data into meaningful information. It is very important for 
 -   **Why** the motivation behind the creation or collection
 -   **How** the method used to create or collect it
 
+Here are some questions to help you get started:
+
+-   What is the problem?
+-   Can it be solved with data? If so, what data?
+-   Where is this data? Does it exist, or do you need to collect it?
+-   Are you using private data that someone will need to give you access to, or publicly available data?
+-   Who are the relevant sponsors and stakeholders for this project? Who is involved, and how?
+-   What are the boundaries for your project? What do you consider in-scope? What do you consider out-of-scope?
+-   Is there any other information you think is relevant to the project?
+-   Is there any information you need or questions you need answered before you can begin?
+
+### Working with stakeholders
+
+Your data analysis project should answer the business task and create opportunities for data-driven decision-making. That's why it is so important to focus on project stakeholders. As a data analyst, it is your responsibility to understand and manage your stakeholders' expectations while keeping the project goals front and center.
+
+You might remember that stakeholders are people who have invested time, interest, and resources into the projects that you are working on. This can be a pretty broad group, and your project stakeholders may change from project to project. But there are three common stakeholder groups that you might find yourself working with: the executive team, the customer-facing team, and the data science team.
+
+Let's get to know more about the different stakeholders and their goals. Then we'll learn some tips for communicating with them effectively.
+
+#### Executive team
+
+The executive team provides strategic and operational leadership to the company. They set goals, develop strategy, and make sure that strategy is executed effectively. The executive team might include vice presidents, the chief marketing officer, and senior-level professionals who help plan and direct the company's work. These stakeholders think about decisions at a very high level and they are looking for the headline news about your project first. They are less interested in the details. Time is very limited with them, so make the most of it by leading your presentations with the answers to their questions. You can keep the more detailed information handy in your presentation appendix or your project documentation for them to dig into when they have more time.
+
+For example, you might find yourself working with the vice president of human resources on an analysis project to understand the rate of employee absences. A marketing director might look to you for competitive analyses. Part of your job will be balancing what information they will need to make informed decisions with their busy schedule.
+
+But you don't have to tackle that by yourself. Your project manager will be overseeing the progress of the entire team, and you will be giving them more regular updates than someone like the vice president of HR. They are able to give you what you need to move forward on a project, including getting approvals from the busy executive team. Working closely with your project manager can help you pinpoint the needs of the executive stakeholders for your project, so don't be afraid to ask them for guidance.
+
+#### Customer-facing team
+
+The customer-facing team includes anyone in an organization who has some level of interaction with customers and potential customers. Typically they compile information, set expectations, and communicate customer feedback to other parts of the internal organization. These stakeholders have their own objectives and may come to you with specific asks. It is important to let the data tell the story and not be swayed by asks from your stakeholders to find certain patterns that might not exist.
+
+Let's say a customer-facing team is working with you to build a new version of a company's most popular product. Part of your work might involve collecting and sharing data about consumers' buying behavior to help inform product features. Here, you want to be sure that your analysis and presentation focuses on what is actually in the data, not on what your stakeholders hope to find.
+
+#### Data science team
+
+Organizing data within a company takes teamwork. There's a good chance you'll find yourself working with other data analysts, data scientists, and data engineers. For example, maybe you team up with a company's data science team to work on boosting company engagement to lower rates of employee turnover. In that case, you might look into the data on employee productivity, while another analyst looks at hiring data. Then you share those findings with the data scientist on your team, who uses them to predict how new processes could boost employee productivity and engagement. When you share what you found in your individual analyses, you uncover the bigger story. A big part of your job will be collaborating with other data team members to find new angles of the data to explore.
+
+Here's a view of how different roles on a typical data science team support different functions:
+
+![Data science team supports different functions](https://github.com/x-square/visual-resources/blob/main/data-science-cross-functions.png?raw=true)
+
+#### Working effectively with stakeholders
+
+When you're working with each group of stakeholders from the executive team, to the customer-facing team, to the data science team, you'll often have to go beyond the data. Use the following tips to communicate clearly, establish trust, and deliver your findings across groups.
+
+Discuss goals
+
+:   Stakeholder requests are often tied to a bigger project or goal. When they ask you for something, take the opportunity to learn more. Start a discussion. Ask about the kind of results the stakeholder wants. Sometimes, a quick chat about goals can help set expectations and plan the next steps.
+
+Feel empowered to say no
+
+:   When faced with urgent data analysis requests from a marketing director for a **high-priority project**, assess feasibility and push back if necessary. Stakeholders may not fully understand the time and effort involved, so clarify expectations by asking about their goals. Be confident in saying no if you can't meet the timeline, and guide them towards more realistic options. Prioritize effectively, communicate limitations, and empower stakeholders to reset expectations based on achievable timelines. Feel empowered to say **no**, but provide context for better understanding.
+
+Plan for the unexpected
+
+:   Before you start a project, make a list of potential roadblocks. Then, when you discuss project expectations and timelines with your stakeholders, give yourself some extra time for problem-solving at each stage of the process.
+
+Know your project
+
+:   Keep track of your discussions about the project over email or reports, and be ready to answer questions about how certain aspects are important for your organization. Get to know how your project connects to the rest of the company and get involved in providing the most insight possible. If you have a good understanding about why you are doing an analysis, it can help you connect your work with other goals and be more effective at solving larger problems.
+
+Start with words and visuals
+
+:   It is common for data analysts and stakeholders to interpret things in different ways while assuming the other is on the same page. This **illusion of agreement** shown as follows has been historically identified as a cause of projects going back-and-forth a number of times before a direction is finally nailed down. To help avoid this, start with a description and a quick visual of what you are trying to convey. Stakeholders have many points of view and may prefer to absorb information in words or pictures. Work with them to make changes and improvements from there. The faster everyone agrees, the faster you can perform the first analysis to test the usefulness of the project, measure the feedback, learn from the data, and implement changes.
+
+Communicate often
+
+:   Your stakeholders will want regular updates on your projects. Share notes about project milestones, setbacks, and changes. Then use your notes to create a shareable report. Another great resource to use is a change-log, which is a tool that will be explored further throughout the program. For now, just know that a is a file containing a chronologically ordered list of modifications made to a project. Depending on the way you set it up, stakeholders can even pop in and view updates whenever they want.
+
+![Example of illusion of agreement via Typical Project Life](https://github.com/x-square/visual-resources/blob/main/typical-project-life.png?raw=true)
+
 ### Data scenarios and responses
 
 When you communicate your analysis and recommendations as a data analyst, it's vital to keep your audience in mind. :
 
 -   Who is our audience?
+    -   Kiri, Product Development Project Manager
 -   What do they already know?
+    -   Kiri received updates about our project from its planning stages, including the most recent project report, sent two weeks ago.
 -   What do they need to know?
+    -   Kiri needs an update on the analysis project’s progress and needs to know that the executive team approved changes to the data and timeline. You know that adding a new variable to the analysis will impact the current project timeline. Kiri will need to change the project’s milestones and completion date.
 -   How can we best communicate what they need to know?
+    -   You can start by sending an email update to Kiri with the latest timeline for the project, but a meeting might be necessary if she wants to talk through her concerns about missing a deadline.
+
+![Sample of updated timeline email](https://github.com/x-square/visual-resources/blob/main/email-timelime.png?raw=true)
+
+![Sample of project follow-up email](https://github.com/x-square/visual-resources/blob/main/email-follow-up.png?raw=true)
 
 ### Limitations of data
 
 Data is powerful, but it has its limitations. Has someone's personal opinion found its way into the numbers? Is your data telling the whole story? Part of being a great data analyst is knowing the limits of data and planning for them.
 
 -   Case of incomplete or non-existent data
+    -   If your data is incomplete or missing, you may realize during analysis that you lack sufficient information for a conclusion or may be addressing a different issue. For instance, if seeking employees with a specific certificate, but certification records only cover the last two years, you can still use the data, but highlight the analysis limitations. You could explore alternative data sources, like contacting the training company, but transparently communicate the incomplete dataset until additional data is obtained.
 -   Don't miss misaligned data
+    -   When collecting data from various teams and existing spreadsheets, be aware that different teams may apply distinct business rules. For instance, one team may define a metric based on all trainees who registered, while another team counts only those who completed the program. Standardizing measurement approaches early on ensures consistency, reliability, and accuracy in the data. This practice facilitates meaningful and insightful comparisons between teams.
 -   Deal with dirty data
+    -   Dirty data, containing errors, can result in productivity loss, unnecessary spending, and poor decision-making. Data cleaning, the process of fixing or removing incorrect, corrupted, and incomplete data, helps prevent these issues. Learning how to clean data is crucial to avoid data disasters, and this will be covered later in the training.
 -   Tell a clear story
+    -   Compare the same types of data
+    -   Visualize with care
+    -   Leave out needless graphs
+    -   Test for statistical significance
+    -   Pay attention to sample size
 -   Be the judge
+    -   In organizations, data analysts play a key role in making informed judgments. Understanding data limitations enables making decisions based on accurate information. Incomplete or uncleaned data can be misleading. Ensure data completeness and consistency by cleaning it before analysis, saving time and effort.
 
 ### Leading great meetings
 
@@ -236,12 +425,12 @@ When you are getting ready for data analysis, you might realize you don't have t
 ### Calculating sample size
 
 | **Terminology**              | **Definitions**                                                                                                                                                                                                                                                                                                                                                                      |
-|------------------------|------------------------------------------------|
+|--------------------------|----------------------------------------------|
 | **Population**               | The entire group that you are interested in for your study. For example, if you are surveying people in your company, the population would be all the employees in your company.                                                                                                                                                                                                     |
 | **Sample**                   | A subset of your population. Just like a food sample, it is called a sample because it is only a taste. So if your company is too large to survey every individual, you can survey a representative sample of your population.                                                                                                                                                       |
-| **Margin of error**          | Since a sample is used to represent a population, the sample’s results are expected to differ from what the result would have been if you had surveyed the entire population. This difference is called the margin of error. The smaller the margin of error, the closer the results of the sample are to what the result would have been if you had surveyed the entire population. |
+| **Margin of error**          | Since a sample is used to represent a population, the sample's results are expected to differ from what the result would have been if you had surveyed the entire population. This difference is called the margin of error. The smaller the margin of error, the closer the results of the sample are to what the result would have been if you had surveyed the entire population. |
 | **Confidence level**         | How confident you are in the survey results. For example, a 95% confidence level means that if you were to run the same survey 100 times, you would get similar results 95 of those 100 times. Confidence level is targeted before you start your study because it will affect how big your margin of error is at the end of your study.                                             |
-| **Confidence interval**      | The range of possible values that the population’s result would be at the confidence level of the study. This range is the sample result plus and minus the margin of error. Briefly, `confidence interval = sample mean ± margin of error`.                                                                                                                                         |
+| **Confidence interval**      | The range of possible values that the population's result would be at the confidence level of the study. This range is the sample result plus and minus the margin of error. Briefly, `confidence interval = sample mean ± margin of error`.                                                                                                                                         |
 | **Statistical significance** | The determination of whether your result could be due to random chance or not. The greater the significance, the less due to chance.                                                                                                                                                                                                                                                 |
 
 : Statistical terms and definitions
@@ -280,7 +469,7 @@ Here are a few impacts cited for certain industries from a previous search:
 -   [Banking](https://sloanreview.mit.edu/article/seizing-opportunity-in-data-quality): Inaccuracies cost companies between 15% and 25% of revenue
 -   [Digital commerce](https://www.demandgen.com/dirty-data-what-is-it-costing-you): Up to 25% of B2B database contacts contain inaccuracies
 -   [Marketing and sales](https://www.dqglobal.com/blog/why-bad-data-is-wasting-your-marketing-efforts): 99% of companies are actively tackling data quality in some way
--   [Healthcare](https://www.techtarget.com/searchhealthit): Duplicate records can be 10% and even up to 20% of a hospital’s electronic health records
+-   [Healthcare](https://www.techtarget.com/searchhealthit): Duplicate records can be 10% and even up to 20% of a hospital's electronic health records
 
 ### Common data-cleaning pitfalls\]
 
@@ -291,7 +480,7 @@ Here are a few impacts cited for certain industries from a previous search:
 | **Task**                                      | **Can it be automated?** | **Why?**                                                                                                                                                                                                                                                                                                          |
 |-------------------|-------------------|----------------------------------|
 | Communicating with your team and stakeholders | No                       | Communication is key to understanding the needs of your team and stakeholders as you complete the tasks you are working on. There is no replacement for person-to-person communications.                                                                                                                          |
-| Presenting your findings                      | No                       | Presenting your data is a big part of your job as a data analyst. Making data accessible and understandable to stakeholders and creating data visualizations can’t be automated for the same reasons that communications can’t be automated.                                                                      |
+| Presenting your findings                      | No                       | Presenting your data is a big part of your job as a data analyst. Making data accessible and understandable to stakeholders and creating data visualizations can't be automated for the same reasons that communications can't be automated.                                                                      |
 | Preparing and cleaning data                   | Partially                | Some tasks in data preparation and cleaning can be automated by setting up specific processes, like using a programming script to automatically detect missing values.                                                                                                                                            |
 | Data exploration                              | Partially                | Sometimes the best way to understand data is to see it. Luckily, there are plenty of tools available that can help automate the process of visualising data. These tools can speed up the process of visualizing and understanding the data, but the exploration itself still needs to be done by a data analyst. |
 | Modelling the data                            | Yes                      | Data modelling is a difficult process that involves lots of different factors Luckily there are tools that can completely automate the different stages.                                                                                                                                                          |
@@ -351,10 +540,10 @@ As a junior data analyst, you might not perform all of these validations. But yo
 -   Data constraints
     -   **Purpose**: Check that the data meets certain conditions or criteria for a field. This includes the type of data entered as well as other attributes of the field, such as number of characters.
     -   **Example**: Data values for school grades 1-12 must be whole numbers.
-    -   **Limitations**: The data value 13 is a whole number and would pass the content constraint validation. But, it would be unacceptable since 13 isn’t a recognized school grade. For this case, data range validation is also needed.
+    -   **Limitations**: The data value 13 is a whole number and would pass the content constraint validation. But, it would be unacceptable since 13 isn't a recognized school grade. For this case, data range validation is also needed.
 -   Data consistency
     -   **Purpose**: Check that the data makes sense in the context of other related data.
-    -   **Example**: Data values for product shipping dates can’t be earlier than product production dates.
+    -   **Example**: Data values for product shipping dates can't be earlier than product production dates.
     -   **Limitations**: Data might be consistent but still incorrect or inaccurate. A shipping date could be later than a production date and still be wrong.
 -   Data structure
     -   **Purpose**: Check that the data follows or conforms to a set structure.
@@ -386,9 +575,9 @@ Causation refers to the idea that an event leads to a specific outcome. For exam
 
 ![Examples of correlation and causation](https://github.com/x-square/visual-resources/blob/main/correlation-causation.png?raw=true)
 
-When you make conclusions from data analysis, you need to make sure that you don't assume a causal relationship between elements of your data when there is only a correlation. When your data shows that outdoor temperature and ice cream consumption both go up at the same time, it might be tempting to conclude that hot weather causes people to eat ice cream. But, a closer examination of the data would reveal that every change in temperature doesn’t lead to a change in ice cream purchases. In addition, there might have been a sale on ice cream at the same time that the data was collected, which might not have been considered in your analysis.
+When you make conclusions from data analysis, you need to make sure that you don't assume a causal relationship between elements of your data when there is only a correlation. When your data shows that outdoor temperature and ice cream consumption both go up at the same time, it might be tempting to conclude that hot weather causes people to eat ice cream. But, a closer examination of the data would reveal that every change in temperature doesn't lead to a change in ice cream purchases. In addition, there might have been a sale on ice cream at the same time that the data was collected, which might not have been considered in your analysis.
 
-For example, pellagra is a disease with symptoms of dizziness, sores, vomiting, and diarrhea. In the early 1900s, people thought that the disease was caused by unsanitary living conditions. Most people who got pellagra also lived in unsanitary environments. But, a closer examination of the data showed that pellagra was the result of a lack of niacin (Vitamin B3). Unsanitary conditions were related to pellagra because most people who couldn’t afford to purchase niacin-rich foods also couldn’t afford to live in more sanitary conditions. But, dirty living conditions turned out to be a correlation only.
+For example, pellagra is a disease with symptoms of dizziness, sores, vomiting, and diarrhea. In the early 1900s, people thought that the disease was caused by unsanitary living conditions. Most people who got pellagra also lived in unsanitary environments. But, a closer examination of the data showed that pellagra was the result of a lack of niacin (Vitamin B3). Unsanitary conditions were related to pellagra because most people who couldn't afford to purchase niacin-rich foods also couldn't afford to live in more sanitary conditions. But, dirty living conditions turned out to be a correlation only.
 
 ### The wonderful world of visualizations
 
@@ -429,5 +618,5 @@ There are nine basic principles of design that data analysts should think about 
 `Any questions, please reach out`
 
 Chiawei Wang, PhD\
-Behavioural Data Scientist\
+Cognitive Scientist\
 [chw.wng\@outlook.com](mailto:chw.wng@outlook.com)
