@@ -253,5 +253,5 @@ Contextual biases are biases influenced by the situation. They lead to judgments
 `Any questions, please reach out`
 
 Chiawei Wang, PhD\
-Behavioural Data Scientist\
+Cognitive Scientist\
 [chw.wng\@outlook.com](mailto:chw.wng@outlook.com)
