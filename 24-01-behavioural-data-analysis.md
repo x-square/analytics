@@ -18,7 +18,7 @@ number-sections: true
 
 Understanding what drives behaviors in order to change them is one of the key goals of applied analytics, whether in a business, a nonprofit, or a public organization. We want to figure out why someone bought something and why someone else didn’t buy it. We want to understand why someone renewed their subscription, contacted a call center instead of paying online, registered to be an organ donor, or gave to a nonprofit. Having this knowledge allows us to predict what people will do under different scenarios and helps us to determine what our organization can do to encourage them to do it again or not.
 
-![Causal-behavioural framework for data analysis](https://github.com/x-square/visual-resources/blob/main/cause-behaviour-data.png?raw=true)
+![Causal-behavioural framework for data analysis](https://github.com/x-square/visual-resources/blob/main/cause-behaviour-data.png?raw=true "Causal-behavioural framework for data analysis")
 
 ### Why we need causal analytics to explain human behavior?
 
@@ -68,9 +68,9 @@ The Berkson's paradox is counterintuitive and hard to understand at first. It ca
 
 ### A basic model of human behavior
 
-![Model of human behaviour for a midlife crisis](https://github.com/x-square/visual-resources/blob/main/human-behaviour-midlife-crisis.png?raw=true)
+![Model of human behaviour for a midlife crisis](https://github.com/x-square/visual-resources/blob/main/human-behaviour-midlife-crisis.png?raw=true "Model of human behaviour for a midlife crisis")
 
-![Model of human behaviour](https://github.com/x-square/visual-resources/blob/main/human-behaviour.png?raw=true)
+![Model of human behaviour](https://github.com/x-square/visual-resources/blob/main/human-behaviour.png?raw=true "Model of human behaviour")
 
 -   Personal characteristics
     -   Age, gender, family situation -- widely available and used
@@ -91,40 +91,36 @@ The Berkson's paradox is counterintuitive and hard to understand at first. It ca
 
 [^2]: Note that the terms action and behaviour are often used interchangeably.
 
-> [!important]
-> `Personal characteristics`\
-> \
-> As a behavioral science mantra puts it, **behavior is a function of the person and the environment**, and social factors often have arguably more weight than demographic variables.
+#### Personal characteristics
 
-> [!important]
-> `Cognition and emotions`\
-> \
-> One of the biggest differences between user experience or human-centered design and behavioral science is that **user experience begins with the presumption that human beings know what they want, how they feel about something and why**, whereas **behavioral science begins with the presumption that we are unaware of a lot of things going on in our own heads**.\
-> \
-> To use a legal metaphor, a behavioral scientist will often treat what someone says as **suspicious until proven trustworthy**, whereas a user experience researcher will treat it as **honest until proven misleading**.\
-> \
-> However, the distinction often gets blurred in practice, depending on the situation at hand. If a behavioral scientist is told by a customer that a website is confusing and frustrating to use, they will take a page from the user experience book and trust that the customer did indeed experience negative emotions. Conversely, when doing foundational product research, a skilled user experience researcher will often go beyond stated intentions and attempt to identify a customer's deeper needs.
+As a behavioral science mantra puts it, **behavior is a function of the person and the environment**, and social factors often have arguably more weight than demographic variables.
 
-> [!important]
-> `Intentions`\
-> \
-> People often fail to follow through on things they want to do, a concept known in behavioral science as the **intention-action gap**. As an example, think of New Year's resolutions and how often they are broken.\
-> \
-> Therefore, a key to driving customer behavior is determining whether a potential response doesn't occur because the customers don't want to take that action or because something happens between intention and action.
+#### Cognition and emotions
 
-> [!important]
-> `Actions`\
-> \
-> An action or behavior is something you should be able to observe if you were in the room at that moment without having to ask the person. **Buying something on Amazon** is an action. So is **reading a review of a product on Amazon**.\
-> \
-> But **knowing something** or **deciding to buy something on Amazon** is not. You can't know that someone has made a decision unless you either ask them or see them acting on that decision which is a consequence but not the same thing.
+One of the biggest differences between user experience or human-centered design and behavioral science is that **user experience begins with the presumption that human beings know what they want, how they feel about something and why**, whereas **behavioral science begins with the presumption that we are unaware of a lot of things going on in our own heads**.
 
-> [!important]
-> `Business behaviors`\
-> \
-> Business behaviors can be an analyst’s worst nightmare: like water to fish, they can be invisible to an organization, and their effects on individual behaviors then become intractable noise:
-> -   First, many organizations, if they track business behaviors at all, simply don’t track them at the same level of detail as customer behaviors.
-> -   Second, business behaviors can affect the interpretation of variables for customer behaviors. The clearest example of that would be sludges, intentional frictions and misleading communication introduced to confuse customers.
+To use a legal metaphor, a behavioral scientist will often treat what someone says as **suspicious until proven trustworthy**, whereas a user experience researcher will treat it as **honest until proven misleading**.
+
+However, the distinction often gets blurred in practice, depending on the situation at hand. If a behavioral scientist is told by a customer that a website is confusing and frustrating to use, they will take a page from the user experience book and trust that the customer did indeed experience negative emotions. Conversely, when doing foundational product research, a skilled user experience researcher will often go beyond stated intentions and attempt to identify a customer's deeper needs.
+
+#### Intentions
+
+People often fail to follow through on things they want to do, a concept known in behavioral science as the **intention-action gap**. As an example, think of New Year's resolutions and how often they are broken.
+
+Therefore, a key to driving customer behavior is determining whether a potential response doesn't occur because the customers don't want to take that action or because something happens between intention and action.
+
+#### Actions
+
+An action or behavior is something you should be able to observe if you were in the room at that moment without having to ask the person. **Buying something on Amazon** is an action. So is **reading a review of a product on Amazon**.
+
+But **knowing something** or **deciding to buy something on Amazon** is not. You can't know that someone has made a decision unless you either ask them or see them acting on that decision which is a consequence but not the same thing.
+
+#### Business behaviors
+
+Business behaviors can be an analyst’s worst nightmare: like water to fish, they can be invisible to an organization, and their effects on individual behaviors then become intractable noise:
+
+-   First, many organizations, if they track business behaviors at all, simply don’t track them at the same level of detail as customer behaviors.
+-   Second, business behaviors can affect the interpretation of variables for customer behaviors. The clearest example of that would be sludges, intentional frictions and misleading communication introduced to confuse customers.
 
 ### How to connect behaviors and data?
 
@@ -149,8 +145,7 @@ In this section, I'll give you a list of tips to behavioralize your data and ens
     -   Information and known unknowns
     -   The dog that didn't bark e.g. what people don't do can often be as interesting as what they do
 
-> [!tip]
-> Often the best way to understand the context in which people behave is through qualitative research such as interviews and surveys, whose insights can be used to generate new variables.
+Often the best way to understand the context in which people behave is through qualitative research such as interviews and surveys, whose insights can be used to generate new variables.
 
 ## Introduction to causal diagrams
 
@@ -162,7 +157,7 @@ Each rectangle represents a variable we can observe, and the arrow between them 
 
 Sometimes, however, there will be an additional variable that we aren’t able to observe. If we still want to show it in a causal diagram, we can represent it with a shaded rectangle.
 
-![Example of causal diagram with unobserved variable](https://github.com/x-square/visual-resources/blob/main/causal-diagram.png?raw=true)
+![Example of causal diagram with unobserved variable](https://github.com/x-square/visual-resources/blob/main/causal-diagram.png?raw=true "Example of causal diagram with unobserved variable")
 
 #### Causal diagrams represent behaviors
 
@@ -178,7 +173,7 @@ When relationships between variables in our data are entirely linear, or approxi
 
 The linearity requirement may seem very restrictive. However, some of the rules and tools of linear algebra continue to apply when some of these relationships are not linear but still belong to the broad category of models called generalized linear models. A **logistic regression** model for example is a generalized linear model. This means that we can represent and handle a causal relationship where the effect (depentant) variable is binary (**yes or no**) with causal diagrams. As the sidebar shows, the math gets more convoluted in that case, but most of our intuitions about causal diagrams remain true.
 
-![Example of causal diagram of binary variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-binary-variables.png?raw=true)
+![Example of causal diagram of binary variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-binary-variables.png?raw=true "Example of causal diagram of binary variables")
 
 ### Fundamental structures of causal diagrams
 
@@ -186,18 +181,19 @@ The linearity requirement may seem very restrictive. However, some of the rules 
 -   Forks
 -   Colliders
 
-> [!tip]
-> Forks are also typical of situations where we look at demographic variables: age, gender, and place of residence all cause a variety of other variables that may or may not cause each other. You can picture a demographic variable such as age as being at the root of a fork with many teeth.
+Forks are also typical of situations where we look at demographic variables: age, gender, and place of residence all cause a variety of other variables that may or may not cause each other. You can picture a demographic variable such as age as being at the root of a fork with many teeth.
 
-![Example of causal diagram of a chain](https://github.com/x-square/visual-resources/blob/main/causal-diagram-chain.png?raw=true)
+![Example of causal diagram of a chain](https://github.com/x-square/visual-resources/blob/main/causal-diagram-chain.png?raw=true "Example of causal diagram of a chain")
 
-![Example of causal diagram of a fork](https://github.com/x-square/visual-resources/blob/main/causal-diagram-fork.png?raw=true)
+![Example of causal diagram of a fork](https://github.com/x-square/visual-resources/blob/main/causal-diagram-fork.png?raw=true "Example of causal diagram of a fork")
 
-![Example of causal diagram of fork with a chain](https://github.com/x-square/visual-resources/blob/main/causal-diagram-fork-chain.png?raw=true)
+![Example of causal diagram of fork with a chain](https://github.com/x-square/visual-resources/blob/main/causal-diagram-fork-chain.png?raw=true "Example of causal diagram of fork with a chain")
 
-![Example of causal diagram of a collider](https://github.com/x-square/visual-resources/blob/main/causal-diagram-collider.png?raw=true)
+![Example of causal diagram of a collider](https://github.com/x-square/visual-resources/blob/main/causal-diagram-collider.png?raw=true "Example of causal diagram of a collider")
 
-![Example of causal diagram of three variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-three-variables.png?raw=true)
+![Example of causal diagram of a collider](https://github.com/x-square/visual-resources/blob/main/causal-diagram-collider.png?raw=true "Example of causal diagram of a collider")
+
+![Example of causal diagram of three variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-three-variables.png?raw=true "Example of causal diagram of three variables")
 
 ### Common transformations of causal diagrams
 
@@ -215,13 +211,13 @@ In real life, we often see variables that influence each other causally. This ty
 -   **Substitution effect** is a cornerstone of economics theory. Customers might substitute a product for another, depending on the products' availability and price and the customers' desire for variety e.g. customers choose between iced coffee and hot coffee based not only on temperature but also on special promotions and how often they had coffee this week.
 -   Another common cycle is a **feedback loop**, where a person modifies their behavior in reaction to changes in the environment e.g. a store manager keeps an eye on the length of waiting lines and open new lines if the existing ones get too long, so that customers don't give up and just leave.
 
-![Example of causal diagram of substitution effect](https://github.com/x-square/visual-resources/blob/main/causal-diagram-substitution.png?raw=true)
+![Example of causal diagram of substitution effect](https://github.com/x-square/visual-resources/blob/main/causal-diagram-substitution.png?raw=true "Example of causal diagram of substitution effect")
 
-![Example of causal diagram of feedback loop](https://github.com/x-square/visual-resources/blob/main/causal-diagram-feedback-loop.png?raw=true)
+![Example of causal diagram of feedback loop](https://github.com/x-square/visual-resources/blob/main/causal-diagram-feedback-loop.png?raw=true "Example of causal diagram of feedback loop")
 
 In almost all cases, it takes some **time** for one variable to influence another, which means you can **break the cycle** and turn it into an **acyclical** causal diagram e.g. it takes 15 minutes for a store manager to react to an increasing waiting time by getting new lines open, and it similarly takes 15 minutes for customers to adjust their perception of waiting time. In that case, by clarifying the temporal order of things, we can split the waiting time variable in our causal diagram.
 
-![Example of causal diagram of time increments](https://github.com/x-square/visual-resources/blob/main/causal-diagram-time-increments.png?raw=true)
+![Example of causal diagram of time increments](https://github.com/x-square/visual-resources/blob/main/causal-diagram-time-increments.png?raw=true "Example of causal diagram of time increments")
 
 Having seen the various ways variables can interact, we can now introduce one last concept, **paths**, which encompasses all of them. We say that there is a path between two variables **if there are arrows between them, regardless of the direction of the arrows, and if no variable appears twice along the way**.
 
@@ -229,13 +225,13 @@ Having seen the various ways variables can interact, we can now introduce one la
 
 Our goal in this book is always to measure the impact of one variable on another, which we can represent as a **starter** causal diagram as follows.
 
-![The simplest possible causal diagram](https://github.com/x-square/visual-resources/blob/main/causal-diagram-simplest.png?raw=true)
+![The simplest possible causal diagram](https://github.com/x-square/visual-resources/blob/main/causal-diagram-simplest.png?raw=true "The simplest possible causal diagram")
 
 ### Business problem and data setup
 
 -   Understanding the relationship of interest
 
-![Example of causal diagram of causal relationship of interest](https://github.com/x-square/visual-resources/blob/main/causal-diagram-relationship-interest.png?raw=true)
+![Example of causal diagram of causal relationship of interest](https://github.com/x-square/visual-resources/blob/main/causal-diagram-relationship-interest.png?raw=true "Example of causal diagram of causal relationship of interest")
 
 ### Identify candidate variables to include
 
@@ -246,7 +242,7 @@ Our goal in this book is always to measure the impact of one variable on another
 -   Business behaviors
 -   Time trends
 
-![Example of updated causal diagram at the final step](https://github.com/x-square/visual-resources/blob/main/causal-diagram-final-step.png?raw=true)
+![Example of updated causal diagram at the final step](https://github.com/x-square/visual-resources/blob/main/causal-diagram-final-step.png?raw=true "Example of updated causal diagram at the final step")
 
 ### Validate observable variables to include based on data
 
@@ -254,24 +250,23 @@ Our goal in this book is always to measure the impact of one variable on another
 -   Relationships between categorical variables
 -   Relationships between numeric and categorical variables
 
-![Observable variables between categorical and numeric](https://github.com/x-square/visual-resources/blob/main/causal-diagram-observable.png?raw=true)
+![Observable variables between categorical and numeric](https://github.com/x-square/visual-resources/blob/main/causal-diagram-observable.png?raw=true "Observable variables between categorical and numeric")
 
-![Correlation matrix for numeric and binary variables](https://github.com/x-square/visual-resources/blob/main/correlation-matrix-numeric-binary.png?raw=true)
+![Correlation matrix for numeric and binary variables](https://github.com/x-square/visual-resources/blob/main/correlation-matrix-numeric-binary.png?raw=true "Correlation matrix for numeric and binary variables")
 
-![Updated causal diagram of numeric and binary variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-numeric-updated.png?raw=true)
+![Updated causal diagram of numeric and binary variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-numeric-updated.png?raw=true "Updated causal diagram of numeric and binary variables")
 
-![Correlation matrix for categorical and binary variables](https://github.com/x-square/visual-resources/blob/main/correlation-matrix-categorical-binary.png?raw=true)
+![Correlation matrix for categorical and binary variables](https://github.com/x-square/visual-resources/blob/main/correlation-matrix-categorical-binary.png?raw=true "Correlation matrix for categorical and binary variables")
 
-![Updated causal diagram of categorical and binary variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-categorical-updated.png?raw=true)
+![Updated causal diagram of categorical and binary variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-categorical-updated.png?raw=true "Updated causal diagram of categorical and binary variables")
 
-> [!warning]
-> Measuring correlations between numeric and categorical variables is a more cumbersome process than measuring correlations within a homogenous category. We can check if this is the case by comparing the mean of the numeric variable across the categories of the categorical variable. For example, we expect that the financial characteristics of the customer may impact the average daily rate for the reservation. Note that it would be best to explore that relationship after having built better variables for customer segmentation.
+Measuring correlations between numeric and categorical variables is a more cumbersome process than measuring correlations within a homogenous category. We can check if this is the case by comparing the mean of the numeric variable across the categories of the categorical variable. For example, we expect that the financial characteristics of the customer may impact the average daily rate for the reservation. Note that it would be best to explore that relationship after having built better variables for customer segmentation.
 
-![Lastest version of causal diagram of observable variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-observable-latest.png?raw=true)
+![Latest version of causal diagram of observable variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-observable-latest.png?raw=true "Latest version of causal diagram of observable variables")
 
 ### Expand Causal Diagram Iteratively
 
-![Tentative causal diagram with unobservable variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-unobservable.png?raw=true)
+![Tentative causal diagram with unobservable variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-unobservable.png?raw=true "Tentative causal diagram with unobservable variables")
 
 -   Identify proxies for unobserved variables
 -   Identify further causes
@@ -283,33 +278,29 @@ Our goal in this book is always to measure the impact of one variable on another
     -   Combine variables for clarity when reading the diagram or when variation between types does not matter.
     -   Break cycles wherever you find them by introducing intermediary steps or identifying the aspect of the relationship that is important.
 
-> [!warning]
-> Unobserved variables represent a challenge, because even if they are confirmed through interviews or user research, they can't be accounted for directly in the regression analysis. We can still try to mitigate them somewhat by identifying potential proxies. For example, we may find that conscientiousness is indeed correlated with a lower rate of cancellation, but also with requesting a confirmation email.\
-> \
-> Of course, requesting a confirmation email is not caused only by conscientiousness. It may also reflect the seriousness of the intent, lack of ease with digital channels, etc. And conversely, it may reduce the cancellation rate by itself, by providing easily accessible information on the reservation. Regardless, if we find that this behavior is negatively correlated with cancellation rate, we may leverage that insight by, for example, sending an SMS reminder to customers who didn’t choose to receive a confirmation email.\
-> \
-> By brainstorming and validating through research potential proxies for unobserved variables, we're providing meaningful connections between observable variables. Knowing that requested confirmation is connected with cancellation through Conscientiousness provides a behavioral rationale for what would otherwise be a raw statistical regularity.
+Unobserved variables represent a challenge, because even if they are confirmed through interviews or user research, they can't be accounted for directly in the regression analysis. We can still try to mitigate them somewhat by identifying potential proxies. For example, we may find that conscientiousness is indeed correlated with a lower rate of cancellation, but also with requesting a confirmation email.
 
-![Identify proxies for unobserved variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-proxies.png?raw=true)
+Of course, requesting a confirmation email is not caused only by conscientiousness. It may also reflect the seriousness of the intent, lack of ease with digital channels, etc. And conversely, it may reduce the cancellation rate by itself, by providing easily accessible information on the reservation. Regardless, if we find that this behavior is negatively correlated with cancellation rate, we may leverage that insight by, for example, sending an SMS reminder to customers who didn’t choose to receive a confirmation email.
 
-> [!tip]
-> There are however significant decreasing returns to this process. As you expand your causal diagram **outward**, the newly added variables will tend to have smaller and smaller correlations with your variables of interest, because of all the noise along the way. This means that accounting for them will deconfound your relationship of interest in smaller and smaller quantities.
+By brainstorming and validating through research potential proxies for unobserved variables, we're providing meaningful connections between observable variables. Knowing that requested confirmation is connected with cancellation through Conscientiousness provides a behavioral rationale for what would otherwise be a raw statistical regularity.
 
-> [!tip]
-> The only observable variable without any parent (observable or unobservable) is Year, and obviously it can't have one (apart maybe from the laws of physics?), so this step doesn't apply.
+![Identify proxies for unobserved variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-proxies.png?raw=true "Identify proxies for unobserved variables")
 
-![Simplified version of causal diagram](https://github.com/x-square/visual-resources/blob/main/causal-diagram-simplified.png?raw=true)
+There are however significant decreasing returns to this process. As you expand your causal diagram **outward**, the newly added variables will tend to have smaller and smaller correlations with your variables of interest, because of all the noise along the way. This means that accounting for them will deconfound your relationship of interest in smaller and smaller quantities.
 
-> [!tip]
-> If this process seems long and somewhat tedious, that's because it is. Fortunately, this process is extremely cumulative and transferable. Once you've done it for a certain analysis, your knowledge of the causal relationships that matter for your business can be reused for another analysis.\
-> \
-> Similarly, once someone has gone through the process, a new team member or employee can very easily and quickly acquire the corresponding knowledge and pick up where they left off by looking at the resulting causal diagram or even just the list of relevant variables to keep in mind.
+The only observable variable without any parent (observable or unobservable) is Year, and obviously it can't have one (apart maybe from the laws of physics?), so this step doesn't apply.
+
+![Simplified version of causal diagram](https://github.com/x-square/visual-resources/blob/main/causal-diagram-simplified.png?raw=true "Simplified version of causal diagram")
+
+If this process seems long and somewhat tedious, that's because it is. Fortunately, this process is extremely cumulative and transferable. Once you've done it for a certain analysis, your knowledge of the causal relationships that matter for your business can be reused for another analysis.
+
+Similarly, once someone has gone through the process, a new team member or employee can very easily and quickly acquire the corresponding knowledge and pick up where they left off by looking at the resulting causal diagram or even just the list of relevant variables to keep in mind.
 
 ## Using causal diagrams to deconfound data analyses
 
-![Causal diagram for a business problem](https://github.com/x-square/visual-resources/blob/main/causal-diagram-business.png?raw=true)
+![Causal diagram for a business problem](https://github.com/x-square/visual-resources/blob/main/causal-diagram-business.png?raw=true "Causal diagram for a business problem")
 
-![Causal diagram for the breakdown of a business problem](https://github.com/x-square/visual-resources/blob/main/causal-diagram-business-breakdown.png?raw=true)
+![Causal diagram for the breakdown of a business problem](https://github.com/x-square/visual-resources/blob/main/causal-diagram-business-breakdown.png?raw=true "Causal diagram for the breakdown of a business problem")
 
 In the upper left corner of the causal diagram, store staff has been instructed to offer the **Would you like spring water with that?** prompt both for sales of ice cream and for sales of French fries, on top of the **Would you like fries with that?** prompt for the sales of burgers.
 
@@ -322,7 +313,7 @@ In the bottom right corner of the causal diagram, the average age of customers (
     -   Exclude mediators between them e.g. anything between ice cream sales and bottled water sales in this case
     -   Remove any confounding of our relationship of interest
 
-![Causal diagram of collapsing confounders](https://github.com/x-square/visual-resources/blob/main/causal-diagram-collpaing-confounders.png?raw=true)
+![Causal diagram of collapsing confounders](https://github.com/x-square/visual-resources/blob/main/causal-diagram-collpaing-confounders.png?raw=true "Causal diagram of collapsing confounders")
 
 -   Second block
     -   Include average age of store customers and health mindset of store customers
@@ -334,7 +325,7 @@ Definition
 
 :   The causal relationship between two variables is confounded if there is at least one unblocked noncausal path between them starting with an arrow to our cause of interest. Conversely, to remove all confounding, we need to block all noncausal paths between them starting with an arrow to our cause of interest.
 
-![A confounder is a joint cause and can be hidden](https://github.com/x-square/visual-resources/blob/main/confounder.png?raw=true)
+![A confounder is a joint cause and can be hidden](https://github.com/x-square/visual-resources/blob/main/confounder.png?raw=true "A confounder is a joint cause and can be hidden")
 
 A path is causal if it's a chain. On the other hand, the path is noncausal because it includes at least one collider or fork.
 
@@ -347,7 +338,7 @@ A path is causal if it's a chain. On the other hand, the path is noncausal becau
 -   **Predictive mean matching** aims to reduce the bias introduced in a dataset through imputation, by drawing real values sampled from the data. This is achieved by building a small subset of observations where the outcome variable matches the outcome of the observations with missing values.
 -   **Auxiliary variables** are additional variables included in statistical models to improve precision, handle missing data, or control for potential confounding factors. They are not the main focus of the analysis but provide valuable information to enhance the accuracy and reliability of parameter estimates.
 
-![Decision tree to diagnose missing data](https://github.com/x-square/visual-resources/blob/main/decision-tree-missing-data.png?raw=true)
+![Decision tree to diagnose missing data](https://github.com/x-square/visual-resources/blob/main/decision-tree-missing-data.png?raw=true "Decision tree to diagnose missing data")
 
 ## Measuring uncertainty with the bootstrap
 
@@ -358,10 +349,9 @@ A path is causal if it's a chain. On the other hand, the path is noncausal becau
 -   **Density plot** is a graphical representation of the distribution of a continuous variable. It provides a smooth curve that estimates the probability density function of the data. The primary purpose of a density plot is to visualize the underlying distribution of a dataset, allowing you to see patterns, peaks, and gaps in the data.
 -   **Quantile-quantile plot** is a graphical tool used to assess whether a dataset conforms to a specific theoretical distribution, such as the normal distribution. It compares the quantiles of the observed data to the quantiles expected from the theoretical distribution. If the points on the plot fall along a straight line, it suggests a good fit with the chosen distribution. Deviations from the line indicate potential departures from the assumed distribution, providing insights into the characteristics of the dataset.
 
-![Decision tree to to use bootstrap](https://github.com/x-square/visual-resources/blob/main/decision-tree-bootstrap.png?raw=true)
+![Decision tree to to use bootstrap](https://github.com/x-square/visual-resources/blob/main/decision-tree-bootstrap.png?raw=true "Decision tree to to use bootstrap")
 
-> [!tip]
-> Analysing behavioural data, especially if it's small or unusual, can be tricky. Luckily, the bootstrap method, aided by computer simulations, is a valuable tool. It helps handle uncertainties in estimates without relying on assumptions about data distribution. For observational data showing signs of outliers or non-normality, bootstrap is particularly useful. In experimental data, where decisions often rely on *p* values, the bootstrap method becomes crucial.
+Analysing behavioural data, especially if it's small or unusual, can be tricky. Luckily, the bootstrap method, aided by computer simulations, is a valuable tool. It helps handle uncertainties in estimates without relying on assumptions about data distribution. For observational data showing signs of outliers or non-normality, bootstrap is particularly useful. In experimental data, where decisions often rely on *p* values, the bootstrap method becomes crucial.
 
 ## Experimental design: The basics
 
@@ -369,10 +359,9 @@ A path is causal if it's a chain. On the other hand, the path is noncausal becau
     -   For example, implementing `intervention` through `behavioral logic` as measured by `target metric` will help us achieve `business goal`.
     -   That is, implementing `one-click booking button` through `a reduction in the duraiton of the booking process` as measured by `booking probability` will help us achieve `higher revenue`.
 
-![Example of theory of change](https://github.com/x-square/visual-resources/blob/main/theory-change.png?raw=true)
+![Example of theory of change](https://github.com/x-square/visual-resources/blob/main/theory-change.png?raw=true "Example of theory of change")
 
-> [!tip]
-> Normally, we approach the theory of change of our experiment backwards to ensure we address our business goals. That is, to boost revenue, we must increase completed bookings. This involves streamlining the booking process by introducing a one-click button at a suitable touchpoint. Our hypothesis is that customers leave because of the frustration caused by a lengthy, complex process.
+Normally, we approach the theory of change of our experiment backwards to ensure we address our business goals. That is, to boost revenue, we must increase completed bookings. This involves streamlining the booking process by introducing a one-click button at a suitable touchpoint. Our hypothesis is that customers leave because of the frustration caused by a lengthy, complex process.
 
 > If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions, Albert Einstein.
 
@@ -387,5 +376,5 @@ A path is causal if it's a chain. On the other hand, the path is noncausal becau
 Image via Behavioral Data Analysis with R and Python
 
 Chiawei Wang, PhD\
-Cognitive Scientist\
+Behavioural Data Scientist\
 [chw.wng\@outlook.com](mailto:chw.wng@outlook.com)
