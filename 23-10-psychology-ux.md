@@ -3,7 +3,7 @@ title: "Psychology for better user experience"
 author: "Chiawei Wang"
 date: "October 2023"
 ---
-d
+
 `This document introduces what psychology concepts can be applied for better user experience`
 
 ## Psychology for better user experience
