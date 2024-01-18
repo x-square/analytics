@@ -2,12 +2,6 @@
 title: "Notes on behavioural data analysis"
 author: "Chiawei Wang"
 date: "January 2024"
-date-format: "MMMM YYYY"
-format: html
-page-layout: full
-toc: true
-toc-location: left
-number-sections: true
 ---
 
 `This document compiles information from Behavioral Data Analysis with R and Python for academic purposes`[^1]
@@ -26,19 +20,19 @@ Understanding where causal analytics fits into the analytics landscape will help
 
 #### The different types of analytics
 
--   **Descriptive analytics** provides a description of data. In simple terms, I think of it as **what is** or **what we've measured** analytics. Business reporting falls under that umbrella. How many customers canceled their subscriptions last month? How much profit did we make last year? Whenever we're calculating an average or other simple metrics, we’re implicitly using descriptive analytics.
--   **Predictive analytics** provides a prediction. I think of it as **what will be, assuming current conditions persist** or **what we haven't yet measured** analytics. Most machine learning methods belong to this type of analytics and help us answer questions like **How many customers will cancel their subscription next month?** and **Is that order fraudulent?**
--   **Causal analytics** provides the causes of data. I think of it as **what if?** or **what will be, under different conditions** analytics. It answers questions such as **How many customers will cancel their subscription next month unless we send them a coupon?** The most well-known tool of causal analytics is the A/B test, a.k.a. a randomized experiment or randomized controlled trial. That's because the simplest and most effective way to answer the preceding question is to send a coupon to a randomly selected group of customers and see how many of them cancel their subscription compared to a control group.
+- **Descriptive analytics** provides a description of data. In simple terms, I think of it as **what is** or **what we've measured** analytics. Business reporting falls under that umbrella. How many customers canceled their subscriptions last month? How much profit did we make last year? Whenever we're calculating an average or other simple metrics, we’re implicitly using descriptive analytics.
+- **Predictive analytics** provides a prediction. I think of it as **what will be, assuming current conditions persist** or **what we haven't yet measured** analytics. Most machine learning methods belong to this type of analytics and help us answer questions like **How many customers will cancel their subscription next month?** and **Is that order fraudulent?**
+- **Causal analytics** provides the causes of data. I think of it as **what if?** or **what will be, under different conditions** analytics. It answers questions such as **How many customers will cancel their subscription next month unless we send them a coupon?** The most well-known tool of causal analytics is the A/B test, a.k.a. a randomized experiment or randomized controlled trial. That's because the simplest and most effective way to answer the preceding question is to send a coupon to a randomly selected group of customers and see how many of them cancel their subscription compared to a control group.
 
 #### Human beings are complicated
 
 If predictive analytics has been so successful and causal analytics uses the same data analysis tools like regression, why not stick with predictive analytics? In short, because human beings are more complicated than wind turbines. Human behavior:
 
--   Has multiple causes
--   Is context-dependent
--   Is variable
--   Is innovative
--   Is strategic
+- Has multiple causes
+- Is context-dependent
+- Is variable
+- Is innovative
+- Is strategic
 
 ### Confound It! The hidden dangers of letting regression sort it out
 
@@ -56,15 +50,15 @@ The Berkson's paradox is counterintuitive and hard to understand at first. It ca
 
 ### Types of customer data
 
--   **Demographic data** is information about your customers, like their age, gender, income, and education. It helps you know who your customers are and what they need. You can use this data to group your customers for marketing. For instance, if you sell anti-wrinkle cream, you might concentrate on age groups that are more likely to buy it. Gathering this data makes your marketing more focused and improves the outcomes.
--   **Psychographic data** includes a customer's values, personality traits, opinions, attitudes, beliefs, and lifestyle. It goes beyond just demographic information. While demographics appeal to the logical side, psychographic data helps tap into the emotional aspect of buying decisions. Businesses and products don't have emotions, but humans do. Understanding what motivates your customer emotionally, what messaging resonates with them, and what brand attitude connects with them, becomes clearer with psychographic data. It's about making customers feel something to drive their buying decisions.
--   **Behavioural data** includes customer actions, like purchases, website visits, or signing up for newsletters. It helps you grasp what your customers want and how they engage with your business. For instance, in the wrinkle cream case, if users of a certain age visit your website, click on product pages, and later sign up for your newsletter, it shows brand awareness and buyer intent. Analysing such data helps optimize touch points in your customer journey. Understanding when and why customers act the way they do enhances your marketing efforts, especially in re-engaging returning customers.
--   **Transactional data** is details about a customer's financial activities, like how much they spend, how often they make purchases, the time it takes for them to buy, and how many items they return. This data helps marketers grasp spending habits and trends among customers, which becomes crucial when market conditions change, new technology emerges, or new factors affect buying decisions.
+- **Demographic data** is information about your customers, like their age, gender, income, and education. It helps you know who your customers are and what they need. You can use this data to group your customers for marketing. For instance, if you sell anti-wrinkle cream, you might concentrate on age groups that are more likely to buy it. Gathering this data makes your marketing more focused and improves the outcomes.
+- **Psychographic data** includes a customer's values, personality traits, opinions, attitudes, beliefs, and lifestyle. It goes beyond just demographic information. While demographics appeal to the logical side, psychographic data helps tap into the emotional aspect of buying decisions. Businesses and products don't have emotions, but humans do. Understanding what motivates your customer emotionally, what messaging resonates with them, and what brand attitude connects with them, becomes clearer with psychographic data. It's about making customers feel something to drive their buying decisions.
+- **Behavioural data** includes customer actions, like purchases, website visits, or signing up for newsletters. It helps you grasp what your customers want and how they engage with your business. For instance, in the wrinkle cream case, if users of a certain age visit your website, click on product pages, and later sign up for your newsletter, it shows brand awareness and buyer intent. Analysing such data helps optimize touch points in your customer journey. Understanding when and why customers act the way they do enhances your marketing efforts, especially in re-engaging returning customers.
+- **Transactional data** is details about a customer's financial activities, like how much they spend, how often they make purchases, the time it takes for them to buy, and how many items they return. This data helps marketers grasp spending habits and trends among customers, which becomes crucial when market conditions change, new technology emerges, or new factors affect buying decisions.
 
 ### How information acquired?
 
--   **Theoretical approach** refers to information or predictions that are derived from theoretical principles, models, or hypotheses. This type of data is based on conceptual frameworks, ideas, or assumptions rather than direct observation or experimentation. Theoretical data often involves predictions or expectations about how a system or phenomenon should behave according to a given theoretical perspective. It serves as a foundation for designing experiments or conducting research.
--   **Empirical approach**, on the other hand, is information that is obtained through direct observation, experimentation, or experience. This data is collected from real-world observations and measurements. It is tangible, verifiable, and based on evidence gathered through sensory experience or documented facts. Empirical data is crucial in scientific research as it provides the foundation for testing hypotheses, validating theories, and drawing conclusions based on observable phenomena.
+- **Theoretical approach** refers to information or predictions that are derived from theoretical principles, models, or hypotheses. This type of data is based on conceptual frameworks, ideas, or assumptions rather than direct observation or experimentation. Theoretical data often involves predictions or expectations about how a system or phenomenon should behave according to a given theoretical perspective. It serves as a foundation for designing experiments or conducting research.
+- **Empirical approach**, on the other hand, is information that is obtained through direct observation, experimentation, or experience. This data is collected from real-world observations and measurements. It is tangible, verifiable, and based on evidence gathered through sensory experience or documented facts. Empirical data is crucial in scientific research as it provides the foundation for testing hypotheses, validating theories, and drawing conclusions based on observable phenomena.
 
 ### A basic model of human behavior
 
@@ -72,22 +66,22 @@ The Berkson's paradox is counterintuitive and hard to understand at first. It ca
 
 ![Model of human behaviour](https://github.com/x-square/visual-resources/blob/main/human-behaviour.png?raw=true "Model of human behaviour")
 
--   Personal characteristics
-    -   Age, gender, family situation -- widely available and used
-    -   Personality traits, lifestyle habits e.g. a high degree of openness to experience and is always game to try some new flavor combination like blueberry and cheese
--   Cognition and emotions -- collected through surveys (online or offline) or during user experience observation
-    -   Thoughts, mental models, beliefs
-    -   Customer satisfaction
--   Intentions -- collected through surveys (online or offline) or during user experience observation
-    -   Mental states e.g. I'm going to book a vacation
-    -   Intent modeling
--   Actions[^2] - the largest category of available customer data under transactional data
-    -   Basic unit of behavior e.g. going to the gym
--   Business behaviors - what organization or its employees do that affect a customer
-    -   Communications e.g. modify the frequency and content of emails
-    -   Changes to website e.g. design, language
-    -   Business rules e.g. customer rewards
-    -   Decisions by employees e.g. labeling a customer account as potentially fraudulent or promoting another employee
+- Personal characteristics
+    - Age, gender, family situation -- widely available and used
+    - Personality traits, lifestyle habits e.g. a high degree of openness to experience and is always game to try some new flavor combination like blueberry and cheese
+- Cognition and emotions -- collected through surveys (online or offline) or during user experience observation
+    - Thoughts, mental models, beliefs
+    - Customer satisfaction
+- Intentions -- collected through surveys (online or offline) or during user experience observation
+    - Mental states e.g. I'm going to book a vacation
+    - Intent modeling
+- Actions[^2] - the largest category of available customer data under transactional data
+    - Basic unit of behavior e.g. going to the gym
+- Business behaviors - what organization or its employees do that affect a customer
+    - Communications e.g. modify the frequency and content of emails
+    - Changes to website e.g. design, language
+    - Business rules e.g. customer rewards
+    - Decisions by employees e.g. labeling a customer account as potentially fraudulent or promoting another employee
 
 [^2]: Note that the terms action and behaviour are often used interchangeably.
 
@@ -119,8 +113,8 @@ But **knowing something** or **deciding to buy something on Amazon** is not. You
 
 Business behaviors can be an analyst’s worst nightmare: like water to fish, they can be invisible to an organization, and their effects on individual behaviors then become intractable noise:
 
--   First, many organizations, if they track business behaviors at all, simply don’t track them at the same level of detail as customer behaviors.
--   Second, business behaviors can affect the interpretation of variables for customer behaviors. The clearest example of that would be sludges, intentional frictions and misleading communication introduced to confuse customers.
+- First, many organizations, if they track business behaviors at all, simply don’t track them at the same level of detail as customer behaviors.
+- Second, business behaviors can affect the interpretation of variables for customer behaviors. The clearest example of that would be sludges, intentional frictions and misleading communication introduced to confuse customers.
 
 ### How to connect behaviors and data?
 
@@ -128,22 +122,22 @@ Connecting behaviors and data is not simply a matter of assigning the variables 
 
 In this section, I'll give you a list of tips to behavioralize your data and ensure that it fits as closely as possible the qualitative reality it's supposed to represent.
 
--   Develop a behaviroal integrity mindest
--   Distrust and verify
--   Identify data category
-    -   Personal characteristics
-    -   Cognition and emotions
-    -   Intentions
-    -   Actions
-    -   Business behaviors
--   Refine behavioral variables
-    -   Observable e.g. you see customers do it
-    -   Individual e.g. if a variable makes sense only in the aggregate and doesn't have a meaningful interpretation at the individual level, that’s a red flag
-    -   Atomic e.g. a variety of different behaviors sharing a common intent
--   Understand the context
-    -   It's about time e.g. frequency, duration, contiguity (doing X before doing Y), social schedules
-    -   Information and known unknowns
-    -   The dog that didn't bark e.g. what people don't do can often be as interesting as what they do
+- Develop a behaviroal integrity mindest
+- Distrust and verify
+- Identify data category
+    - Personal characteristics
+    - Cognition and emotions
+    - Intentions
+    - Actions
+    - Business behaviors
+- Refine behavioral variables
+    - Observable e.g. you see customers do it
+    - Individual e.g. if a variable makes sense only in the aggregate and doesn't have a meaningful interpretation at the individual level, that’s a red flag
+    - Atomic e.g. a variety of different behaviors sharing a common intent
+- Understand the context
+    - It's about time e.g. frequency, duration, contiguity (doing X before doing Y), social schedules
+    - Information and known unknowns
+    - The dog that didn't bark e.g. what people don't do can often be as interesting as what they do
 
 Often the best way to understand the context in which people behave is through qualitative research such as interviews and surveys, whose insights can be used to generate new variables.
 
@@ -177,9 +171,9 @@ The linearity requirement may seem very restrictive. However, some of the rules 
 
 ### Fundamental structures of causal diagrams
 
--   Chains
--   Forks
--   Colliders
+- Chains
+- Forks
+- Colliders
 
 Forks are also typical of situations where we look at demographic variables: age, gender, and place of residence all cause a variety of other variables that may or may not cause each other. You can picture a demographic variable such as age as being at the root of a fork with many teeth.
 
@@ -201,15 +195,15 @@ Causal diagrams can be **collapsed** or **expanded** to focus on specific relati
 
 Variables can themselves be sliced or aggregated to zoom in and out of specific behaviors and categories.
 
--   **Slicing variables** means splitting a variable into sub variables e.g. from iced coffee sales to iced American sales and iced latte sales.
--   **Aggregating variables** means merging more two or more relevant variables into a theme as a bigger variable e.g. from age and gender to demographics characteristics.
+- **Slicing variables** means splitting a variable into sub variables e.g. from iced coffee sales to iced American sales and iced latte sales.
+- **Aggregating variables** means merging more two or more relevant variables into a theme as a bigger variable e.g. from age and gender to demographics characteristics.
 
 #### Cycles and paths
 
 In real life, we often see variables that influence each other causally. This type of causal diagram is called a cycle. Cycles can arise for a variety of reasons. Two of the most common in behavioral data analysis are substitution effects and feedback loops. Fortunately, there are some workarounds that will allow you to deal with cycles when you encounter them.
 
--   **Substitution effect** is a cornerstone of economics theory. Customers might substitute a product for another, depending on the products' availability and price and the customers' desire for variety e.g. customers choose between iced coffee and hot coffee based not only on temperature but also on special promotions and how often they had coffee this week.
--   Another common cycle is a **feedback loop**, where a person modifies their behavior in reaction to changes in the environment e.g. a store manager keeps an eye on the length of waiting lines and open new lines if the existing ones get too long, so that customers don't give up and just leave.
+- **Substitution effect** is a cornerstone of economics theory. Customers might substitute a product for another, depending on the products' availability and price and the customers' desire for variety e.g. customers choose between iced coffee and hot coffee based not only on temperature but also on special promotions and how often they had coffee this week.
+- Another common cycle is a **feedback loop**, where a person modifies their behavior in reaction to changes in the environment e.g. a store manager keeps an eye on the length of waiting lines and open new lines if the existing ones get too long, so that customers don't give up and just leave.
 
 ![Example of causal diagram of substitution effect](https://github.com/x-square/visual-resources/blob/main/causal-diagram-substitution.png?raw=true "Example of causal diagram of substitution effect")
 
@@ -229,26 +223,26 @@ Our goal in this book is always to measure the impact of one variable on another
 
 ### Business problem and data setup
 
--   Understanding the relationship of interest
+- Understanding the relationship of interest
 
 ![Example of causal diagram of causal relationship of interest](https://github.com/x-square/visual-resources/blob/main/causal-diagram-relationship-interest.png?raw=true "Example of causal diagram of causal relationship of interest")
 
 ### Identify candidate variables to include
 
--   Personal characteristics
--   Cognition and emotions
--   Intentions
--   Actions
--   Business behaviors
--   Time trends
+- Personal characteristics
+- Cognition and emotions
+- Intentions
+- Actions
+- Business behaviors
+- Time trends
 
 ![Example of updated causal diagram at the final step](https://github.com/x-square/visual-resources/blob/main/causal-diagram-final-step.png?raw=true "Example of updated causal diagram at the final step")
 
 ### Validate observable variables to include based on data
 
--   Relationships between numeric variables
--   Relationships between categorical variables
--   Relationships between numeric and categorical variables
+- Relationships between numeric variables
+- Relationships between categorical variables
+- Relationships between numeric and categorical variables
 
 ![Observable variables between categorical and numeric](https://github.com/x-square/visual-resources/blob/main/causal-diagram-observable.png?raw=true "Observable variables between categorical and numeric")
 
@@ -268,15 +262,15 @@ Measuring correlations between numeric and categorical variables is a more cumbe
 
 ![Tentative causal diagram with unobservable variables](https://github.com/x-square/visual-resources/blob/main/causal-diagram-unobservable.png?raw=true "Tentative causal diagram with unobservable variables")
 
--   Identify proxies for unobserved variables
--   Identify further causes
--   Iterate
--   Simplify causal diagram to meet the need of the business
-    -   Collapse chains when the intermediary variables are not of interest or are unobserved.
-    -   Expand chains when you need to find observed variables or if you want to track the way another variable relates to the diagram.
-    -   Slice variables when you think the individual variables would contain interesting information (e.g. the correlation with one of your variables of interest is really driven by only one slice in particular).
-    -   Combine variables for clarity when reading the diagram or when variation between types does not matter.
-    -   Break cycles wherever you find them by introducing intermediary steps or identifying the aspect of the relationship that is important.
+- Identify proxies for unobserved variables
+- Identify further causes
+- Iterate
+- Simplify causal diagram to meet the need of the business
+    - Collapse chains when the intermediary variables are not of interest or are unobserved.
+    - Expand chains when you need to find observed variables or if you want to track the way another variable relates to the diagram.
+    - Slice variables when you think the individual variables would contain interesting information (e.g. the correlation with one of your variables of interest is really driven by only one slice in particular).
+    - Combine variables for clarity when reading the diagram or when variation between types does not matter.
+    - Break cycles wherever you find them by introducing intermediary steps or identifying the aspect of the relationship that is important.
 
 Unobserved variables represent a challenge, because even if they are confirmed through interviews or user research, they can't be accounted for directly in the regression analysis. We can still try to mitigate them somewhat by identifying potential proxies. For example, we may find that conscientiousness is indeed correlated with a lower rate of cancellation, but also with requesting a confirmation email.
 
@@ -308,16 +302,16 @@ In the bottom right corner of the causal diagram, the average age of customers (
 
 ### Disjunctive cause criterion
 
--   First block
-    -   Include all variables that are a direct cause of both or either of our variables of interest e,g, number of customers that lead to ice cream sales and French fries sales that lead to bottled water sales
-    -   Exclude mediators between them e.g. anything between ice cream sales and bottled water sales in this case
-    -   Remove any confounding of our relationship of interest
+- First block
+    - Include all variables that are a direct cause of both or either of our variables of interest e,g, number of customers that lead to ice cream sales and French fries sales that lead to bottled water sales
+    - Exclude mediators between them e.g. anything between ice cream sales and bottled water sales in this case
+    - Remove any confounding of our relationship of interest
 
 ![Causal diagram of collapsing confounders](https://github.com/x-square/visual-resources/blob/main/causal-diagram-collpaing-confounders.png?raw=true "Causal diagram of collapsing confounders")
 
--   Second block
-    -   Include average age of store customers and health mindset of store customers
-    -   Exclude soda sales as it is not a cause of either ice cream sales or bottled water sales, but the problem is we don't have data for them yet
+- Second block
+    - Include average age of store customers and health mindset of store customers
+    - Exclude soda sales as it is not a cause of either ice cream sales or bottled water sales, but the problem is we don't have data for them yet
 
 ### Backdoor criterion
 
@@ -331,23 +325,23 @@ A path is causal if it's a chain. On the other hand, the path is noncausal becau
 
 ## Handling missing data
 
--   **Missing completely at random** occurs when the probability of missing data is unrelated to both observed and unobserved data. In simpler terms, the missing data happens randomly.
--   **Missing at random** indicates the probability of missing data depends on the observed data but not on the unobserved data. The missing data is systematically related to the available information.
--   **Missing not at random** means the probability of missing data is related to the unobserved data even after considering the observed data. This type of missing data introduces potential biases as it's not random.
--   **Multiple imputation** fills in missing values by generating plausible numbers derived from distributions of and relationships among observed variables in the data set.
--   **Predictive mean matching** aims to reduce the bias introduced in a dataset through imputation, by drawing real values sampled from the data. This is achieved by building a small subset of observations where the outcome variable matches the outcome of the observations with missing values.
--   **Auxiliary variables** are additional variables included in statistical models to improve precision, handle missing data, or control for potential confounding factors. They are not the main focus of the analysis but provide valuable information to enhance the accuracy and reliability of parameter estimates.
+- **Missing completely at random** occurs when the probability of missing data is unrelated to both observed and unobserved data. In simpler terms, the missing data happens randomly.
+- **Missing at random** indicates the probability of missing data depends on the observed data but not on the unobserved data. The missing data is systematically related to the available information.
+- **Missing not at random** means the probability of missing data is related to the unobserved data even after considering the observed data. This type of missing data introduces potential biases as it's not random.
+- **Multiple imputation** fills in missing values by generating plausible numbers derived from distributions of and relationships among observed variables in the data set.
+- **Predictive mean matching** aims to reduce the bias introduced in a dataset through imputation, by drawing real values sampled from the data. This is achieved by building a small subset of observations where the outcome variable matches the outcome of the observations with missing values.
+- **Auxiliary variables** are additional variables included in statistical models to improve precision, handle missing data, or control for potential confounding factors. They are not the main focus of the analysis but provide valuable information to enhance the accuracy and reliability of parameter estimates.
 
 ![Decision tree to diagnose missing data](https://github.com/x-square/visual-resources/blob/main/decision-tree-missing-data.png?raw=true "Decision tree to diagnose missing data")
 
 ## Measuring uncertainty with the bootstrap
 
--   **Bootstrapping** is a resampling technique used in statistics to help us figure out how confident we can be in our results, even when our data is limited or a bit messy. Instead of making assumptions about data we didn't collect, we use the information we do have to create many imaginary datasets. This lets us calculate things like confidence intervals and errors, giving us a better understanding of how sure we can be about our findings.
--   **Influential points** are data observations with a big impact on results, like in regression models. They strongly affect estimated values and the model's overall fit. These points usually have extreme values or unusual patterns that greatly impact statistical outcomes. Spotting and handling them is vital for a strong and reliable statistical analysis.
--   **Cook's distance** is a statistical measure used in regression analysis to assess the influence of individual data points on the overall fit of the model. It helps identify influential observations that can significantly affect the regression coefficients and predictions. High Cook's distance values suggest that removing the corresponding data point could have a substantial impact on the model. Analysts often use Cook's distance to detect outliers and assess the robustness of their regression models.
--   **Regression residuals** are the differences between the actual values of the dependent variable and the values predicted by the regression model. They capture how much each data point deviates or resides away from the model's predictions. By examining these residuals, analysts can assess how well the model fits the data. If the residuals show a systematic pattern or are consistently large, it suggests that the model may need refinement, and further investigation is needed to enhance its accuracy and effectiveness.
--   **Density plot** is a graphical representation of the distribution of a continuous variable. It provides a smooth curve that estimates the probability density function of the data. The primary purpose of a density plot is to visualize the underlying distribution of a dataset, allowing you to see patterns, peaks, and gaps in the data.
--   **Quantile-quantile plot** is a graphical tool used to assess whether a dataset conforms to a specific theoretical distribution, such as the normal distribution. It compares the quantiles of the observed data to the quantiles expected from the theoretical distribution. If the points on the plot fall along a straight line, it suggests a good fit with the chosen distribution. Deviations from the line indicate potential departures from the assumed distribution, providing insights into the characteristics of the dataset.
+- **Bootstrapping** is a resampling technique used in statistics to help us figure out how confident we can be in our results, even when our data is limited or a bit messy. Instead of making assumptions about data we didn't collect, we use the information we do have to create many imaginary datasets. This lets us calculate things like confidence intervals and errors, giving us a better understanding of how sure we can be about our findings.
+- **Influential points** are data observations with a big impact on results, like in regression models. They strongly affect estimated values and the model's overall fit. These points usually have extreme values or unusual patterns that greatly impact statistical outcomes. Spotting and handling them is vital for a strong and reliable statistical analysis.
+- **Cook's distance** is a statistical measure used in regression analysis to assess the influence of individual data points on the overall fit of the model. It helps identify influential observations that can significantly affect the regression coefficients and predictions. High Cook's distance values suggest that removing the corresponding data point could have a substantial impact on the model. Analysts often use Cook's distance to detect outliers and assess the robustness of their regression models.
+- **Regression residuals** are the differences between the actual values of the dependent variable and the values predicted by the regression model. They capture how much each data point deviates or resides away from the model's predictions. By examining these residuals, analysts can assess how well the model fits the data. If the residuals show a systematic pattern or are consistently large, it suggests that the model may need refinement, and further investigation is needed to enhance its accuracy and effectiveness.
+- **Density plot** is a graphical representation of the distribution of a continuous variable. It provides a smooth curve that estimates the probability density function of the data. The primary purpose of a density plot is to visualize the underlying distribution of a dataset, allowing you to see patterns, peaks, and gaps in the data.
+- **Quantile-quantile plot** is a graphical tool used to assess whether a dataset conforms to a specific theoretical distribution, such as the normal distribution. It compares the quantiles of the observed data to the quantiles expected from the theoretical distribution. If the points on the plot fall along a straight line, it suggests a good fit with the chosen distribution. Deviations from the line indicate potential departures from the assumed distribution, providing insights into the characteristics of the dataset.
 
 ![Decision tree to to use bootstrap](https://github.com/x-square/visual-resources/blob/main/decision-tree-bootstrap.png?raw=true "Decision tree to to use bootstrap")
 
@@ -355,9 +349,9 @@ Analysing behavioural data, especially if it's small or unusual, can be tricky. 
 
 ## Experimental design: The basics
 
--   **Theory of change** is a framework commonly used in the field of behavioural science. It outlines the causal pathways through which interventions are expected to bring about desired outcomes. It helps organisations and researchers understand the logic behind their interventions and assess whether they are achieving the intended impact.
-    -   For example, implementing `intervention` through `behavioral logic` as measured by `target metric` will help us achieve `business goal`.
-    -   That is, implementing `one-click booking button` through `a reduction in the duraiton of the booking process` as measured by `booking probability` will help us achieve `higher revenue`.
+- **Theory of change** is a framework commonly used in the field of behavioural science. It outlines the causal pathways through which interventions are expected to bring about desired outcomes. It helps organisations and researchers understand the logic behind their interventions and assess whether they are achieving the intended impact.
+    - For example, implementing `intervention` through `behavioral logic` as measured by `target metric` will help us achieve `business goal`.
+    - That is, implementing `one-click booking button` through `a reduction in the duraiton of the booking process` as measured by `booking probability` will help us achieve `higher revenue`.
 
 ![Example of theory of change](https://github.com/x-square/visual-resources/blob/main/theory-change.png?raw=true "Example of theory of change")
 
@@ -365,11 +359,11 @@ Normally, we approach the theory of change of our experiment backwards to ensure
 
 > If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions, Albert Einstein.
 
--   **Power analysis** is like figuring out how many people we need in our study to be sure we can find a real difference if it's there. It helps us make sure our research is strong enough to catch important things without making the mistake of saying there's no difference when there actually is. We think about things like how sure we want to be and how big the difference might be. This way, we plan our studies to be really good at finding important information.
--   **Effect size** is a way to measure how big or strong a difference or relationship is in a study. It helps us understand the practical importance of our findings, regardless of the number of people in the study. Different measures like Cohen's d or correlation coefficients are used to express this size. Essentially, it gives us a clearer picture of the impact or significance of what we're studying.
--   **Statistical power** is like the ability of a study to catch a real effect. If the power is high, close to 1, it's good at finding real things. If it's low that, close to 0, there's a risk of missing real effects. It depends on factors like the number of participants, the significance level, and the size of the effect being studied. Researchers want high power to make sure their studies are strong and can find meaningful results.
--   **Sharp null hypothesis** is a specific and precise statement about a parameter in a statistical model. It typically posits that the parameter takes on a particular, exact value. For example, a sharp null hypothesis could state that the average score on a test for a certain group is exactly 75.
--   **Composite null hypothesis** is more flexible. It allows for a range of values for the parameter. For instance, a composite null hypothesis might state that the average score on the test is equal to or less than 75, suggesting a broader set of possibilities.
+- **Power analysis** is like figuring out how many people we need in our study to be sure we can find a real difference if it's there. It helps us make sure our research is strong enough to catch important things without making the mistake of saying there's no difference when there actually is. We think about things like how sure we want to be and how big the difference might be. This way, we plan our studies to be really good at finding important information.
+- **Effect size** is a way to measure how big or strong a difference or relationship is in a study. It helps us understand the practical importance of our findings, regardless of the number of people in the study. Different measures like Cohen's d or correlation coefficients are used to express this size. Essentially, it gives us a clearer picture of the impact or significance of what we're studying.
+- **Statistical power** is like the ability of a study to catch a real effect. If the power is high, close to 1, it's good at finding real things. If it's low that, close to 0, there's a risk of missing real effects. It depends on factors like the number of participants, the significance level, and the size of the effect being studied. Researchers want high power to make sure their studies are strong and can find meaningful results.
+- **Sharp null hypothesis** is a specific and precise statement about a parameter in a statistical model. It typically posits that the parameter takes on a particular, exact value. For example, a sharp null hypothesis could state that the average score on a test for a certain group is exactly 75.
+- **Composite null hypothesis** is more flexible. It allows for a range of values for the parameter. For instance, a composite null hypothesis might state that the average score on the test is equal to or less than 75, suggesting a broader set of possibilities.
 
 `Any questions, please reach out`
 
@@ -377,4 +371,4 @@ Image via Behavioral Data Analysis with R and Python
 
 Chiawei Wang, PhD\
 Behavioural Data Scientist\
-[chw.wng\@outlook.com](mailto:chw.wng@outlook.com)
+<chw.wng@outlook.com>
