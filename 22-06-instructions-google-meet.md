@@ -40,7 +40,8 @@ You will be able to dial in on a web browser without downloading an app.
 
 ### Step-by-step guidelines:
 
-1. Copy the meeting link into a web browser with a **private** (Safari) or **incognito** (Google Chrome) window. Please refer to [Safari User Guide](https://support.apple.com/en-gb/guide/safari/ibrw1069/mac) or [Google Chrome Help](https://support.google.com/chrome/answer/95464?hl=en-GB&co=GENIE.Platform%3DDesktop) for detailed information on using private or incognito browsing. Alternatively, you can sign out of all your Google accounts beforehand. Please note that you will be unable to change your name and remove your profile picture when joining with your account signed in.
+1. Copy the meeting link into a web browser with a **private** (Safari) or **incognito** (Google Chrome) window. Please refer to [Safari User Guide](https://support.apple.com/en-gb/guide/safari/ibrw1069/mac "Browse privately in Safari on Mac") or [Google Chrome Help](https://support.google.com/chrome/answer/95464?hl=en-GB&co=GENIE.Platform%3DDesktop "Browse in private
+") for detailed information on using private or incognito browsing. Alternatively, you can sign out of all your Google accounts beforehand. Please note that you will be unable to change your name and remove your profile picture when joining with your account signed in.
 2. Click **Allow** when you are prompted to allow `meet.google.com` to use your camera and microphone.
 3. Select **Turn off microphone** and **Turn off camera**.
 4. Put down **Viewer** as your display name.
