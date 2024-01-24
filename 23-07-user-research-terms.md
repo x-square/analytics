@@ -216,5 +216,5 @@ Macro level analyses typically examine the results of interactions, like large-s
 `Any questions, please reach out`
 
 Chiawei Wang, PhD\
-Cognitive Scientist\
+Data Scientist\
 <chw.wng@outlook.com>
