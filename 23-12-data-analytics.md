@@ -961,7 +961,7 @@ Here is how a version control system affects a change to a query:
 
 **By using PAR, we can showcase our skills and impact in a brief and measurable manner.**    
 
-> ![TIP]
+> [!TIP]
 > **PAR method**
 >
 > - Describe the **problem** you faced
@@ -980,7 +980,7 @@ Here is how a version control system affects a change to a query:
 
 STAR method can be confusing as it may ask for repetitive information in both task and action steps.
 
-> ![CAUTION]
+> [!CAUTION]
 > STAR method (obsolete)
 >
 > - Situation you had to deal with to set the context for your story
