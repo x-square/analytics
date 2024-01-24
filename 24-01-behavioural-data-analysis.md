@@ -370,5 +370,5 @@ Normally, we approach the theory of change of our experiment backwards to ensure
 Image via Behavioral Data Analysis with R and Python
 
 Chiawei Wang, PhD\
-Cognitive Scientist\
+Data Scientist\
 <chw.wng@outlook.com>
