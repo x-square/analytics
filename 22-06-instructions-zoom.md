@@ -86,5 +86,5 @@ Using the meeting link or the meeting ID:
 `Any questions, please reach out`
 
 Chiawei Wang, PhD\
-Cognitive Scientist\
+Data Scientist\
 <chw.wng@outlook.com>
