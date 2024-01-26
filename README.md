@@ -1,4 +1,4 @@
-# user-experience
+# behavioural-science
 
 Terms and conditions:
 
