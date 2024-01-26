@@ -1,4 +1,4 @@
-# behavioural-data-science
+# user-experience
 
 Terms and conditions:
 1. Works introduced here are protected by intellectual property rights unless otherwise stated.
