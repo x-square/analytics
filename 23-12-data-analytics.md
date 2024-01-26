@@ -978,7 +978,7 @@ Here is how a version control system affects a change to a query:
     - Action: implemented and communicated daily workflow procedures 
     - Result: 15% increase in productivity
 
-STAR method can be confusing as it may ask for repetitive information in both task and action steps.
+STAR method can be confusing as it may ask for repetitive information in both situation and task and steps.
 
 > [!CAUTION]
 > STAR method (obsolete)
