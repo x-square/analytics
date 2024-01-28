@@ -6,7 +6,7 @@ date: "July 2023"
 
 `This document covers user research terms for both researchers and non-researchers`
 
-## Three-dimensional framework of user research
+# Three-dimensional framework of user research
 
 Knowing the terms in user research is crucial because it allows clear communication, efficient planning and informed decision-making. It helps researchers interpret findings accurately and stay updated with the latest trends. For non-researchers, understanding these terms enables meaningful engagement and contributes to user-centred design, leading to better products and services for users.
 
@@ -21,14 +21,14 @@ User research adopts a common iterative design approach found in user-centred de
 
 : Three-dimensional framework of user research
 
-### What users say or do
+## What users say or do
 
 - **Attitudinal research** is a type of user research that aims to understand users' perceptions, beliefs, opinions and feelings about a product, service or problem. It uses methods like interviews, focus groups, surveys and diary studies to gain insights into users' subjective experiences, preferences and decision-making processes.
 - **Behavioural research** focuses on observing and measuring how people actually interact with a product or service in real-world situations. This type of research examines users' actions, interactions and usage patterns. Usability studies, web analytics and click rates are typical methods for analysing user behaviours on websites and digital platforms.
 
-### Research methods
+## Research methods
 
-#### Qualitative research
+### Qualitative research
 
 - Data types
     - **Text data** includes written or typed words, such as responses to open-ended survey questions, interview transcripts or notes taken during observations. It allows researchers to analyse what people say and explore their opinions, ideas and perceptions in detail.
@@ -53,7 +53,7 @@ User research adopts a common iterative design approach found in user-centred de
     - **Qualitative benchmarking** involves a comparative evaluation of processes, practices, or strategies, rather than numerical indicators. For instance, you could assess how your customer service model stacks up against a competitor's, without relying on numerical data. This method offers nuanced insights into organisational culture, best practices, and other less tangible aspects that contribute to performance.
     - **Qualitative competitor analysis** focuses on evaluating the non-numerical aspects of your competitors' operations and strategies. This can include an examination of their brand reputation, customer service quality, user experience, and organisational culture. You might delve into customer reviews to gauge satisfaction levels, study their marketing campaigns for messaging and positioning, or even assess the usability of their website or app. The goal is to gain nuanced insights into the factors contributing to their success or shortcomings, which can help you identify opportunities and threats in your own strategy.
 
-#### Quantitative research
+### Quantitative research
 
 - Categorical data
     - **Nominal data** consists of categories or labels with no inherent order or hierarchy. Examples include colours, genders or types of fruits. Each category is distinct and cannot be ranked.
@@ -117,12 +117,12 @@ User research adopts a common iterative design approach found in user-centred de
 
 [^3]: Keiningham, T.; Cooil, B.; Andreassen, T. & Aksoy, L. 2007. A longitudinal examination of net promoter and firm revenue growth. *Journal of Marketing*, 71(3), 39–51. <https://doi.org/10.1509/jmkg.71.3.039>
 
-### Context of use
+## Context of use
 
 - **Scripted use** of the product is commonly employed in lab-based or usability studies, focusing on testing or examining specific aspects of the product. This approach allows researchers to control and standardise the testing process, ensuring the desired aspects are thoroughly assessed.
 - **Natural use** of the product involves testing products in a real-world or near-natural setting with minimal interference from researchers. This method provides highly valid data as users interact with the product in authentic contexts. However, the drawback is that researchers cannot ask clarifying questions to users during the process, potentially limiting the depth of insights obtained.
 
-## Design of experiments
+# Design of experiments
 
 - **Randomisation** is a way to put people into different groups in a study so that everyone has an equal chance of being picked. It helps make the study more reliable because it reduces the chance that other factors could affect the results. This is what makes it a true experiment rather than just an observation. While there's a slight risk of the groups being unbalanced, using a large enough number of people can manage this risk. If the people in the study have important differences, you can use a method called 'stratified sampling' to make sure each group is fairly represented. This helps in getting results that can be applied to a larger group of people.
 - **Blocking** in research is the practice of organising experimental units into groups, or blocks, that are similar in some way that might affect the result of the experiment. For example, if you're studying the effects of a drug on people of different ages, you might create blocks of participants who are similarly aged. This helps to make the study's findings more accurate by controlling for variables like age.
@@ -133,7 +133,7 @@ User research adopts a common iterative design approach found in user-centred de
 - **Unblinding** happens when someone in a blind experiment figures out information they're not supposed to know, like whether they got the real treatment or a fake one. This can mess up the results because it adds bias. Sometimes unblinding happens by accident or too early, which isn't ideal. The success of keeping the experiment blind is usually checked by asking people questions to see if they've figured anything out. While it's hard to measure unblinding perfectly, you can still get a good idea of how well the experiment was kept blind.
 - **Replication** is the process of repeating a study or experiment to see if the same results are obtained. This helps to confirm the findings are reliable and not just a one-off occurrence. For example, if one research team finds that a certain diet helps in weight loss, another team might replicate the study to ensure the results hold true.
 
-## Recruitment
+# Recruitment
 
 - **Sourcing** in an experiment refers to the process of finding and selecting participants, materials, or data for the study. For example, researchers might source participants through online advertisements or use specific criteria to select data sets for analysis. Proper sourcing is crucial for ensuring the experiment's validity and reliability.
     - **Email survey** is a questionnaire sent via email to collect data for research or feedback. Participants receive the survey in their inbox, complete it at their convenience, and then submit their responses electronically. It's a cost-effective and quick way to gather information, though response rates can vary.
@@ -145,7 +145,7 @@ User research adopts a common iterative design approach found in user-centred de
     - **Cluster random sample** is where the population is divided into clusters, often geographically or by some other natural grouping. A random sample of clusters is chosen, and then either all individuals in the selected clusters are surveyed, or a random sample from each selected cluster is surveyed.
 - **Screening** in research refers to the initial process of evaluating potential participants to determine their suitability for a study. Criteria may include age, health status, or specific behaviours. The aim is to ensure that the selected participants fit the study's objectives and requirements, thereby making the results more reliable and applicable.
 
-## Types of applied research
+# Types of applied research
 
 Applied research focuses on practical problem-solving and finding real-world solutions. Its primary goal is to address specific issues, improve processes or develop new products and technologies. Unlike pure research, applied research is directly connected to making tangible improvements and positive impacts in various fields. It uses existing theories and knowledge as a foundation to generate actionable results and practical insights.
 
@@ -158,30 +158,30 @@ User research as part of applied research can be classified into various types, 
 
 : Types of applied research
 
-### Generative research
+## Generative research
 
 This type of research focused on generating new ideas and insights during the early stages of product development. It aims to explore user needs and behaviours through qualitative methods like interviews and observations. By uncovering user context and pain points, generative research inspires creative and user-centred design solutions, leading to more effective and meaningful products or services.
 
 - **Exploratory research** often qualitative is a preliminary and open-ended investigation that aims to explore and gain a deeper understanding of a topic or problem. It uses qualitative methods to generate insights, ideas and hypotheses, rather than testing specific hypotheses or making definitive conclusions. The insights from exploratory research provide a solid foundation for further investigation and decision-making in subsequent research studies.
 - **Explanatory research** often quantitative aims to provide a deeper understanding of the relationships between variables and uncover the reasons behind observed phenomena. It goes beyond exploratory research to establish cause-and-effect relationships and test specific hypotheses. Using a combination of qualitative and quantitative methods, explanatory research helps researchers make predictions and draw conclusions about the effects of variables on outcomes. It plays a crucial role in confirming or refuting existing theories and guiding future research and decision-making.
 
-### Evaluative research
+## Evaluative research
 
 This type of research focuses on assessing and judging the effectiveness and impact of existing products, services or interventions, unlike exploratory or explanatory research, which seeks to understand phenomena. Evaluative research aims to make informed decisions and improve designs based on collected data. Using qualitative and quantitative methods, it gathers feedback from users or participants to refine and optimise products or services, measure intervention impact and ensure they meet user needs and expectations. Evaluative research plays a crucial role in data-driven decision-making and enhancing the overall user experience.
 
 - **Formative research** often qualitative is conducted in the early stages of a project or program to gather insights and feedback that inform its development and design. It focuses on understanding the target audience's needs and behaviours, using qualitative and quantitative methods like interviews and surveys. By involving users and stakeholders, formative research ensures that the final product or program is well-informed and relevant, leading to more effective solutions and successful outcomes.
 - **Summative research** often quantitative evaluates the overall effectiveness and impact of a project, program or intervention at its conclusion. Unlike formative research, which informs the design, summative research measures the extent to which objectives have been achieved. It uses quantitative methods like surveys and assessments to collect data and draw conclusions about the success of the initiative. The insights from summative research are valuable for stakeholders, guiding future improvements and decision-making based on the project's outcomes.
 
-### Research approaches
+## Research approaches
 
 - **Traditional approach** is the usual way of doing research, following a step-by-step process. It includes planning, data collection, analysis and reporting in a specific order. It has a fixed design and is focused on getting accurate results, but it may take longer because it's less flexible.
 - **Agile approach** is a flexible and adaptive approach to research, inspired by agile software development. It breaks down the process into smaller tasks, allowing continuous data gathering and analysis. Researchers can make real-time adjustments based on insights, focusing on high-priority areas. It is valuable in dynamic environments with evolving research questions.
 
-## Levels of analysis in social science
+# Levels of analysis in social science
 
 Social science research typically categorises into three levels of analysis, including micro, meso, and macro. Note that analytical levels are not necessarily mutually exclusive.
 
-### Micro level
+## Micro level
 
 The smallest unit of analysis is an individual within their social setting. At the micro level, also known as the local level, the research often focuses on individuals or small groups in a specific social context. Examples of micro level analysis include various individual-focused approaches.
 
@@ -192,7 +192,7 @@ The smallest unit of analysis is an individual within their social setting. At t
 - Household
 - Neighbourhood
 
-### Meso level
+## Meso level
 
 Typically, meso level analysis focuses on populations larger than individuals (micro) but smaller than society as a whole (macro), like communities or organizations. Additionally, meso level analysis can aim to uncover connections between micro and macro levels. This is sometimes termed mid-range, particularly in sociology. Examples of meso level units of analysis include communities and organisations.
 
@@ -203,7 +203,7 @@ Typically, meso level analysis focuses on populations larger than individuals (m
 - Town
 - City
 
-### Macro level
+## Macro level
 
 Macro level analyses typically examine the results of interactions, like large-scale economic or resource transfers across populations. This is also known as the global level. Examples of macro level units of analysis encompass various large-scale phenomena.
 
