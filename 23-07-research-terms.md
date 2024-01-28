@@ -124,6 +124,8 @@ User research adopts a common iterative design approach found in user-centred de
 
 # Types of statistical studies
 
+## Three basic types
+
 - **Sample survey** is like asking a small group of people questions to learn something about a bigger group. Imagine you want to know what ice cream flavour your whole school likes. Instead of asking everyone, that'd take forever, you ask a few kids from different classes. Their answers give you a hint about what the whole school might prefer.
     - Faster, cheaper and easier to analyse
 - **Observational study** is like watching and recording things without interfering. You don't control anything, you just track what happens and try to see if there are any patterns. Imagine you're a detective at the zoo, trying to figure out why the zebras love stripes so much. You can't ask them directly, so you do the next best thing. You observe! You watch how they spend their days, what makes them happy, and even how they interact with other animals.
