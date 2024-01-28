@@ -1,10 +1,10 @@
 ---
-title: "A beginner's guide to user research terms"
+title: "A beginner's guide to research terms"
 author: "Chiawei Wang"
 date: "July 2023"
 ---
 
-`This document covers user research terms for both researchers and non-researchers`
+`This document covers research terms for both researchers and non-researchers`
 
 # Three-dimensional framework of user research
 
@@ -82,7 +82,7 @@ User research adopts a common iterative design approach found in user-centred de
     - **A/B testing** is a method that compares two versions of a product by presenting them to users to determine which one performs better or is preferred more. This technique allows researchers to assess the impact of different variables or design choices. A/B testing can be conducted with scripted conditions for standardised comparisons or in a natural use environment to understand user preferences in real-world settings.
     - **Web Analytics** is the process of measuring, collecting, analysing and reporting web data to understand and optimise web usage. It goes beyond just measuring web traffic and can be used for business and market research, as well as evaluating and improving website effectiveness. This valuable tool helps researchers gain insights into user behaviour and preferences in real-world settings.
     - **Eye tracking** is a method used to measure where people look, how long they focus on something and more. It provides a view of what captures users' visual attention, whether it's a product, website, or any other visual stimulus. Eye tracking can be done in controlled, scripted conditions for specific comparisons or in natural use environments to understand users' visual behaviour and preferences in real-world settings.
-    - **Cohort analysis** is the practice of tracking a select group of users, referred to as a cohort, who have joined a product or service within a specific timeframe. The goal is to monitor their engagement levels over various periods to assess their continued interaction and loyalty to the product. This analytical approach yields crucial insights into user retention, helping to pinpoint areas for potential improvement.
+    - **Cohort analysis** is the practice of tracking a select group of users, referred to as a cohort, who have joined a product or service within a specific time frame. The goal is to monitor their engagement levels over various periods to assess their continued interaction and loyalty to the product. This analytical approach yields crucial insights into user retention, helping to pinpoint areas for potential improvement.
     - **Funnel analysis** is like watching how many people go through each step in a process, such as shopping online. Imagine a funnel: lots of people enter at the top by visiting a website, but only a few make it to the bottom by actually buying something. By looking at each step, companies can see where people are leaving and try to make things better so more reach the end and make a purchase.
     - **Driver analysis** is a statistical method used to identify and assess the variables that have the most significant impact on a key outcome, such as customer satisfaction or sales performance. By analysing the relationships between various factors and the target metric, businesses can focus on the most influential variables to optimise results. However, these data can often be too interrelated, making statistical analysis tricky. In such cases, a qualitative approach to understanding customer views is recommended.
     - **Trajectory analysis** is a statistical method used to track and analyse the paths or sequences taken by subjects over a period of time. Often employed in fields like social science, economics, and healthcare, it helps to identify patterns, trends, and deviations in the course of a subject's behaviour or condition. By mapping these paths, researchers or businesses can gain valuable insights into likely future outcomes or make informed decisions on intervention strategies.
@@ -107,7 +107,7 @@ User research adopts a common iterative design approach found in user-centred de
     - **Website traffic** is the number of people who visit a website. It's like a digital footfall, showing how popular or busy a website is. High traffic usually means more potential customers and better chances for sales or engagement. This metric is often tracked to gauge a website's success and to make improvements.
     - **Sales revenue** is the total amount of money a company earns from selling its products or services. It's like the score in a game, showing how well the business is doing in terms of sales. This number is often the starting point for measuring a company's success and is usually reported over a specific period, like a month or a year.
     - **Profit margin** is the percentage of money left over after a company pays all its costs. It's calculated by dividing the profit by the sales revenue and then multiplying by 100. So if a company earns £100 but spends £80, the profit margin would be 20%. This metric gives a quick snapshot of how efficiently a business is operating; a higher margin usually means the company is doing well.
-    - **Employee engagement** measures how involved and enthusiastic employees are about their work and the company they work for. A high level of engagement suggests that employees are not just turning up for a paycheck but are emotionally invested in the company's success. This often leads to better performance and can be a sign of a healthy work environment. Companies typically gauge this through surveys, feedback, and observing work habits.
+    - **Employee engagement** measures how involved and enthusiastic employees are about their work and the company they work for. A high level of engagement suggests that employees are not just turning up for a pay check but are emotionally invested in the company's success. This often leads to better performance and can be a sign of a healthy work environment. Companies typically gauge this through surveys, feedback, and observing work habits.
     - **Inventory levels** refers to the amount of goods or materials a company has in stock at a given time. This is crucial for businesses that sell physical products. Too much inventory can be costly to store, while too little can result in missed sales opportunities. Keeping inventory levels balanced is key to running a business efficiently.
 
 [^2]: Rodden, K.; Hutchinson, H. & Fu, X. 2010. Measuring the user experience on a large scale: User-centered metrics for web applications. Google: Mountain View, California.
@@ -122,7 +122,23 @@ User research adopts a common iterative design approach found in user-centred de
 - **Scripted use** of the product is commonly employed in lab-based or usability studies, focusing on testing or examining specific aspects of the product. This approach allows researchers to control and standardise the testing process, ensuring the desired aspects are thoroughly assessed.
 - **Natural use** of the product involves testing products in a real-world or near-natural setting with minimal interference from researchers. This method provides highly valid data as users interact with the product in authentic contexts. However, the drawback is that researchers cannot ask clarifying questions to users during the process, potentially limiting the depth of insights obtained.
 
-# Design of experiments
+# Types of statistical studies
+
+- **Sample survey** is like asking a small group of people questions to learn something about a bigger group. Imagine you want to know what ice cream flavour your whole school likes. Instead of asking everyone, that'd take forever, you ask a few kids from different classes. Their answers give you a hint about what the whole school might prefer.
+    - Faster, cheaper and easier to analyse
+- **Observational study** is like watching and recording things without interfering. You don't control anything, you just track what happens and try to see if there are any patterns. Imagine you're a detective at the zoo, trying to figure out why the zebras love stripes so much. You can't ask them directly, so you do the next best thing. You observe! You watch how they spend their days, what makes them happy, and even how they interact with other animals.
+    - Discover secrets, no cheating, useful everywhere
+- **Experiment** is like asking a question of the world, but not just with words, with actions! It's your way of getting proof and understanding something better. Imagine you're trying to figure out which plant grows faster, sunlight or shade. You wouldn't just guess, right? You'd set up two pots, put one in the sun and one in the shade, and watch what happens.
+    - Ask a question, make a guess, set up a test, collect data, analyse the result
+
+## Direction of investigation
+
+- **Retrospective study** refers to the study looks back at **past data** that has already been collected. It's like analysing old footage to learn something new.
+    - **Retrospective cohort study** is a type of observational and longitudinal cohort study that looks back in time to analyze data about a group of people who share a common exposure or characteristic. Researchers examine the health outcomes of this group over a specific period to investigate the potential association between the exposure and the outcome.
+- **Prospective study** refers to the study is designed and conducted in the present, with **future data** collected specifically for the research question. It's like filming a new documentary with a specific focus.
+    - **Prospective cohort study** is another type of observational and longitudinal cohort study. Unlike its retrospective counterpart, it looks forward in time. Researchers actively recruit a group of people who share a common exposure or characteristic and then follow them over a period to observe their health outcomes.
+
+## Design of experiments
 
 - **Randomisation** is a way to put people into different groups in a study so that everyone has an equal chance of being picked. It helps make the study more reliable because it reduces the chance that other factors could affect the results. This is what makes it a true experiment rather than just an observation. While there's a slight risk of the groups being unbalanced, using a large enough number of people can manage this risk. If the people in the study have important differences, you can use a method called 'stratified sampling' to make sure each group is fairly represented. This helps in getting results that can be applied to a larger group of people.
 - **Blocking** in research is the practice of organising experimental units into groups, or blocks, that are similar in some way that might affect the result of the experiment. For example, if you're studying the effects of a drug on people of different ages, you might create blocks of participants who are similarly aged. This helps to make the study's findings more accurate by controlling for variables like age.
@@ -133,7 +149,7 @@ User research adopts a common iterative design approach found in user-centred de
 - **Unblinding** happens when someone in a blind experiment figures out information they're not supposed to know, like whether they got the real treatment or a fake one. This can mess up the results because it adds bias. Sometimes unblinding happens by accident or too early, which isn't ideal. The success of keeping the experiment blind is usually checked by asking people questions to see if they've figured anything out. While it's hard to measure unblinding perfectly, you can still get a good idea of how well the experiment was kept blind.
 - **Replication** is the process of repeating a study or experiment to see if the same results are obtained. This helps to confirm the findings are reliable and not just a one-off occurrence. For example, if one research team finds that a certain diet helps in weight loss, another team might replicate the study to ensure the results hold true.
 
-# Recruitment
+## Recruitment
 
 - **Sourcing** in an experiment refers to the process of finding and selecting participants, materials, or data for the study. For example, researchers might source participants through online advertisements or use specific criteria to select data sets for analysis. Proper sourcing is crucial for ensuring the experiment's validity and reliability.
     - **Email survey** is a questionnaire sent via email to collect data for research or feedback. Participants receive the survey in their inbox, complete it at their convenience, and then submit their responses electronically. It's a cost-effective and quick way to gather information, though response rates can vary.
