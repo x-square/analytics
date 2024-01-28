@@ -6,11 +6,11 @@ date: "October 2023"
 
 `This document introduces what psychology concepts can be applied for better user experience`
 
-## Psychology for better user experience
+# Psychology for better user experience
 
 Humans have a built-in way of understanding the world, and psychology helps us understand it better. Researchers and designers can apply this knowledge to fashion user-friendly experiences. Rather than expecting users to adjust to a design, we can use psychology principles as a compass to craft designs that align seamlessly with human nature.
 
-## Mind and behaviour
+# Mind and behaviour
 
 - **Mental model** is like a personal guide in our minds that helps us understand and predict how things work. We build it from what we've experienced and learned. It simplifies complex stuff, making it easier to understand and make decisions about the world around us. It's like our inner map for navigating our surroundings.
 - **Conceptual model** is like a simplified explanation of how something functions. It's typically created based on a person's experiences, training, or instruction. This model helps individuals understand and make sense of complex systems or processes by breaking them down into more understandable and simplified representations. In essence, it's a mental framework that aids in comprehending how something works, even if the real system is more intricate.
@@ -26,7 +26,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Paradox of choice** means that when people are given too many options, it can be stressful and confusing for them to make a decision. This concept is applied to avoid overwhelming users. Designers achieve this by carefully selecting a smaller set of choices for users and providing tools to help them filter and decide. This simplifies the decision-making process and leads to a better user experience.
 - **Satisfaction** is a feeling of contentment or fulfilment that arises when one's desires, expectations, or needs are met. It's the sense of pleasure and reassurance you get when you believe that a specific situation, outcome, or experience was positive, worthwhile, or met a particular standard. In essence, satisfaction is a measure of the gap between one's expectations and the reality of a situation. When expectations are met or exceeded, satisfaction typically ensues.
 
-## User interaction
+# User interaction
 
 - **Consistency** means keeping things in a design uniform and predictable. This includes elements like buttons, fonts, and colours. By doing this, users can expect a familiar and expected experience, making it easier for them to understand and use the product or interface.
 - **Standards** are guidelines that help make products and interfaces better. These guidelines cover things like how things should look, how easy they should be to use, and how safe they should be. Following these guidelines makes products more user-friendly and reliable, benefiting both users and companies.
@@ -55,7 +55,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Help and documentation** involves providing users with resources like user manuals, online guides, and FAQs to assist them in understanding how to use a product or system effectively and troubleshoot issues. It ensures a positive user experience and helps users get the support they need.
 - **Gestalt principles** are rules for how we visually perceive and organise information. They include principles like completing shapes, grouping similar elements, seeing smooth lines, distinguishing objects from backgrounds, valuing symmetry, and simplifying complex shapes. These principles are essential in design for creating attractive and clear visuals.
 
-## User goals
+# User goals
 
 - **Findability** is all about how easily people can locate information or content within a website, app, or system. It's about making sure users can quickly and effortlessly find what they're looking for, which contributes to a better overall user experience. Think of it as a measure of how well something helps users find what they need.
 - **Accessibility** means making sure that everyone, including those with disabilities, can easily use and interact with a design or digital product. It involves following specific guidelines and standards to ensure that people with various abilities can access and use the interface without barriers. This inclusive approach is essential for creating a user-friendly and considerate experience for all users.
@@ -64,7 +64,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Desirability** refers to the quality of a product or service that makes people want to use it. It's about creating an emotional connection and appeal that goes beyond mere functionality. Desirable products or experiences often evoke positive feelings, such as satisfaction, enjoyment, or a sense of delight in users. In simpler terms, desirability means making something not just useful but also attractive and appealing to users, so they genuinely want to engage with it.
 - **Valuable product or service** is something that is really important and helpful to users. It means it effectively meets their needs or provides benefits that they truly like and find worthwhile. In simple terms, if something is seen as valuable, it's highly important and useful for specific purposes.
 
-## Laws of user experience
+# Laws of user experience
 
 - **Aesthetic-usability effect** means that when something looks nice, people often assume it's easy to use, even if they haven't tried it. It shows that aesthetics can impact how users think about a product's usability.
 - **Doherty threshold** is a guideline in computer interaction. It suggests that for optimal user-computer interaction, the response time between the user's action and the computer's response should be under 400 milliseconds. When interactions happen at this speed, it leads to a more efficient and satisfying experience because neither the user nor the computer has to wait for each other.
