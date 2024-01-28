@@ -6,7 +6,7 @@ date: "July 2023"
 
 `This document covers research terms for both researchers and non-researchers`
 
-# Three-dimensional framework of user research
+# 3D framework of user research
 
 Knowing the terms in user research is crucial because it allows clear communication, efficient planning and informed decision-making. It helps researchers interpret findings accurately and stay updated with the latest trends. For non-researchers, understanding these terms enables meaningful engagement and contributes to user-centred design, leading to better products and services for users.
 
