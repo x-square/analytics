@@ -168,10 +168,12 @@ This type of research focuses on assessing and judging the effectiveness and imp
 ## Statistical relationship
 
 - **Correlation** measures the degree of association between two variables, ranging from **positive** that values move together to **negative** that values move in opposite directions to zero that **no relationship**, that is, strength of relationship.
+    - In general, the presence of a correlation is not sufficient to infer the presence of a causal relationship.
+    - The direction of correlation doesn't inherently reveal which variable is influencing the other. That's where causality comes into play.
 - **Association** simply indicates that two variables are related in some way without specifying the strength or direction.
 - **Dependence** occurs when one variable **independent** influences another variable **dependent**.
 - **Independence** indicates two variables are not statistically related and have no influence on each other.
-- **Causality** is a specific type of statistical relationship where one variable directly influences another. Establishing strong evidence for causality requires more than just observing a correlation or association. Researchers typically conduct experiments to control variables and isolate the potential cause.
+- **Causality** is a specific type of statistical relationship where **one variable directly influences another and not the other way round**. Establishing strong evidence for causality requires more than just observing a correlation or association. Researchers typically conduct experiments to control variables and isolate the potential cause.
 
 ## Direction of investigation
 
