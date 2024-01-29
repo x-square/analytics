@@ -160,19 +160,27 @@ This type of research focuses on assessing and judging the effectiveness and imp
 
 - **Sample survey** is like asking a small group of people questions to learn something about a bigger group. Imagine you want to know what ice cream flavour your whole school likes. Instead of asking everyone, that'd take forever, you ask a few kids from different classes. Their answers give you a hint about what the whole school might prefer.
     - Faster, cheaper and easier to analyse
-- **Observational study** is like watching and recording things without interfering, which is often used to identify **correlation** between variables. You don't control anything. You just track what happens and try to see if there are any patterns. Imagine you're a detective at the zoo, trying to figure out why the zebras love stripes so much. You can't ask them directly, so you do the next best thing. You observe! You watch how they spend their days, what makes them happy, and even how they interact with other animals.
+- **Observational study** is like watching and recording things without interfering. You don't control anything. You just track what happens and try to see if there are any patterns. Imagine you're a detective at the zoo, trying to figure out why the zebras love stripes so much. You can't ask them directly, so you do the next best thing. You observe! You watch how they spend their days, what makes them happy, and even how they interact with other animals.
     - Discover secrets, no cheating, useful everywhere
-- **Experiment** is like asking a question of the world, but not just with words, with actions! It's your way of getting proof and understanding something better. Well-designed experiments can often provide stronger evidence to establish **causality**. Imagine you're trying to figure out which plant grows faster, sunlight or shade. You wouldn't just guess, right? You'd set up two pots, put one in the sun and one in the shade, and watch what happens.
+- **Experiment** is like asking a question of the world, but not just with words, with actions! It's your way of getting proof and understanding something better. Imagine you're trying to figure out which plant grows faster, sunlight or shade. You wouldn't just guess, right? You'd set up two pots, put one in the sun and one in the shade, and watch what happens.
     - Ask a question, make a guess, set up a test, collect data, analyse the result
+
+## Statistical relationship
+
+- **Correlation** measures the degree of association between two variables, ranging from **positive** that values move together to **negative** that values move in opposite directions to zero that **no relationship**, that is, strength of relationship.
+- **Association** simply indicates that two variables are related in some way without specifying the strength or direction.
+- **Dependence** occurs when one variable **independent** influences another variable **dependent**.
+- **Independence** indicates two variables are not statistically related and have no influence on each other.
+- **Causality** is a specific type of statistical relationship where one variable directly influences another. Establishing strong evidence for causality requires more than just observing a correlation or association. Researchers typically conduct experiments to control variables and isolate the potential cause.
 
 ## Direction of investigation
 
 - **Retrospective study** refers to the study looks back at **past data** that has already been collected. It's like analysing old footage to learn something new.
-    - **Retrospective cohort study** is a type of observational and longitudinal cohort study that looks back in time to analyze data about a group of people who share a common exposure or characteristic. Researchers examine the health outcomes of this group over a specific period to investigate the potential association between the exposure and the outcome.
+    - **Retrospective cohort study** is a type of longitudinal cohort study that looks back in time to analyze data about a group of people who share a common exposure or characteristic. Researchers examine the health outcomes of this group over a specific period to investigate the potential association between the exposure and the outcome.
 - **Prospective study** refers to the study is designed and conducted in the present, with **future data** collected specifically for the research question. It's like filming a new documentary with a specific focus.
-    - **Prospective cohort study** is another type of observational and longitudinal cohort study. Unlike its retrospective counterpart, it looks forward in time. Researchers actively recruit a group of people who share a common exposure or characteristic and then follow them over a period to observe their health outcomes.
+    - **Prospective cohort study** is another type of longitudinal cohort study. Unlike its retrospective counterpart, it looks forward in time. Researchers actively recruit a group of people who share a common exposure or characteristic and then follow them over a period to observe their health outcomes.
 
-## Design of experiments
+## Design of experiment
 
 - **Randomisation** is a way to put people into different groups in a study so that everyone has an equal chance of being picked. It helps make the study more reliable because it reduces the chance that other factors could affect the results. This is what makes it a true experiment rather than just an observation. While there's a slight risk of the groups being unbalanced, using a large enough number of people can manage this risk. If the people in the study have important differences, you can use a method called 'stratified sampling' to make sure each group is fairly represented. This helps in getting results that can be applied to a larger group of people.
 - **Blocking** in research is the practice of organising experimental units into groups, or blocks, that are similar in some way that might affect the result of the experiment. For example, if you're studying the effects of a drug on people of different ages, you might create blocks of participants who are similarly aged. This helps to make the study's findings more accurate by controlling for variables like age.
