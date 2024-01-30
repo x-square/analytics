@@ -1,7 +1,7 @@
 ---
 title: "A beginner's guide to research terms"
-author: "Chiawei Wang"
-date: "July 2023"
+author: 'Chiawei Wang'
+date: 'July 2023'
 ---
 
 `This document covers research terms for both researchers and non-researchers`
