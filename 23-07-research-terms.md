@@ -175,7 +175,7 @@ This type of research focuses on assessing and judging the effectiveness and imp
 - **Independence** indicates two variables are not statistically related and have no influence on each other.
 - **Causality** is a specific type of statistical relationship where **one variable directly influences another and not the other way round**. Establishing strong evidence for causality requires more than just observing a correlation or association. Researchers typically conduct experiments to control variables and isolate the potential cause.
 
-## Direction of investigation
+## Investigative direction
 
 - **Retrospective study** refers to the study looks back at **past data** that has already been collected. It's like analysing old footage to learn something new.
     - **Retrospective cohort study** is a type of longitudinal cohort study that looks back in time to analyze data about a group of people who share a common exposure or characteristic. Researchers examine the health outcomes of this group over a specific period to investigate the potential association between the exposure and the outcome.
@@ -189,7 +189,7 @@ This type of research focuses on assessing and judging the effectiveness and imp
 - **Behavioural data** includes customer actions, like purchases, website visits, or signing up for newsletters. It helps you grasp what your customers want and how they engage with your business. For instance, in the wrinkle cream case, if users of a certain age visit your website, click on product pages, and later sign up for your newsletter, it shows brand awareness and buyer intent. Analysing such data helps optimize touch points in your customer journey. Understanding when and why customers act the way they do enhances your marketing efforts, especially in re-engaging returning customers.
 - **Transactional data** is details about a customer's financial activities, like how much they spend, how often they make purchases, the time it takes for them to buy, and how many items they return. This data helps marketers grasp spending habits and trends among customers, which becomes crucial when market conditions change, new technology emerges, or new factors affect buying decisions.
 
-## Design of experiment
+## Experimental design
 
 - **Randomisation** is a way to put people into different groups in a study so that everyone has an equal chance of being picked. It helps make the study more reliable because it reduces the chance that other factors could affect the results. This is what makes it a true experiment rather than just an observation. While there's a slight risk of the groups being unbalanced, using a large enough number of people can manage this risk. If the people in the study have important differences, you can use a method called 'stratified sampling' to make sure each group is fairly represented. This helps in getting results that can be applied to a larger group of people.
 - **Blocking** in research is the practice of organising experimental units into groups, or blocks, that are similar in some way that might affect the result of the experiment. For example, if you're studying the effects of a drug on people of different ages, you might create blocks of participants who are similarly aged. This helps to make the study's findings more accurate by controlling for variables like age.
