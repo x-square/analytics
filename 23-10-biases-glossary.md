@@ -1,7 +1,7 @@
 ---
-title: "Glossary of biases"
-author: "Chiawei Wang"
-date: "October 2023"
+title: 'Glossary of biases'
+author: 'Chiawei Wang'
+date: 'October 2023'
 ---
 
 `This document provides a glossary of biases`
