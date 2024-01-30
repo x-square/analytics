@@ -173,7 +173,7 @@ This type of research focuses on assessing and judging the effectiveness and imp
 - **Association** simply indicates that two variables are related in some way without specifying the strength or direction.
 - **Dependence** occurs when one variable **independent** influences another variable **dependent**.
 - **Independence** indicates two variables are not statistically related and have no influence on each other.
-- **Causality** is a specific type of statistical relationship where **one variable directly influences another and not the other way round**. Establishing strong evidence for causality requires more than just observing a correlation or association. Researchers typically conduct experiments to control variables and isolate the potential cause.
+- **Causality** or **cause-and-effect** is a specific type of statistical relationship where **one variable directly influences another and not the other way round**. Establishing strong evidence for causality requires more than just observing a correlation or association. Researchers typically conduct experiments to control variables and isolate the potential cause.
 
 ## Investigative direction
 
