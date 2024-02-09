@@ -2,6 +2,7 @@
 title: 'Attending remote user interviews via Zoom'
 author: 'Chiawei Wang'
 date: 'June 2022'
+date-format: "MMMM YYYY"
 ---
 
 `This document introduces what to expect when attending remote user interviews`
@@ -85,6 +86,6 @@ Using the meeting link or the meeting ID:
 
 `Any questions, please reach out`
 
-Chiawei Wang, PhD\
+Chiawei Wang PhD\
 Data Scientist\
 <chw.wng@outlook.com>
