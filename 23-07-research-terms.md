@@ -2,6 +2,7 @@
 title: "A beginner's guide to research terms"
 author: 'Chiawei Wang'
 date: 'July 2023'
+date-format: "MMMM YYYY"
 ---
 
 `This document covers research terms for both researchers and non-researchers`
@@ -236,6 +237,6 @@ Macro level analyses typically examine the results of interactions, like large-s
 
 `Any questions, please reach out`
 
-Chiawei Wang, PhD\
+Chiawei Wang PhD\
 Data Scientist\
 <chw.wng@outlook.com>
