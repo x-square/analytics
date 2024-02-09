@@ -57,12 +57,12 @@ User research adopts a common iterative design approach found in user-centred de
 ### Quantitative research
 
 - Categorical data
-    - **Nominal scale** consists of categories or labels with no inherent order or hierarchy. Examples include colours, genders or types of fruits. Each category is distinct and cannot be ranked.
-    - **Ordinal scale** also consists of categories, but they have a specific order or rank. However, the differences between categories are not uniform. An example is ranking preferences (e.g. first, second, third) or ratings (e.g. strongly agree, agree, disagree, strongly disagree)
+    - **Nominal scale** consists of categories or labels with no inherent order or hierarchy. Examples include colours, genders and types of fruits. Each category is distinct and cannot be ranked.
+    - **Ordinal scale** also consists of categories, but they have a specific order or rank. However, the differences between categories are not uniform. Examples are severity of illness (e.g. mild, moderate or severe), ratings (e.g. strongly agree, agree, disagree or strongly disagree) and education level (e.g. secondary school diploma, bachelor's degree or doctorates).
 - Numerical data
-    - **Interval scale** has numeric values with equal intervals between them. However, there is no true zero point, meaning zero does not indicate an absence of the attribute. An example is temperature measured in Celsius or Fahrenheit.
-    - **Ratio scale** is similar to interval data but has a true zero point, representing an absence of the attribute. Ratios between values are meaningful. Examples include height, weight and age.
-- Values
+    - **Interval scale** has numeric values with equal intervals between them. However, there is no true zero point, meaning zero does not indicate an absence of the attribute. Example are temperature measured in Celsius or Fahrenheit, IQ scores, dates on the calendar, strings on a violin and levels in a building.
+    - **Ratio scale** is similar to interval data but has a true zero point, representing an absence of the attribute. Ratios between values are meaningful. Examples include height, age, volume of liquid and number of children.
+- Values of numerical data
     - **Discrete variable** consists of whole numbers or counts with distinct and separate values. Examples include the number of books owned, the number of people in a group or the number of items sold.
     - **Continuous variable** can take on any value within a range and is not limited to whole numbers. Examples include temperature measured in decimals, time and distance.
 - Statistical analysis
