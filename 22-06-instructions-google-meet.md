@@ -2,6 +2,7 @@
 title: 'Attending remote user interviews via Google Meet'
 author: 'Chiawei Wang'
 date: 'June 2022'
+date-format: "MMMM YYYY"
 ---
 
 `This document introduces what to expect when attending remote user interviews`
