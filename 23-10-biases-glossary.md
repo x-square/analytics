@@ -2,6 +2,7 @@
 title: 'Glossary of biases'
 author: 'Chiawei Wang'
 date: 'October 2023'
+date-format: "MMMM YYYY"
 ---
 
 `This document provides a glossary of biases`
@@ -246,6 +247,6 @@ Contextual biases are biases influenced by the situation. They lead to judgments
 
 `Any questions, please reach out`
 
-Chiawei Wang, PhD\
+Chiawei Wang PhD\
 Data Scientist\
 <chw.wng@outlook.com>
