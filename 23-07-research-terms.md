@@ -111,12 +111,12 @@ User research adopts a common iterative design approach found in user-centred de
     - **Employee engagement** measures how involved and enthusiastic employees are about their work and the company they work for. A high level of engagement suggests that employees are not just turning up for a pay check but are emotionally invested in the company's success. This often leads to better performance and can be a sign of a healthy work environment. Companies typically gauge this through surveys, feedback, and observing work habits.
     - **Inventory levels** refers to the amount of goods or materials a company has in stock at a given time. This is crucial for businesses that sell physical products. Too much inventory can be costly to store, while too little can result in missed sales opportunities. Keeping inventory levels balanced is key to running a business efficiently.
 
-[^2]: Rodden, K.; Hutchinson, H. & Fu, X. 2010. Measuring the user experience on a large scale: User-centered metrics for web applications. Google: Mountain View, California.
+[^2]: Rodden, K; Hutchinson, H & Fu, X. 2010. Measuring the user experience on a large scale: User-centered metrics for web applications. Google: Mountain View, California.
 
 > [!WARNING]
 > Net Promoter Score (NPS), commonly used as a perception metric in marketing, is no longer recommended for gathering customer insights in behavioural science and user experience due to its fallacious nature. Keiningham and colleagues (2007) argue that there is no empirical evidence supporting the likelihood to recommend question as a better predictor of business growth than other customer loyalty questions such as customer satisfaction and likelihood to purchase again.[^3]
 
-[^3]: Keiningham, T.; Cooil, B.; Andreassen, T. & Aksoy, L. 2007. A longitudinal examination of net promoter and firm revenue growth. *Journal of Marketing*, 71(3), 39–51. <https://doi.org/10.1509/jmkg.71.3.039>
+[^3]: Keiningham, T; Cooil, B; Andreassen, T & Aksoy, L. 2007. A longitudinal examination of net promoter and firm revenue growth. *Journal of Marketing*, 71(3), 39–51. <https://doi.org/10.1509/jmkg.71.3.039>
 
 ## Context of use
 
