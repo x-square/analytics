@@ -15,10 +15,10 @@ User research adopts a common iterative design approach found in user-centred de
 
 [^1]: Rohrer, C. 2022. When to use which user experience research methods? Nielsen Norman Group. <https://www.nngroup.com/articles/which-ux-research-methods>
 
-| What users say or do | Research methods | Context of use |
-|----------------------|------------------|----------------|
-| Attitudinal          | Qualitative      | Scripted       |
-| Behaviour            | Quantitative     | Natural        |
+| **What users say or do** | **Research methods** | **Context of use** |
+|--------------------------|----------------------|--------------------|
+| Attitudinal              | Qualitative          | Scripted           |
+| Behaviour                | Quantitative         | Natural            |
 
 : Three-dimensional framework of user research
 
@@ -129,10 +129,10 @@ Applied research focuses on practical problem-solving and finding real-world sol
 
 User research as part of applied research can be classified into various types, each serving specific purposes and providing unique insights. Some common types of applied research include:
 
-| Generative research | Evaluative research | Research approaches |
-|---------------------|---------------------|---------------------|
-| Exploratory         | Formative           | Traditional         |
-| Explanatory         | Summative           | Agile               |
+| **Generative research** | **Evaluative research** | **Research approaches** |
+|-------------------------|-------------------------|-------------------------|
+| Exploratory             | Formative               | Traditional             |
+| Explanatory             | Summative               | Agile                   |
 
 : Types of applied research
 
