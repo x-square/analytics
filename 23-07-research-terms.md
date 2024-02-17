@@ -5,7 +5,7 @@ date: 'July 2023'
 date-format: "MMMM YYYY"
 ---
 
-`This document covers research terms for both researchers and non-researchers`
+`This document provides an overview of research terms`
 
 # 3D framework of user research
 
