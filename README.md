@@ -1,4 +1,4 @@
-# behavioural-science
+# cognitive-science
 
 Terms and conditions:
 
