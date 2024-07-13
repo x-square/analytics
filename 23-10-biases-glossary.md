@@ -158,7 +158,7 @@ Cognitive bias is when our thinking goes off track, leading to mistakes or illog
     - **Source confusion** occurs when people confuse the origins of their memories. For instance, they might hear something from others and later believe they witnessed it themselves, leading to memory errors. Sometimes, real experiences get mixed up with imagined or heard events, causing significant consequences, such as wrongful accusations, as seen in a case involving Ronald Reagan.
     - **Social cryptomnesia** is when people and society forget where a change came from. They remember the change but not how it happened or who made it happen. This can make it seem like those who worked for the change get less recognition, especially minorities who made sacrifices for it.
     - **Suggestibility** is when someone easily accepts and acts on suggestions from others, even if those suggestions are false. It can make people remember things differently because they've been told something repeatedly. People with strong emotions are more susceptible to this. Suggestibility generally decreases with age, but individual self-esteem and assertiveness levels can make some more suggestible than others.
-    - **Perky Effect** occurs when actual images can impact imagined ones, or when real images are mistakenly recalled as imagined instead of real.
+    - **Perky effect** occurs when actual images can impact imagined ones, or when real images are mistakenly recalled as imagined instead of real.
 
 # Conflicts of interest
 
