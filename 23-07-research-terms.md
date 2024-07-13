@@ -59,12 +59,14 @@ User research adopts a common iterative design approach found in user-centred de
 - Categorical data
     - **Nominal scale** consists of categories or labels with no inherent order or hierarchy. Examples include colours, genders and types of fruits. Each category is distinct and cannot be ranked.
     - **Ordinal scale** also consists of categories, but they have a specific order or rank. However, the differences between categories are not uniform. Examples are severity of illness (e.g. mild, moderate or severe), ratings (e.g. strongly agree, agree, disagree or strongly disagree) and education level (e.g. secondary school diploma, bachelor's degree or doctorates).
+    - Nominal and ordinal data are inherently **discrete variables** that consist of whole numbers or counts with distinct and separate values. Examples include the number of books owned, the number of people in a group or the number of items sold.
 - Numerical data
     - **Interval scale** has numeric values with equal intervals between them. However, there is no true zero point, meaning zero does not indicate an absence of the attribute. Example are temperature measured in Celsius or Fahrenheit, IQ scores, dates on the calendar, strings on a violin and levels in a building.
     - **Ratio scale** is similar to interval data but has a true zero point, representing an absence of the attribute. Ratios between values are meaningful. Examples include height, age, volume of liquid and number of children.
-- Values of numerical data
-    - **Discrete variable** consists of whole numbers or counts with distinct and separate values. Examples include the number of books owned, the number of people in a group or the number of items sold.
-    - **Continuous variable** can take on any value within a range and is not limited to whole numbers. Examples include temperature measured in decimals, time and distance.
+    - Interval and ratio data are considered **continuous variable** that can take on any value within a range and is not limited to whole numbers. Examples include temperature measured in decimals, time and distance.
+- Types of variables
+    - **Predictor, independent or explanatory variables** are the variables that researchers manipulate or control in an experiment. It is the cause or predictor variable that influences the dependent variable. For example, in a study examining the effect of sleep on memory, sleep is the independent variable.
+    - **Outcome, dependent or response variables** are the variables that researchers measure or observe to determine the effect of the independent variable. It is the outcome or response variable that is influenced by the independent variable. In the sleep and memory study, memory performance is the dependent variable.
 - Statistical analysis
     - **Descriptive statistics** involves summarising and describing data to gain insights into its central tendency, variability and distribution. It includes measures like mean, median, mode, range, variance, standard deviation and percentiles. Descriptive statistics help researchers understand data patterns and draw preliminary conclusions, providing a foundation for further analysis and decision-making.
         - **Table** is a widely used format for presenting descriptive statistics. It effectively summarises and analyses data, providing valuable insights into the central tendency, variability and distribution of a dataset. The standard format includes various measures that aid in comprehending the data.
