@@ -188,7 +188,8 @@ Bias and prejudice are closely linked. Prejudice is forming opinions about someo
 ## Forms
 
 - **Institutional discrimination** is when society or institutions treat certain groups unfairly due to their gender, caste, race, ethnicity, religion, or socio-economic status. It happens through unfair policies, laws, and procedures within institutions.
-- **Structural discrimination** also known as **systemic discrimination** is when certain groups face unequal opportunities and outcomes due to their characteristics like race or gender within a society's institutions. It's not always intentional but is built into policies and practices. It's rooted in historical inequalities and affects areas like education, employment, housing, and justice. Efforts to address it focus on systemic factors causing these disparities.
+- **Structural discrimination** also known as **systemic discrimination** is part of institutional discrimination. It's when certain groups face unequal opportunities and outcomes due to their characteristics. It's not always intentional but is built into policies and practices. It's rooted in historical inequalities and affects areas like education, employment, housing, and justice. Efforts to address it focus on systemic factors causing these disparities.
+- **Taste-based discrimination** is when people are treated unfairly based on personal preferences or biases. It can involve negative attitudes towards certain groups, leading to unequal treatment. This form of discrimination is based on individual preferences rather than objective criteria. It can affect various areas like hiring, housing, and social interactions.
 
 ## Attributes
 
