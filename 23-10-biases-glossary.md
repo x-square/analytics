@@ -186,7 +186,7 @@ Statistical bias means that data collection is skewed and can lead to misleading
 - **Volunteer bias** is when people who volunteer for a study are different from those who don't. This can happen because volunteers are often more interested in the topic or have more time. This can lead to incorrect conclusions because the sample isn't representative of the whole population.
 - **Time interval bias** is when the time between two events is too short or too long, leading to incorrect conclusions. For example, if you want to know how often people go to the doctor, but you only ask about the last week, you might miss those who go less often. This can lead to wrong conclusions because the time interval isn't right.
 - **Recall bias** is when people don't remember things accurately. This can happen because they forget, remember things differently, or want to look good. This can lead to incorrect conclusions and is a common problem in research.
-- **Hawthorne effect** is when people change their behaviour because they know they're being watched. This can lead to incorrect conclusions because they don't act the same way when they're not being watched. It's a common problem in research and everyday life.
+- **Hawthorne effect** is when people change their behaviour because they know they're being watched. This can lead to incorrect conclusions because they don't act the same way when they're not being watched.
 
 # Prejudices
 
