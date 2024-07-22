@@ -1,7 +1,7 @@
 ---
 title: 'Psychology for better user experience'
 author: 'Chiawei Wang'
-date: 'October 2023'
+date: 'November 2023'
 date-format: "MMMM YYYY"
 ---
 
