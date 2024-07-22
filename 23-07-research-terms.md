@@ -234,9 +234,9 @@ Bias and prejudice are closely linked. Prejudice is forming opinions about someo
 
 ## Forms
 
-- **Structural discrimination** involves societal systems and structures that perpetuate inequality across various institutions and sectors, often without explicit intent. It arises from interconnected institutions and historical legacies that create and maintain disparities in areas like education, employment, housing, and healthcare.
-- **Institutional discrimination** refers to policies, practices, and procedures within organizations and institutions that systematically disadvantage certain groups. It occurs when discriminatory practices are embedded in the norms, rules, and laws of an institution.
-- **Taste-based discrimination** is when people are treated unfairly based on personal preferences or biases. It can involve negative attitudes towards certain groups, leading to unequal treatment. This form of discrimination is based on individual preferences rather than objective criteria. It can affect various areas like hiring, housing, and social interactions.
+- **Structural discrimination** (macro level) involves societal systems and structures that perpetuate inequality across various institutions and sectors, often without explicit intent. It arises from interconnected institutions and historical legacies that create and maintain disparities in areas like education, employment, housing, and healthcare.
+- **Institutional discrimination** (meso level) refers to policies, practices, and procedures within organizations and institutions that systematically disadvantage certain groups. It occurs when discriminatory practices are embedded in the norms, rules, and laws of an institution.
+- **Taste-based discrimination** (micro level) is when people are treated unfairly based on personal preferences or biases. It can involve negative attitudes towards certain groups, leading to unequal treatment. This form of discrimination is based on individual preferences rather than objective criteria. It can affect various areas like hiring, housing, and social interactions.
 
 ## Attributes
 
