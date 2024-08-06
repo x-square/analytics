@@ -172,7 +172,7 @@ Contextual biases are biases influenced by the situation. They lead to judgments
 
 ## Law enforcement
 
-- **Law enforcement bias** refers to the prejudices and discriminatory practices within law enforcement agencies that lead to unequal treatment of individuals or groups. This bias can manifest in various forms, such as racial profiling, unequal enforcement of laws, and disparities in policing practices, often disproportionately affecting marginalized communities.
+- **Law enforcement bias** refers to the prejudices and discriminatory practices within law enforcement agencies that lead to unequal treatment of individuals or groups. This bias can manifest in various forms, such as racial profiling, unequal enforcement of laws, and disparities in policing practices, often disproportionately affecting marginalised communities.
     - **Driving while black** refers to racial profiling of African-American drivers, suggesting they may be stopped by police due to racial bias rather than a valid traffic violation. It plays on the phrase driving while intoxicated.
     - **Racial profiling** is when someone is suspected or targeted because of their race, rather than individual suspicion or evidence. It's often associated with law enforcement and can lead to discrimination against minority groups.
     - **Victim blaming** happens when the person who suffered harm is partly or fully blamed for what happened to them. This can be seen in cases of domestic violence and sexual crimes, where victims are sometimes unfairly blamed, especially when they know the perpetrator beforehand.
@@ -235,7 +235,7 @@ Bias and prejudice are closely linked. Prejudice is forming opinions about someo
 ## Forms
 
 - **Structural discrimination** at the macro level involves societal systems and structures that perpetuate inequality across various institutions and sectors, often without explicit intent. It arises from interconnected institutions and historical legacies that create and maintain disparities in areas like education, employment, housing, and healthcare.
-- **Institutional discrimination** at the meso level refers to policies, practices, and procedures within organizations and institutions that systematically disadvantage certain groups. It occurs when discriminatory practices are embedded in the norms, rules, and laws of an institution.
+- **Institutional discrimination** at the meso level refers to policies, practices, and procedures within organisations and institutions that systematically disadvantage certain groups. It occurs when discriminatory practices are embedded in the norms, rules, and laws of an institution.
 - **Taste-based discrimination** at the micro level is when people are treated unfairly based on personal preferences or biases. It can involve negative attitudes towards certain groups, leading to unequal treatment. This form of discrimination is based on individual preferences rather than objective criteria. It can affect various areas like hiring, housing, and social interactions.
 
 ## Attributes
