@@ -1,4 +1,4 @@
-# cognitive-science
+# product-analysis
 
 Terms and conditions:
 
