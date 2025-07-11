@@ -135,7 +135,7 @@ Analytics is the systematic analysis of data to extract meaningful insights and 
 - **Meso level** focuses on populations larger than individuals (micro) but smaller than society as a whole (macro), like communities or organizations. Additionally, meso level analysis can aim to uncover connections between micro and macro levels. This is sometimes termed mid-range, particularly in sociology. Examples of meso level units of analysis include communities and organisations: `clan`, `tribe`, `community`, `village`, `town`, `city`
 - **Macro level** examine the results of interactions, like large-scale economic or resource transfers across populations. This is also known as the global level. Examples of macro level units of analysis encompass various large-scale phenomena: `society`, `nation`, `international`, `global`, `civilisation`
 
-## Product analytics
+# Product analytics
 
 Product analytics is the process of collecting and analysing data related to a product's performance, user behaviour and overall impact. It helps organisations understand how users interact with their products, identify areas for improvement and make data-driven decisions to enhance user experience and product success. Product analytics can involve various metrics, such as user engagement, conversion rates, retention rates and feature usage.
 
@@ -150,23 +150,23 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 
 : Three-dimensional framework of research
 
-### What users say or do
+## What users say or do
 
 - **Attitudinal research** is a type of user research that aims to understand users' perceptions, beliefs, opinions and feelings about a product, service or problem. It uses methods like interviews, focus groups, surveys and diary studies to gain insights into users' subjective experiences, preferences and decision-making processes.
 - **Behavioural research** focuses on observing and measuring how people actually interact with a product or service in real-world situations. This type of research examines users' actions, interactions and usage patterns. Usability studies, web analytics and click rates are typical methods for analysing user behaviours on websites and digital platforms.
 
-### Research methods
+## Research methods
 
-#### Qualitative research
+### Qualitative research
 
-##### Qualitative data types
+#### Categorical data types
 
 - **Text data** includes written or typed words, such as responses to open-ended survey questions, interview transcripts or notes taken during observations. It allows researchers to analyse what people say and explore their opinions, ideas and perceptions in detail.
 - **Audio data** involves recording spoken words or sounds. It could be from interviews, focus group discussions or even recordings of people using a product or service. Listening to these recordings helps researchers capture tone, emotions and nuances that are not always evident in written text.
 - **Video data** involves capturing moving images and sounds. It could be recordings of interviews, user interactions with products or natural behaviour in real-life settings. Video data provides researchers with rich visual and auditory cues, allowing them to observe body language, facial expressions and gestures that offer valuable insights into users' experiences.
 - **Visual data** includes pictures, photographs, drawings or any other visual representation. It can be used to capture people's surroundings, their creations or even their own sketches or diagrams. Visual data complements text and audio, providing additional context and understanding of the participants' perspectives.
 
-##### Qualitative analysis
+#### Qualitative analysis
 
 - **Content analysis** is a research method used to systematically analyse and interpret the content of digital interfaces such as websites, apps or other user interfaces. It focuses on understanding how information is presented, organised and communicated to users.
 - **Discourse analysis** involves studying how language and communication are used in user interfaces, such as websites, apps or digital platforms. It aims to understand the underlying meanings, cultural influences and power dynamics that emerge from the language and content presented to users.
@@ -175,7 +175,7 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 - **Sentiment analysis** is like a computer playing detective to find out how people feel about something. It reads words in comments or reviews and tells us if people are happy, sad, or just okay about it. So, if lots of people say a movie is incredible, the computer tells us that most people really like it. It's a quick way to know what lots of people think without reading every single comment ourselves.
 - **Text analysis** is a technique that uses algorithms to extract meaningful information from large volumes of text. It can identify patterns, themes, or sentiments, and is often used in fields like market research, customer service, and social media monitoring. The goal is to turn unstructured data into actionable insights.
 
-##### Common qualitative methods
+#### Common qualitative methods
 
 - **User interviews** are a qualitative research method where the researcher engages individual participants in one-on-one conversations to explore a specific topic of interest. These interviews provide valuable insights into the users' perspectives, preferences and experiences, enabling researchers to gather rich and in-depth information about the subject matter. It's important to note that user interviews are typically conducted without involving any product or service, focusing solely on understanding the participants' thoughts and feedback.
 - **Concept testing** presents early-stage ideas to potential users for initial feedback. This helps identify the concept's strengths and weaknesses, aiding in decision-making about its future. The ultimate goal is to minimise risk and allocate resources wisely. This is achieved by determining whether the concept should proceed as is, be modified or be abandoned altogether based on the feedback received.
@@ -187,9 +187,9 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 - **Qualitative benchmarking** involves a comparative evaluation of processes, practices, or strategies, rather than numerical indicators. For instance, you could assess how your customer service model stacks up against a competitor's, without relying on numerical data. This method offers nuanced insights into organisational culture, best practices, and other less tangible aspects that contribute to performance.
 - **Qualitative competitor analysis** focuses on evaluating the non-numerical aspects of your competitors' operations and strategies. This can include an examination of their brand reputation, customer service quality, user experience, and organisational culture. You might delve into customer reviews to gauge satisfaction levels, study their marketing campaigns for messaging and positioning, or even assess the usability of their website or app. The goal is to gain nuanced insights into the factors contributing to their success or shortcomings, which can help you identify opportunities and threats in your own strategy.
 
-#### Quantitative research
+### Quantitative research
 
-##### Statistical data types
+#### Statistical data types
 
 - Categorical data
     - **Nominal scale** consists of categories or labels with no inherent order or hierarchy. Examples include colours, genders and types of fruits. Each category is distinct and cannot be ranked.
@@ -206,7 +206,7 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
     - **Mediating variables** are variables that explain the relationship between the independent and dependent variables. They help clarify the underlying mechanism or process by which the independent variable affects the dependent variable. In the sleep and memory study, factors like attention or concentration could mediate the relationship between sleep and memory performance.
     - **Moderating variables** are variables that influence the strength or direction of the relationship between the independent and dependent variables. They help identify when or under what conditions the relationship is more or less pronounced. In the sleep and memory study, factors like age or cognitive ability could moderate the relationship between sleep and memory performance.
 
-##### Statistical analysis
+#### Statistical analysis
 
 - **Descriptive statistics** involves summarising and describing data to gain insights into its central tendency, variability and distribution. It includes measures like mean, median, mode, range, variance, standard deviation and percentiles. Descriptive statistics help researchers understand data patterns and draw preliminary conclusions, providing a foundation for further analysis and decision-making.
     - **Table** is a widely used format for presenting descriptive statistics. It effectively summarises and analyses data, providing valuable insights into the central tendency, variability and distribution of a dataset. The standard format includes various measures that aid in comprehending the data.
@@ -220,7 +220,7 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
     - **Regression analysis** estimates relationships between a dependent variable and independent variables. It finds the best-fitting line or hyperplane using mathematical criteria like ordinary least squares. This helps predict the dependent variable's value when independent variables have specific values. Regression serves two purposes: prediction and forecasting, like machine learning, and inferring causal relationships. Researchers must justify using regression for prediction or causality, especially with observational data.
      - **Confidence interval** is a range of estimated values for an unknown parameter. The typical confidence level is 95%, but other levels like 90% or 99% are used. The confidence level indicates the proportion of confidence intervals containing the true parameter value. The width of the confidence interval is influenced by sample size, variability and confidence level. A larger sample size narrows the interval, while more variability or a higher confidence level widens it.
 
-##### Common quantitative methods
+#### Common quantitative methods
 - **Surveys** are versatile research tools that can be both qualitative and quantitative, depending on the question format used. They are cost-effective and enable reaching a large group of people simultaneously. Surveys can be designed with scripted questions for standardised responses or open-ended questions to capture natural use and diverse opinions.
 - **MaxDiff** (Maximum Difference Scaling) is a survey technique used in market research and psychology to understand people's preferences among a set of items. Respondents are asked to choose the most preferred and least preferred items, allowing researchers to determine the relative importance of each item. MaxDiff is valuable for understanding consumer preferences, product features or brand perception. It provides essential insights for decision-making and product development based on relative ranking and comparison.
 - **A/B testing** is a method that compares two versions of a product by presenting them to users to determine which one performs better or is preferred more. This technique allows researchers to assess the impact of different variables or design choices. A/B testing can be conducted with scripted conditions for standardised comparisons or in a natural use environment to understand user preferences in real-world settings.
@@ -240,7 +240,7 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
     - **Retention** focuses on user loyalty and the ability to retain users over time. It measures the rate at which users return to the product or service for repeated interactions. Retention is critical for long-term success and is often measured using metrics like churn rate and user retention over a specific period.
     - **Task success** evaluates how effectively users can accomplish specific tasks or goals within the product or service. This element helps identify usability issues and areas for improvement. Metrics like task completion rates and time to complete tasks are commonly used to assess task success.
 
-##### Metrics: Performance indicators
+#### Metrics: Performance indicators
 
 - Goals-signals-metrics process, part of the HEART framework, is designed to enhance user research. It comprises setting long-term goals, identifying success signals and tracking relevant metrics. By adopting this process, product teams can effectively assess and improve the user experience of their products.
     - **Goals** can be outcomes or outputs. Outcomes are specific and help teams focus on achieving clear targets, while outputs lack clarity and may not define success well. By prioritising clear outcomes, businesses can improve strategy effectiveness and achieve growth more effectively. Setting the right goals is crucial for a company's success.
@@ -267,7 +267,7 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 
 [^3]: Keiningham, T; Cooil, B; Andreassen, T & Aksoy, L. 2007. A longitudinal examination of net promoter and firm revenue growth. *Journal of Marketing*, 71(3), 39–51. <https://doi.org/10.1509/jmkg.71.3.039>
 
-### Context of use
+## Context of use
 
 - **Scripted use** of the product is commonly employed in lab-based or usability studies, focusing on testing or examining specific aspects of the product. This approach allows researchers to control and standardise the testing process, ensuring the desired aspects are thoroughly assessed.
 - **Natural use** of the product involves testing products in a real-world or near-natural setting with minimal interference from researchers. This method provides highly valid data as users interact with the product in authentic contexts. However, the drawback is that researchers cannot ask clarifying questions to users during the process, potentially limiting the depth of insights obtained.
