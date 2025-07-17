@@ -28,6 +28,10 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Cognitive dissonance** happens when a user feels puzzled or uncomfortable because they expect something to work a certain way in an interface, but it behaves differently, giving unexpected results. It's important for designers to prevent this to ensure a smooth user experience.
 - **Analysis paralysis** is when a person struggles to make decisions because they've overanalysed a problem, leading to inaction. This occurs when excessive data gathering and consideration prevent decision-making. To combat it, setting criteria, deadlines, and seeking input from others can help simplify complex decisions and avoid prolonged indecision.
 - **Paradox of choice** means that when people are given too many options, it can be stressful and confusing for them to make a decision. This concept is applied to avoid overwhelming users. Designers achieve this by carefully selecting a smaller set of choices for users and providing tools to help them filter and decide. This simplifies the decision-making process and leads to a better user experience.
+- **Friction** refers to the resistance or difficulty users encounter when trying to complete a task or achieve a goal. It can arise from complex interfaces, unclear instructions, or unnecessary steps. Reducing friction is essential for creating a smooth and user-friendly experience, as it helps users accomplish their tasks more easily and efficiently.
+    - **Complexity**: When a task or interface is overly complicated, it can create friction. Simplifying processes and reducing unnecessary steps can help alleviate this.
+    - **Cognition**: If users are overwhelmed with too much information or too many choices, it can lead to decision fatigue and frustration. Streamlining information and providing clear guidance can reduce cognitive load.
+    - **Time**: When users feel rushed or pressured to complete a task quickly, it can create friction. Allowing users to work at their own pace and providing clear timelines can help mitigate this.
 
 ## Engagement
 
