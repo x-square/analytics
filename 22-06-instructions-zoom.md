@@ -88,4 +88,4 @@ Using the meeting link or the meeting ID:
 
 Chiawei Wang PhD\
 Senior Product Analyst\
-<chw.wng@outlook.com>
+<chiawei.w@outlook.com>
