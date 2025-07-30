@@ -54,4 +54,4 @@ You will be able to dial in on a web browser without downloading an app.
 
 Chiawei Wang PhD\
 Senior Product Analyst\
-<chw.wng@outlook.com>
+<chiawei.w@outlook.com>
