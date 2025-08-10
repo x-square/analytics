@@ -1,13 +1,13 @@
 ---
-title: 'Attending remote user interviews via Google Meet'
+title: 'Attending Remote User Interviews via Google Meet'
 author: 'Chiawei Wang'
 date: 'June 2022'
 date-format: "MMMM YYYY"
 ---
 
-`This document introduces what to expect when attending remote user interviews`
+`This document introduces what to expect when attending remote user interviews.`
 
-## Key points
+## Key Points
 
 When joining an interview, the most important rules are to:
 
@@ -16,13 +16,13 @@ When joining an interview, the most important rules are to:
 - Put down **VIEWER** as your display name
 - **REMOVE** your profile picture
 
-## Before the interview
+## Before the Interview
 
 You should receive a link Meeting ID starting with `https://meet.google.com` in order to dial in via Google Meet to attend a remote interview.
 
 Before each session starts or at the start of the day, we will share relevant information about the participant joining the next session via WhatsApp, Slack or email.
 
-## What to expect when entering the meeting room?
+## What to Expect When Entering the Meeting Room
 
 There are a few things we recommend to do and watch out for when you enter the meeting room:
 
@@ -35,11 +35,11 @@ There are a few things we recommend to do and watch out for when you enter the m
 7. **Discussion guide**: The discussion guide is not a verbatim script. When needed, the order and questions may be adjusted accordingly by the moderator.
 8. **Attendance**: The thoughts, feelings and experiences of each participant can be very different. We suggest you not make assumptions based on listening to one participant. Attend as many sessions as you can to benefit from these different learnings.
 
-## How to join with Google Meet?
+## How to Join with Google Meet?
 
 You will be able to dial in on a web browser without downloading an app.
 
-### Step-by-step guidelines:
+### Step-by-Step Guidelines:
 
 1. Copy the meeting link into a web browser with a **private** (Safari) or **incognito** (Google Chrome) window. Please refer to [Safari User Guide](https://support.apple.com/en-gb/guide/safari/ibrw1069/mac 'Browse privately in Safari on Mac') or [Google Chrome Help](https://support.google.com/chrome/answer/95464?hl=en-GB&co=GENIE.Platform%3DDesktop 'Browse in private
 ') for detailed information on using private or incognito browsing. Alternatively, you can sign out of all your Google accounts beforehand. Please note that you will be unable to change your name and remove your profile picture when joining with your account signed in.
@@ -50,8 +50,8 @@ You will be able to dial in on a web browser without downloading an app.
 
 **Enjoy your time!**
 
-`Any questions, please reach out`
+`Any questions, please reach out!`
 
 Chiawei Wang PhD\
-Senior Product Analyst\
+Product Analyst\
 <chiawei.w@outlook.com>
