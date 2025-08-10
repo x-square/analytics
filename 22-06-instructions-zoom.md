@@ -1,13 +1,13 @@
 ---
-title: 'Attending remote user interviews via Zoom'
+title: 'Attending Remote User Interviews via Zoom'
 author: 'Chiawei Wang'
 date: 'June 2022'
 date-format: "MMMM YYYY"
 ---
 
-`This document introduces what to expect when attending remote user interviews`
+`This document introduces what to expect when attending remote user interviews.`
 
-## Key points
+## Key Points
 
 When joining an interview, the most important rules are to:
 
@@ -16,7 +16,7 @@ When joining an interview, the most important rules are to:
 - Change your name to **VIEWER**
 - **REMOVE** your profile picture
 
-## Before the interview
+## Before the Interview
 
 Three things you should receive in order to dial in via Zoom to attend a remote interview:
 
@@ -26,7 +26,7 @@ Three things you should receive in order to dial in via Zoom to attend a remote 
 
 Before each session starts or at the start of the day, we will share relevant information about the participant joining the next session via WhatsApp, Slack or email.
 
-## What to expect when entering the meeting room?
+## What to Expect When Entering the Meeting Room?
 
 There are a few things we recommend to do and watch out for when you enter the meeting room:
 
@@ -39,12 +39,12 @@ There are a few things we recommend to do and watch out for when you enter the m
 7. **Discussion guide**: The discussion guide is not a verbatim script. When needed, the order and questions may be adjusted accordingly by the moderator.
 8. **Attendance**: The thoughts, feelings and experiences of each participant can be very different. We suggest you not make assumptions based on listening to one participant. Attend as many sessions as you can to benefit from these different learnings.
 
-## How to join a Zoom meeting?
+## How to Join a Zoom Meeting?
 
 You will be able to dial in on the Zoom app or on a web browser (without downloading the app). Please refer to <https://zoom.us/download> to download the app if needed.
 
 
-### Step-by-step guidelines for Zoom app users
+### Step-by-Step Guidelines for Zoom App Users
 
 Using the meeting link or the meeting ID:
 
@@ -62,7 +62,7 @@ Using the meeting link or the meeting ID:
     - Click **Join** to attend the session.
     - After entering the meeting room, you must **mute** yourself.
 
-### Step-by-step guidelines for web browser users
+### Step-by-Step Guidelines for Web Browser Users
 
 Using the meeting link or the meeting ID:
 
@@ -84,8 +84,8 @@ Using the meeting link or the meeting ID:
 
 **Enjoy your time!**
 
-`Any questions, please reach out`
+`Any questions, please reach out!`
 
 Chiawei Wang PhD\
-Senior Product Analyst\
+Product Analyst\
 <chiawei.w@outlook.com>
