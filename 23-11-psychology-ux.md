@@ -2,7 +2,7 @@
 title: 'Psychology for Better User Experience'
 author: 'Chiawei Wang'
 date: 'November 2023'
-date-format: "MMMM YYYY"
+date-format: 'MMMM YYYY'
 ---
 
 `This document introduces what psychology concepts can be applied for better user experience.`
@@ -166,5 +166,5 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 `Any questions, please reach out`
 
 Chiawei Wang PhD\
-Senior Product Analyst\
+Product Analyst\
 <chiawei.w@outlook.com>
