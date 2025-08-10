@@ -1,15 +1,15 @@
 ---
-title: "A beginner's guide to research terms"
+title: "A Beginner's Guide to Research Terms"
 author: 'Chiawei Wang'
 date: 'July 2023'
 date-format: "MMMM YYYY"
 ---
 
-`This document provides an overview of research terms`
+`This document provides an overview of research terms.`
 
-# Applied research
+# Applied Research
 
-Applied research focuses on practical problem-solving and finding real-world solutions. Its primary goal is to address specific issues, improve processes or develop new products and technologies. Unlike pure research, applied research is directly connected to making tangible improvements and positive impacts in various fields. It uses existing theories and knowledge as a foundation to generate actionable results and practical insights. Some common types and approaches of applied research include:
+Applied research focuses on practical problem-solving and finding real-world solutions. Its primary goal is to address specific issues, improve processes or develop new products, and technologies. Unlike pure research, applied research is directly connected to making tangible improvements and positive impacts in various fields. It uses existing theories and knowledge as a foundation to generate actionable results and practical insights. Some common types and approaches of applied research include:
 
 | **Generative research** | **Evaluative research** | **Research approaches** |
 |-------------------------|-------------------------|-------------------------|
@@ -18,30 +18,30 @@ Applied research focuses on practical problem-solving and finding real-world sol
 
 : Types of applied research
 
-## Generative research
+## Generative Research
 
 This type of research focused on generating new ideas and insights during the early stages of product development. It aims to explore user needs and behaviours through qualitative methods like interviews and observations. By uncovering user context and pain points, generative research inspires creative and user-centred design solutions, leading to more effective and meaningful products or services.
 
 - **Exploratory research** often qualitative is a preliminary and open-ended investigation that aims to explore and gain a deeper understanding of a topic or problem. It uses qualitative methods to generate insights, ideas and hypotheses, rather than testing specific hypotheses or making definitive conclusions. The insights from exploratory research provide a solid foundation for further investigation and decision-making in subsequent research studies.
 - **Explanatory research** often quantitative aims to provide a deeper understanding of the relationships between variables and uncover the reasons behind observed phenomena. It goes beyond exploratory research to establish cause-and-effect relationships and test specific hypotheses. Using a combination of qualitative and quantitative methods, explanatory research helps researchers make predictions and draw conclusions about the effects of variables on outcomes. It plays a crucial role in confirming or refuting existing theories and guiding future research and decision-making.
 
-## Evaluative research
+## Evaluative Research
 
 This type of research focuses on assessing and judging the effectiveness and impact of existing products, services or interventions, unlike exploratory or explanatory research, which seeks to understand phenomena. Evaluative research aims to make informed decisions and improve designs based on collected data. Using qualitative and quantitative methods, it gathers feedback from users or participants to refine and optimise products or services, measure intervention impact and ensure they meet user needs and expectations. Evaluative research plays a crucial role in data-driven decision-making and enhancing the overall user experience.
 
 - **Formative research** often qualitative is conducted in the early stages of a project or program to gather insights and feedback that inform its development and design. It focuses on understanding the target audience's needs and behaviours, using qualitative and quantitative methods like interviews and surveys. By involving users and stakeholders, formative research ensures that the final product or program is well-informed and relevant, leading to more effective solutions and successful outcomes.
 - **Summative research** often quantitative evaluates the overall effectiveness and impact of a project, program or intervention at its conclusion. Unlike formative research, which informs the design, summative research measures the extent to which objectives have been achieved. It uses quantitative methods like surveys and assessments to collect data and draw conclusions about the success of the initiative. The insights from summative research are valuable for stakeholders, guiding future improvements and decision-making based on the project's outcomes.
 
-## Research approaches
+## Research Approaches
 
 - **Traditional approach** is the usual way of doing research, following a step-by-step process. It includes planning, data collection, analysis and reporting in a specific order. It has a fixed design and is focused on getting accurate results, but it may take longer because it's less flexible.
 - **Agile approach** is a flexible and adaptive approach to research, inspired by agile software development. It breaks down the process into smaller tasks, allowing continuous data gathering and analysis. Researchers can make real-time adjustments based on insights, focusing on high-priority areas. It is valuable in dynamic environments with evolving research questions.
 
-# Empirical research
+# Empirical Research
 
 Empirical research is a systematic investigation that relies on observation, experimentation and data collection to answer specific questions or test hypotheses. It involves gathering evidence through various methods, such as experiments, surveys, interviews and observations, to draw conclusions based on real-world data. Empirical research is essential in fields like social sciences, natural sciences and applied research, as it provides a solid foundation for understanding phenomena and making informed decisions.
 
-## Data collection
+## Data Collection
 
 Data collection is the process of gathering information to answer research questions or test hypotheses. It involves systematically collecting data from various sources, such as surveys, interviews, experiments or observations. The goal is to obtain accurate and reliable data that can be analysed to draw meaningful conclusions. Data collection methods can be qualitative or quantitative, depending on the nature of the research and the type of data needed.
 
@@ -68,7 +68,7 @@ Data collection is the process of gathering information to answer research quest
 - **Prospective study** refers to the study is designed and conducted in the present, with **future data** collected specifically for the research question. It's like filming a new documentary with a specific focus.
     - **Prospective cohort study** is another type of longitudinal cohort study. Unlike its retrospective counterpart, it looks forward in time. Researchers actively recruit a group of people who share a common exposure or characteristic and then follow them over a period to observe their health outcomes.
 
-## Statistical sample
+## Statistical Sample
 
 Statistical sample is a subset of a larger population that is selected for analysis in a research study. The sample is used to draw conclusions about the entire population based on the data collected from the sample. The goal is to ensure that the sample is representative of the population, allowing researchers to make generalisations and predictions about the larger group.
 
@@ -97,7 +97,7 @@ Statistical sample is a subset of a larger population that is selected for analy
     - **Snowball sample** involves researchers initially recruiting participants for a study and then asking them to invite others to join. This method gradually increases the sample size, similar to how a snowball grows in size as it rolls. It's commonly used when accessing the desired population is challenging.
     - **Purposive sample** involves researchers selecting participants based on the goals of their study. Only individuals who meet the criteria are chosen, while others are excluded.
 
-## Experimental design
+## Experimental Design
 
 - **Randomisation** is a way to put people into different groups in a study so that everyone has an equal chance of being picked. It helps make the study more reliable because it reduces the chance that other factors could affect the results. This is what makes it a true experiment rather than just an observation. While there's a slight risk of the groups being unbalanced, using a large enough number of people can manage this risk. If the people in the study have important differences, you can use a method called 'stratified sampling' to make sure each group is fairly represented. This helps in getting results that can be applied to a larger group of people.
 - **Blocking** in research is the practice of organising experimental units into groups, or blocks, that are similar in some way that might affect the result of the experiment. For example, if you're studying the effects of a drug on people of different ages, you might create blocks of participants who are similarly aged. This helps to make the study's findings more accurate by controlling for variables like age.
@@ -108,7 +108,7 @@ Statistical sample is a subset of a larger population that is selected for analy
 - **Unblinding** happens when someone in a blind experiment figures out information they're not supposed to know, like whether they got the real treatment or a fake one. This can mess up the results because it adds bias. Sometimes unblinding happens by accident or too early, which isn't ideal. The success of keeping the experiment blind is usually checked by asking people questions to see if they've figured anything out. While it's hard to measure unblinding perfectly, you can still get a good idea of how well the experiment was kept blind.
 - **Replication** is the process of repeating a study or experiment to see if the same results are obtained. This helps to confirm the findings are reliable and not just a one-off occurrence. For example, if one research team finds that a certain diet helps in weight loss, another team might replicate the study to ensure the results hold true.
 
-## Statistical inference
+## Statistical Inference
 
 - **Correlation** measures the degree of association between two variables, ranging from **positive** that values move together to **negative** that values move in opposite directions to zero that **no relationship**, that is, strength of relationship.
     - In general, the presence of a correlation is not sufficient to infer the presence of a causal relationship.
@@ -122,20 +122,20 @@ Statistical sample is a subset of a larger population that is selected for analy
 
 Analytics is the systematic analysis of data to extract meaningful insights and support decision-making. It involves collecting, processing, and interpreting data to uncover patterns, trends, and relationships that can inform strategies and actions. Analytics can be applied in various fields, including business, healthcare, finance, and social sciences, to improve performance, optimise processes, and enhance understanding of complex systems.
 
-## Chronological levels of analytics
+## Chronological Levels of Analytics
 
 - **Descriptive analytics** focuses on summarising historical data to understand what has happened in the past. It provides insights into trends, patterns, and performance metrics. Common analyses include **funnel analysis**, **customer segmentation**, and **trend analysis**. For example, a company might use descriptive analytics to analyse sales data from the previous year to identify seasonal trends and customer preferences.
 - **Diagnostic analytics** is a type of analytics that focuses on understanding the reasons behind past events or outcomes. It goes beyond descriptive analytics by analysing historical data to identify patterns and relationships that explain why certain events occurred. Common analyses include **root cause analysis**, **session replays**, and **A/B testing**. For example, a company might use diagnostic analytics to investigate a sudden drop in sales by examining customer feedback, market trends, and competitor actions. It helps to find the causes of friction like **interactive friction**, **cognitive friction**, and **emotional friction**.
 - **Predictive analytics** uses statistical models and machine learning techniques to forecast future outcomes based on historical data. It helps organisations anticipate trends and make proactive decisions. Common analyses include **churn prediction**, **sales forecasting**, and **risk assessment**. For instance, a retail company might use predictive analytics to forecast demand for specific products during the holiday season, allowing them to optimise inventory levels.
 - **Prescriptive analytics** goes beyond predictive analytics by recommending actions to optimise outcomes. It uses advanced algorithms and simulations to suggest the best course of action based on predicted scenarios. Common analyses include **optimisation models**, **what-if analysis**, and **resource allocation models**. For example, a logistics company might use prescriptive analytics to determine the most efficient delivery routes based on traffic patterns and weather conditions, minimising costs and improving customer satisfaction.
 
-## Scaler levels of analysis
+## Scaler Levels of Analysis
 
 - **Micro level** refers to the smallest unit of analysis that is an individual within their social setting. At the micro level, also known as the local level, the research often focuses on individuals or small groups in a specific social context. Examples of micro level analysis include various individual-focused approaches: `person`, `partnership`, `family`, `household`, `neighbourhood`, `citizen`
 - **Meso level** focuses on populations larger than individuals (micro) but smaller than society as a whole (macro), like communities or organizations. Additionally, meso level analysis can aim to uncover connections between micro and macro levels. This is sometimes termed mid-range, particularly in sociology. Examples of meso level units of analysis include communities and organisations: `clan`, `tribe`, `community`, `village`, `town`, `city`
 - **Macro level** examine the results of interactions, like large-scale economic or resource transfers across populations. This is also known as the global level. Examples of macro level units of analysis encompass various large-scale phenomena: `society`, `nation`, `international`, `global`, `civilisation`
 
-# Product analytics
+# Product Analytics
 
 Product analytics is the process of collecting and analysing data related to a product's performance, user behaviour and overall impact. It helps organisations understand how users interact with their products, identify areas for improvement and make data-driven decisions to enhance user experience and product success. Product analytics can involve various metrics, such as user engagement, conversion rates, retention rates and feature usage.
 
@@ -150,12 +150,12 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 
 : Three-dimensional framework of research
 
-## What users say or do
+## What Users Say or Do
 
 - **Attitudinal research** is a type of user research that aims to understand users' perceptions, beliefs, opinions and feelings about a product, service or problem. It uses methods like interviews, focus groups, surveys and diary studies to gain insights into users' subjective experiences, preferences and decision-making processes.
 - **Behavioural research** focuses on observing and measuring how people actually interact with a product or service in real-world situations. This type of research examines users' actions, interactions and usage patterns. Usability studies, web analytics and click rates are typical methods for analysing user behaviours on websites and digital platforms.
 
-## Research methods
+## Research Methods
 
 ### Qualitative research
 
@@ -210,8 +210,8 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 
 - **Descriptive statistics** involves summarising and describing data to gain insights into its central tendency, variability and distribution. It includes measures like mean, median, mode, range, variance, standard deviation and percentiles. Descriptive statistics help researchers understand data patterns and draw preliminary conclusions, providing a foundation for further analysis and decision-making.
     - **Table** is a widely used format for presenting descriptive statistics. It effectively summarises and analyses data, providing valuable insights into the central tendency, variability and distribution of a dataset. The standard format includes various measures that aid in comprehending the data.
-    - **Graphs** are valuable for presenting descriptive statistics and helping understand data. Common types include histograms for distribution, box plots for summaries and comparisons, scatter plots for relationships between continuous variables, bar charts for comparing categories, pie charts for proportions, line graphs for trends over time, heat maps for patterns in large datasets and scatter plot matrices for relationships between multiple variables. They simplify complex information and make it easy to grasp.
-     - **Sequences sunburst** is a visual representation used to show a sequence of actions or steps, often in a hierarchical structure. Imagine a circular chart divided into layers of rings. The innermost ring represents the starting point, and each outer ring shows a subsequent step or action. This format is useful for visualising complex processes or paths in an engaging way.
+    - **Graphs** are pictures that make data easier to understand. **Histograms** show how many values fall into different ranges, such as the number of kids at different heights. **Bar charts** compare categories, like ice cream sales in different cities. **Pie charts** show parts of a whole, like how much pizza each person ate. **Line charts** show changes over time, such as temperature during a week. **Box plots** compare groups and show how spread out the data is, like test scores in different classes. **Scatter plots** show connections between two things, like height and weight. **Heat maps** use colours to show patterns in lots of data, like which cities a country gets the most visitors. **Scatter plot matrices** let you see many relationships at once, such as comparing size, colour, and sweetness of fruits.
+    - **Sequences sunburst** is a visual representation used to show a sequence of actions or steps, often in a hierarchical structure. Imagine a circular chart divided into layers of rings. The innermost ring represents the starting point, and each outer ring shows a subsequent step or action. This format is useful for visualising complex processes or paths in an engaging way.
 - **Inferential statistics** goes beyond describing data and allows researchers to draw conclusions and predictions about larger populations based on a sample. Key concepts include hypothesis testing, confidence intervals, statistical significance and proper sampling methods. It is widely used in scientific research and various fields to make informed decisions and predictions with limited data.
     - **Chi-squared test** is a statistical method used to examine the association between two categorical variables. It helps researchers determine if the observed data distribution differs significantly from the expected distribution, assuming no relationship between the variables. By analysing data in a contingency table, the test provides a p-value, indicating the significance level. A low p-value suggests a meaningful association between the variables. The chi-squared test is widely used in social sciences, market research and medical studies to analyse categorical data and draw meaningful conclusions.
     - **T-test** is used to compare the means of two groups and determine if there is a significant difference between them. It is commonly used when analysing numerical data from two independent groups. By calculating a *t*-value and comparing it to a critical value or *p*-value, researchers can assess the statistical significance of the difference in means. The *t*-test is a fundamental tool for making informed decisions and drawing conclusions in various research scenarios.
@@ -250,7 +250,7 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
     - What happens during user experiences
         - **Descriptive metrics** give detailed information about how users behave and how well a system performs. For example, waiting time shows how long users wait for a response or service. Average time spent indicates the typical duration users stay on a website or perform actions. Website errors measure how often users encounter issues while navigating. Website visits count how many times users access the site, and usage metrics track how users interact with the product. Page visits show how many pages users view on the site. These metrics provide straightforward data without interpretation, helping us understand user actions and system usage clearly.
     - What user feels about their experience
-        - **Perception metrics** measure how customers think and feel about their experiences. Factors like messages or music during a wait can influence how they perceive the waiting time. Metrics such as customer satisfaction and system usability scale gather subjective feedback to understand the overall customer experience and loyalty. By capturing these perceptions, businesses can identify areas for improvement and enhance the overall user experience.
+        - **Perceptive metrics** measure how customers think and feel about their experiences. Factors like messages or music during a wait can influence how they perceive the waiting time. Metrics such as customer satisfaction and system usability scale gather subjective feedback to understand the overall customer experience and loyalty. By capturing these perceptions, businesses can identify areas for improvement and enhance the overall user experience.
     - What user does as a result of their experience
         - **Outcome metrics** are measurements that evaluate how users behave after their experience with a product or service such as sales revenue, reduction in customer complains or return on investment. They help understand how users interact with the interface, achieve their goals efficiently and effectively and take actions like making purchases or becoming loyal customers.
 - Business metrics
@@ -267,13 +267,13 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 
 [^3]: Keiningham, T; Cooil, B; Andreassen, T & Aksoy, L. 2007. A longitudinal examination of net promoter and firm revenue growth. *Journal of Marketing*, 71(3), 39–51. <https://doi.org/10.1509/jmkg.71.3.039>
 
-## Context of use
+## Context of Use
 
 - **Scripted use** of the product is commonly employed in lab-based or usability studies, focusing on testing or examining specific aspects of the product. This approach allows researchers to control and standardise the testing process, ensuring the desired aspects are thoroughly assessed.
 - **Natural use** of the product involves testing products in a real-world or near-natural setting with minimal interference from researchers. This method provides highly valid data as users interact with the product in authentic contexts. However, the drawback is that researchers cannot ask clarifying questions to users during the process, potentially limiting the depth of insights obtained.
 
-`Any questions, please reach out`
+`Any questions, please reach out!`
 
 Chiawei Wang PhD\
-Senior Product Analyst\
+Product Analyst\
 <chiawei.w@outlook.com>
