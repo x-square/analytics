@@ -1,17 +1,17 @@
 ---
-title: 'Glossary of biases'
+title: 'Glossary of Biases'
 author: 'Chiawei Wang'
 date: 'October 2023'
-date-format: "MMMM YYYY"
+date-format: 'MMMM YYYY'
 ---
 
-`This document provides a glossary of biases`
+`This document provides a glossary of biases.`
 
-# What is bias?
+# What is Bias?
 
 Bias means having unfair feelings or thoughts about something or someone. It can be because we don't like or trust them, even without a good reason. Bias can also happen in science when mistakes are made that affect the results. It's important to be fair and accurate.
 
-# Cognitive biases
+# Cognitive Biases
 
 Cognitive bias is when our thinking goes off track, leading to mistakes or illogical judgments. It happens because we see the world based on our own perspective, which can influence our actions. These biases can cause us to see things wrongly or make decisions that don't make sense. Some biases can be helpful in specific situations, while others result from our limits in processing information.
 
@@ -155,7 +155,7 @@ Cognitive bias is when our thinking goes off track, leading to mistakes or illog
     - **Out-group homogeneity effect** is when people think those in another group are more alike, while those in their own group are seen as more diverse. This can lead to stereotypes about the other group, assuming they all share the same traits. It happens when people have limited exposure to the other group and don't have personal experiences with their diversity. Researchers study this in situations involving conflicts, prejudice, and stereotypes to learn how it affects social interactions.
     - **Cultural bias** is when people judge things based on their own culture's standards. It can be a problem in social and human sciences. Some experts in these fields try to find ways to avoid cultural bias. It happens when people assume that their culture's way of doing things is the only right way. This can affect things like language, justice, and how they see evidence and taboos.
 
-# Contextual biases
+# Contextual Biases
 
 Contextual biases are biases influenced by the situation. They lead to judgments not solely based on facts but shaped by circumstances, surroundings, or social factors. These biases affect decisions, perceptions, and behaviour, often unconsciously. Recognising and addressing them is crucial for fairness and objectivity in areas like hiring, education, and social interactions.
 
@@ -170,7 +170,7 @@ Contextual biases are biases influenced by the situation. They lead to judgments
     - **Inductive bias** refers to the set of assumptions a learning algorithm makes to predict outputs for new inputs based on the training data. It guides the algorithm in making generalizations and influences how it interprets and learns from data, shaping its predictions and decisions.
     - **Algorithmic bias** occurs when computer algorithms produce results that are systematically prejudiced due to flawed assumptions, design, or data. This can lead to unfair outcomes, such as discrimination in hiring, lending, or law enforcement, often reflecting existing societal biases.
 
-## Law enforcement
+## Law Enforcement
 
 - **Law enforcement bias** refers to the prejudices and discriminatory practices within law enforcement agencies that lead to unequal treatment of individuals or groups. This bias can manifest in various forms, such as racial profiling, unequal enforcement of laws, and disparities in policing practices, often disproportionately affecting marginalised communities.
     - **Driving while black** refers to racial profiling of African-American drivers, suggesting they may be stopped by police due to racial bias rather than a valid traffic violation. It plays on the phrase driving while intoxicated.
@@ -188,7 +188,7 @@ Contextual biases are biases influenced by the situation. They lead to judgments
     - **Gatekeeping** is the process of selecting and shaping information before it reaches the public. It decides what information gets shared and how it's presented in the media.
     - **Sensationalism** is when news stories are exaggerated or presented in an overly dramatic way to grab attention, often distorting the truth or focusing on unimportant details. It can make significant events seem less important or present trivial topics as major news, going against the principles of responsible journalism.
 
-# Statistical biases
+# Statistical Biases
 
 Statistical bias means that data collection is skewed and can lead to misleading results. It happens due to how samples are chosen or data is collected, causing the results to differ from the true value being estimated.
 
@@ -216,7 +216,7 @@ Statistical bias means that data collection is skewed and can lead to misleading
     - **Recall bias** is when people don't remember things accurately. This can happen because they forget, remember things differently, or want to look good. This can lead to incorrect conclusions and is a common problem in research.
     - **Hawthorne effect** is when people change their behaviour because they know they're being watched. This can lead to incorrect conclusions because they don't act the same way when they're not being watched.
 
-# Conflicts of interest
+# Conflicts of Interest
 
 A conflict of interest occurs when someone or a group has interests that overlap, like financial or personal ones, which could lead to corruption. This conflict can exist even before any wrongdoing occurs and should be addressed to prevent bias in decisions. It's when there's a risk that personal interests might unduly influence professional judgments or actions related to their main responsibilities.
 
@@ -269,8 +269,8 @@ Bias and prejudice are closely linked. Prejudice is forming opinions about someo
 - **Linguistic discrimination** refers to unfair treatment or prejudice towards individuals based on their language, including aspects like accent, vocabulary, or syntax. This discrimination can lead to biased judgments about a person's education, social status, or character due to their use of language. It often occurs in various contexts and can be influenced by cultural and historical factors, favouring dominant languages while disadvantaging less dominant ones.
 - **Dialect discrimination** is when people are treated unfairly because of the way they speak, particularly if their speech shows they're from a specific place or social group. This can happen in various situations, but it's often seen in the workplace where employers may prefer a more standard way of speaking. It can also affect education and politics, where children with different dialects may not get the same education, and some people may face barriers in politics.
 
-`Any questions, please reach out`
+`Any questions, please reach out!`
 
 Chiawei Wang PhD\
-Senior Product Analyst\
+Product Analyst\
 <chiawei.w@outlook.com>
