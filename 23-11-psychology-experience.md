@@ -1,15 +1,15 @@
 ---
-title: 'Psychology for Better User Experience'
+title: 'Psychology for Better Customer Experience'
 author: 'Chiawei Wang'
 date: 'November 2023'
 date-format: 'MMMM YYYY'
 ---
 
-`This document introduces what psychology concepts can be applied for better user experience.`
+`This document introduces what psychology concepts can be applied for better customer experience.`
 
-# Psychology for Better User Experience
+# Psychology for Better Customer Experience
 
-Humans have a built-in way of understanding the world, and psychology helps us understand it better. Researchers and designers can apply this knowledge to fashion user-friendly experiences. Rather than expecting users to adjust to a design, we can use psychology principles as a compass to craft designs that align seamlessly with human nature.
+Humans have a built-in way of understanding the world, and psychology helps us understand it better. Researchers and designers can apply this knowledge to fashion friendly experience. Rather than expecting cusotmers to adjust to a design, we can use psychology principles as a compass to craft designs that align seamlessly with human nature.
 
 # Mind and Behaviour
 
