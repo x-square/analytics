@@ -45,7 +45,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Flow** is a mental state marked by deep immersion, intense focus, and enjoyment in an activity. It occurs when the challenge of the task matches an individual's skill level, creating a fulfilling and rewarding experience. Flow is associated with heightened creativity, productivity, and a sense of accomplishment, making it a sought-after state for personal and professional growth.
 - **Satisfaction** is a feeling of contentment or fulfilment that arises when one's desires, expectations, or needs are met. It's the sense of pleasure and reassurance you get when you believe that a specific situation, outcome, or experience was positive, worthwhile, or met a particular standard. In essence, satisfaction is a measure of the gap between one's expectations and the reality of a situation. When expectations are met or exceeded, satisfaction typically ensues.
 
-# User interaction
+# User Interaction
 
 ## Design Principles
 
@@ -82,7 +82,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Freedom** means providing users with the flexibility to explore, interact, and make decisions within a system or application without unnecessary constraints. It implies that users should feel free to experiment without the fear of making irreversible errors. Designing for freedom involves offering clear and accessible options for users to undo actions, correct mistakes, and move around the interface fluidly. This freedom encourages users to explore and engage with the system confidently.
 - **Gestalt principles** are rules for how we visually perceive and organise information. They include principles like completing shapes, grouping similar elements, seeing smooth lines, distinguishing objects from backgrounds, valuing symmetry, and simplifying complex shapes. These principles are essential in design for creating attractive and clear visuals.
 
-# User Goals: What Users Need to Achieve
+## What Users Need to Achieve
 
 - **Findability** is all about how easily people can locate information or content within a website, app, or system. It's about making sure users can quickly and effortlessly find what they're looking for, which contributes to a better overall user experience. Think of it as a measure of how well something helps users find what they need.
 - **Accessibility** means making sure that everyone, including those with disabilities, can easily use and interact with a design or digital product. It involves following specific guidelines and standards to ensure that people with various abilities can access and use the interface without barriers. This inclusive approach is essential for creating a user-friendly and considerate experience for all users.
