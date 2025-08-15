@@ -9,7 +9,7 @@ date-format: 'MMMM YYYY'
 
 # Psychology for Better Customer Experience
 
-Humans have a built-in way of understanding the world, and psychology helps us understand it better. Researchers and designers can apply this knowledge to fashion friendly experience. Rather than expecting cusotmers to adjust to a design, we can use psychology principles as a compass to craft designs that align seamlessly with human nature.
+Humans have a built-in way of understanding the world, and psychology helps us understand it better. Researchers and designers can use this knowledge to create experiences that customers find easy and enjoyable. Instead of making customers adjust to a design, we can use psychology to create designs that work naturally with how people think.
 
 # Mind and Behaviour
 
