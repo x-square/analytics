@@ -2,7 +2,6 @@
 title: 'Glossary of Biases'
 author: 'Chiawei Wang'
 date: 'October 2023'
-date-format: 'MMMM YYYY'
 ---
 
 `This document provides a glossary of biases.`
