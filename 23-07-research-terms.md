@@ -2,7 +2,6 @@
 title: "A Beginner's Guide to Research Terms"
 author: 'Chiawei Wang'
 date: 'July 2023'
-date-format: 'MMMM YYYY'
 ---
 
 `This document provides an overview of research terms.`
