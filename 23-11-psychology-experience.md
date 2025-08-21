@@ -2,7 +2,6 @@
 title: 'Psychology for Better Customer Experience'
 author: 'Chiawei Wang'
 date: 'November 2023'
-date-format: 'MMMM YYYY'
 ---
 
 `This document introduces what psychology concepts can be applied for better customer experience.`
