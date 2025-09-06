@@ -86,5 +86,5 @@ Using the meeting link or the meeting ID:
 `Any questions, please reach out!`
 
 Chiawei Wang PhD\
-Product Analyst\
+Product & Data Analyst\
 <chiawei.w@outlook.com>
