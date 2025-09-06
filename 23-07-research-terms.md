@@ -274,5 +274,5 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 `Any questions, please reach out!`
 
 Chiawei Wang PhD\
-Product Analyst\
+Product & Data Analyst\
 <chiawei.w@outlook.com>
