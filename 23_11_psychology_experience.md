@@ -165,5 +165,5 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 `Any questions, please reach out`
 
 Chiawei Wang PhD\
-Product Analyst\
+Product & Data Analyst\
 <chiawei.w@outlook.com>
