@@ -271,5 +271,5 @@ Bias and prejudice are closely linked. Prejudice is forming opinions about someo
 `Any questions, please reach out!`
 
 Chiawei Wang PhD\
-Product Analyst\
+Product & Data Analyst\
 <chiawei.w@outlook.com>
