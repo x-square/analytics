@@ -162,7 +162,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Moore's law** says that computer chips get smaller and more powerful every two years. This makes our devices faster and cheaper. It's why technology keeps improving so quickly.
 - **Law of locality** is a computer rule that says it's faster to use data that's stored close together in memory. It's like having a bookshelf where you keep the pages you need next to each other, so you don't have to keep moving around to find them. This helps computers work more efficiently.
 
-`Any questions, please reach out`
+`Any questions, please reach out!`
 
 Chiawei Wang PhD\
 Product & Data Analyst\
