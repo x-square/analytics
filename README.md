@@ -1,6 +1,6 @@
 # Analytics
 
-Terms and conditions:
+Terms and Conditions:
 
 1. Works introduced here are protected by intellectual property rights unless otherwise stated.
 2. Copies can be downloaded for non-commercial research.
