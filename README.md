@@ -1,4 +1,4 @@
-# product-analytics
+# Analytics
 
 Terms and conditions:
 
