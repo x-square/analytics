@@ -1,5 +1,5 @@
 ---
-title: 'Notes on Behavioural Analytics'
+title: 'Notes on Behavioral Analytics'
 author: 'Chiawei Wang'
 date: 'April 2024'
 ---
