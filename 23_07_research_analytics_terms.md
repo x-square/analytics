@@ -1,10 +1,10 @@
 ---
-title: "A Beginner's Guide to Research Terms"
+title: "A Beginner's Guide to Terms in Research and Analytics"
 author: 'Chiawei Wang'
 date: 'July 2023'
 ---
 
-`This document provides an overview of research terms.`
+`This document provides an overview of terms used in research and analytics.`
 
 # Applied Research
 
@@ -199,8 +199,8 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
     - **Ratio scale** is similar to interval data but has a true zero point, representing an absence of the attribute. Ratios between values are meaningful. Examples include height, age, volume of liquid and number of children.
     - Interval and ratio data are considered **continuous variables** that can take on any value within a range and is not limited to whole numbers. Examples include temperature measured in decimals, time and distance.
 - Types of variables
-    - **Predictor, independent or explanatory variables** are the variables that researchers manipulate or control in an experiment. It is the cause or predictor variable that influences the dependent variable. For example, in a study examining the effect of sleep on memory, sleep is the independent variable.
-    - **Outcome, dependent or response variables** are the variables that researchers measure or observe to determine the effect of the independent variable. It is the outcome or response variable that is influenced by the independent variable. In the sleep and memory study, memory performance is the dependent variable.
+    - **Independent, predictor, or explanatory variables** are the variables that researchers manipulate or control in an experiment. It is the cause or predictor variable that influences the dependent variable. For example, in a study examining the effect of sleep on memory, sleep is the independent variable.
+    - **Dependent, outcome, or response variables** are the variables that researchers measure or observe to determine the effect of the independent variable. It is the outcome or response variable that is influenced by the independent variable. In the sleep and memory study, memory performance is the dependent variable.
     - **Confounding variables** are additional variables that may influence the relationship between the independent and dependent variables. They can lead to incorrect conclusions if not accounted for in the study design or analysis. For example, in the sleep and memory study, factors like stress, diet or exercise could confound the relationship between sleep and memory performance.
     - **Mediating variables** are variables that explain the relationship between the independent and dependent variables. They help clarify the underlying mechanism or process by which the independent variable affects the dependent variable. In the sleep and memory study, factors like attention or concentration could mediate the relationship between sleep and memory performance.
     - **Moderating variables** are variables that influence the strength or direction of the relationship between the independent and dependent variables. They help identify when or under what conditions the relationship is more or less pronounced. In the sleep and memory study, factors like age or cognitive ability could moderate the relationship between sleep and memory performance.
