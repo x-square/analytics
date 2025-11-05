@@ -2192,6 +2192,23 @@ graph TD
 | **Linear regression** | **Spearman's rank correlation**, **Theil–Sen estimator**, or **LOESS** | When the relationship isn't linear or residuals aren't normally distributed |
 | **Multiple regression** | **Rank-based multiple regression** or **non-parametric bootstrap regression** | When assumptions of normality, linearity, or homoscedasticity are not met |
 
+### Different types of t-tests
+
+| **Type** | **Description** | **Use case** |
+| - | - | - |
+| **One-sample** | Compare the mean of a single group to a known value | Check if average height of students is different from 160 cm |
+| **Independent** | Compare means of two independent groups | Compare test scores of boys vs girls |
+| **Paired** | Compare means of two related groups | Compare blood pressure before and after treatment |
+
+### Different types of ANOVA
+
+| **Type** | **Description** | **Use case** |
+| - | - | - |
+| **One-way** | Compare means of three or more independent groups | Compare test scores of students from different schools |
+| **Two-way** | Examine the influence of two independent variables on a dependent variable | Study the effect of teaching method and student gender on test scores |
+| **Repeated measures** | Compare means of the same group at different times or conditions | Measure weight loss of participants at multiple time points during a diet program |
+| **Mixed** | Combine between-subjects and within-subjects factors | Investigate the effect of a new drug (between-subjects) over time (within-subjects) on blood pressure |
+
 ### Accuracy and precision
 
 ![Accuracy and precision](https://github.com/x-square/visual-resources/blob/main/accuracy-precision.png?raw=true 'Accuracy and precision')
