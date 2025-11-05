@@ -4,7 +4,7 @@ author: 'Chiawei Wang'
 date: 'May 2024'
 ---
 
-`This document covers key concepts in maths, statistics and practical practices used in analytics, with applications in Python. It is compiled from various resources for academic use.`[^1][^2]
+`This document covers key concepts in maths and statistics, alongside practical practices used in analytics, with applications in Python. It is compiled from various resources for academic use.`[^1][^2]
 
 [^1]: Nield, T. 2021. *Essential Math for Data Science: Take Control of Your Data with Fundamental Calculus, Linear Algebra, Probability and Statistics*. O'Reilly: Cambridge, England.
 
@@ -12,7 +12,7 @@ date: 'May 2024'
 
 # Basic maths and calculus
 
-**Maths** is the study of **numbers**, **shapes**, **patterns**, and **relationships**. It provides tools and methods for solving problems, understanding the world around us, and making predictions in various fields. 
+**Maths** is the study of **numbers**, **shapes**, **patterns**, and **relationships**. It provides tools and methods for solving problems, understanding the world around us, and making predictions in various fields.
 
 **Calculus** deals with **continuous change**, focusing on **derivatives** that measure **rates of change** and **integrals** that measure the **accumulation of quantities**, using techniques like finding slopes of curves in differentiation and calculating areas under curves in integration.
 
