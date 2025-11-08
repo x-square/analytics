@@ -1,6 +1,8 @@
 ---
 title: "Beginner's Guide to Terms in Research and Analytics"
-author: 'Chiawei Wang'
+author: 'Chiawei Wang, PhD'
+role: 'Data & Product Analyst'
+email: 'chiawei.w@outlook.com'
 date: 'July 2023'
 ---
 
@@ -10,12 +12,12 @@ date: 'July 2023'
 
 Applied research focuses on practical problem-solving and finding real-world solutions. Its primary goal is to address specific issues, improve processes or develop new products, and technologies. Unlike pure research, applied research is directly connected to making tangible improvements and positive impacts in various fields. It uses existing theories and knowledge as a foundation to generate actionable results and practical insights. Some common types and approaches of applied research include:
 
+: Types of applied research
+
 | **Generative research** | **Evaluative research** | **Research approaches** |
 |-------------------------|-------------------------|-------------------------|
 | Exploratory             | Formative               | Traditional             |
 | Explanatory             | Summative               | Agile                   |
-
-: Types of applied research
 
 ## Generative Research
 
@@ -142,12 +144,12 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 
 [^1]: Rohrer, C. 2022. When to use which user experience research methods? Nielsen Norman Group. <https://www.nngroup.com/articles/which-ux-research-methods>
 
+: Three-dimensional framework of research
+
 | **What users say or do** | **Research methods** | **Context of use** |
 |--------------------------|----------------------|--------------------|
 | Attitudinal              | Qualitative          | Scripted           |
 | Behaviour                | Quantitative         | Natural            |
-
-: Three-dimensional framework of research
 
 ## What Users Say or Do
 
@@ -315,7 +317,3 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 - **Natural use** of the product involves testing products in a real-world or near-natural setting with minimal interference from researchers. This method provides highly valid data as users interact with the product in authentic contexts. However, the drawback is that researchers cannot ask clarifying questions to users during the process, potentially limiting the depth of insights obtained.
 
 `Any questions, please reach out!`
-
-Chiawei Wang, PhD\
-Data & Product Analyst\
-<chiawei.w@outlook.com>
