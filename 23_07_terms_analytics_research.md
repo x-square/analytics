@@ -1,12 +1,12 @@
 ---
-title: "Beginner's Guide to Terms in Research and Analytics"
+title: "Beginner's Guide to Terms in Analytics and Research"
 author: 'Chiawei Wang, PhD'
 role: 'Data & Product Analyst'
 email: 'chiawei.w@outlook.com'
 date: 'July 2023'
 ---
 
-`This document provides an overview of terms used in research and analytics.`
+`This document provides an overview of terms used in analytics and research.`
 
 # Applied Research
 
