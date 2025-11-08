@@ -1,6 +1,8 @@
 ---
 title: 'Notes on Maths for Analytics'
-author: 'Chiawei Wang'
+author: 'Chiawei Wang, PhD'
+role: 'Data & Product Analyst'
+email: 'chiawei.w@outlook.com'
 date: 'May 2024'
 ---
 
@@ -182,6 +184,8 @@ print(x)
 3.0
 ```
 
+: Logarithmic properties
+
 | Operator | Exponent property | Logarithm property |
 |----------|-------------------|--------------------|
 | Multiplication | $x^m \times x^n=x^{m+n}$ | $\log(a \times b)=\log(a)+\log(b)$ |
@@ -189,8 +193,6 @@ print(x)
 | Exponentiation | $(x^m)^n=x^{mn}$ | $\log(a^n)=n \times \log(a)$ |
 | Zero exponent | $x^0=1$ | $\log(1)=0$ |
 | Inverse | $x^{-1}=\frac{1}{x}$ | $\log(x^{-1})=\log(\frac{1}{x})=-\log(x)$
-
-: Logarithmic properties
 
 ## Euler's number and natural logarithm
 
@@ -1822,12 +1824,12 @@ In hypothesis testing, the **null hypothesis** `H0` is a statement that there is
 
 Type I errors can result in **unnecessary actions** e.g. over a million patients are prescribed the medication despite risks of severe side effects and inadequate research on the outcomes. While still problematic, Type II errors may lead to **missed opportunities** e.g. the drug intervention is considered ineffective when it can actually improve symptoms of the disease.
 
+: Type I and type II errors
+
 | **Decision about H0** | **H0 is true** | **H0 is false** |
 |-----------------------|----------------|-----------------|
 | **Fail to reject** | True negative <br> Correct inference <br> Probability = 1 − α | False negative <br> Type II error <br> Probability = β  |
 | **Reject** | False positive <br> Type I error <br> Probability = α | True positive <br> correct inference <br> Probability = 1 - β |
-
-: Type I and type II errors
 
 ![Probability of making type I and type II errors](https://github.com/x-square/visual-resources/blob/main/types-i-ii-errors.png?raw=true 'Probability of making type I and type II errors')
 
@@ -2523,7 +2525,3 @@ Example of email spam detection:
 In this setup, the hidden layer helps recognise patterns that help distinguish spam from non-spam emails.
 
 `Any questions, please reach out!`
-
-Chiawei Wang, PhD\
-Data & Product Analyst\
-<chiawei.w@outlook.com>
