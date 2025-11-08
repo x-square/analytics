@@ -1,6 +1,8 @@
 ---
 title: 'Notes on Behavioral Analytics'
-author: 'Chiawei Wang'
+author: 'Chiawei Wang, PhD'
+role: 'Data & Product Analyst'
+email: 'chiawei.w@outlook.com'
 date: 'April 2024'
 ---
 
@@ -364,7 +366,3 @@ Normally, we approach the theory of change of our experiment backwards to ensure
 - **Composite null hypothesis** is more flexible. It allows for a range of values for the parameter. For instance, a composite null hypothesis might state that the average score on the test is equal to or less than 75, suggesting a broader set of possibilities.
 
 `Any questions, please reach out!`
-
-Chiawei Wang, PhD\
-Data & Product Analyst\
-<chiawei.w@outlook.com>
