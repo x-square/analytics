@@ -1,6 +1,8 @@
 ---
 title: 'Glossary of Biases'
-author: 'Chiawei Wang'
+author: 'Chiawei Wang, PhD'
+role: 'Data & Product Analyst'
+email: 'chiawei.w@outlook.com'
 date: 'October 2023'
 ---
 
@@ -269,7 +271,3 @@ Bias and prejudice are closely linked. Prejudice is forming opinions about someo
 - **Dialect discrimination** is when people are treated unfairly because of the way they speak, particularly if their speech shows they're from a specific place or social group. This can happen in various situations, but it's often seen in the workplace where employers may prefer a more standard way of speaking. It can also affect education and politics, where children with different dialects may not get the same education, and some people may face barriers in politics.
 
 `Any questions, please reach out!`
-
-Chiawei Wang, PhD\
-Data & Product Analyst\
-<chiawei.w@outlook.com>
