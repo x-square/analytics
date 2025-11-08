@@ -1,7 +1,9 @@
 ---
 title: 'Psychology for Better Customer Experience'
-author: 'Chiawei Wang'
-date: 'November 2023'
+author: 'Chiawei Wang, PhD'
+role: 'Data & Product Analyst'
+email: 'chiawei.w@outlook.com'
+date: 'August 2023'
 ---
 
 `This document introduces what psychology concepts can be applied for better customer experience.`
@@ -154,7 +156,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 ## Affordances: Action Possibilities in an Environment
 
 - **Law of context** says that where and when we do something affects how we do it. For example, how you behave at work is different from how you act at a party.
-- **Fogg behavior model** explains why people do things. It says for an action to happen, you need motivation, ability, and a trigger. If any of these is missing or weak, the action won't occur. It's used to design things that make it easier for people to do what you want, like using an app or buying a product.
+- **Fogg behaviour model** explains why people do things. It says for an action to happen, you need motivation, ability, and a trigger. If any of these is missing or weak, the action won't occur. It's used to design things that make it easier for people to do what you want, like using an app or buying a product.
 - **Metcalfe's law**, also known as **the more the better effect**, says that the more people or devices are in a network, the more valuable it becomes. For example, a social media platform is more useful when more people join because there are more connections and interactions. So, more users make a network much more valuable.
 - **Long neck theory** means it's profitable to sell many different, less popular things to niche markets instead of just a few popular items. It's about offering variety and serving diverse interests.
 
@@ -164,7 +166,3 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Law of locality** is a computer rule that says it's faster to use data that's stored close together in memory. It's like having a bookshelf where you keep the pages you need next to each other, so you don't have to keep moving around to find them. This helps computers work more efficiently.
 
 `Any questions, please reach out!`
-
-Chiawei Wang, PhD\
-Data & Product Analyst\
-<chiawei.w@outlook.com>
