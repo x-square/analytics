@@ -1,6 +1,8 @@
 ---
 title: 'Notes on Data Analytics'
-author: 'Chiawei Wang'
+author: 'Chiawei Wang, PhD'
+role: 'Data & Product Analyst'
+email: 'chiawei.w@outlook.com'
 date: 'January 2024'
 ---
 
@@ -167,11 +169,11 @@ Data analysts will generally use both types of data in their work. Usually, qual
 
 When thinking about the benefits and challenges of big data, it helps to think about the four Vs:
 
+: Four Vs for big data
+
 | **Volume** | **Variety** | **Velocity** | **Veracity** |
 |------------|-------------|--------------|--------------|
 | Amount of data | Different kinds of data | How fast the data can be processed | Quality and reliability of the data |
-
-: Four Vs for big data
 
 ## Structured thinking and scope of work
 
@@ -320,6 +322,8 @@ Data is powerful, but it has its limitations. Has someone's personal opinion fou
 
 ## Data formats in practice
 
+: Data format examples
+
 | **Data Format Classification** | **Definition** | **Examples** |
 | ------------------------------ | -------------- | ------------ |
 | Primary data | Collected by a researcher from first-hand sources | <li> Data from an interview you conducted <li>Data from a survey returned from 20 participants <li> Data from questionnaires you got back from a group of workers |
@@ -334,8 +338,6 @@ Data is powerful, but it has its limitations. Has someone's personal opinion fou
 | Ordinal | A type of qualitative data with a set order or scale | <li> Movie ratings (number of stars: 1 star, 2 stars, 3 stars)  <li> Ranked-choice voting selections (1st, 2nd, 3rd) <li> Income level (low income, middle income, high income) |
 | Structured data | Data organized in a certain format, like rows and columns | <li> Expense reports <li> Tax returns <li> Store inventory |
 | Unstructured data | Data that isn't organized in any easily identifiable manner | <li> Social media posts <li> Emails <li> Videos |
-
-: Data format examples
 
 ![Example of data formats](https://github.com/x-square/visual-resources/blob/main/data-formats.png?raw=true 'Example of data formats')
 
@@ -628,13 +630,13 @@ Knowing the content and context of your data, as well as how it is structured, i
 
 ## File structure and naming convention
 
+: Best practices for filename conventions to follow
+
 | **Formatting convention** | **Example** |
 |---------------------------|-------------|
 | Format dates as yyyymmdd | SalesReport20201125|
 | Lead revision numbers with 0 | SalesReport20201125v02 |
 | Use hyphens, underscores, or capitalized letters | <li> sales-report-2020-11-25-v02 <li> SalesReport_2020_11_25_v02 |
-
-: Best practices for filename conventions to follow
 
 ### Best practices for file naming conventions
 
@@ -683,6 +685,8 @@ Here are some other things to watch out for:
 
 As you progress in your data journey, you'll come across many types of data constraints (or criteria that determine validity). The table below offers definitions and examples of data constraint terms you might come across.
 
+: Data constraints and examples
+
 | **Data constraint** | **Definition** | **Examples** |
 |---------------------|----------------|--------------|
 | Data type | Values must be of a certain type: date, number, percentage, Boolean | If the data type is a date, a single number like 30 would fail the constraint and be invalid |
@@ -697,8 +701,6 @@ As you progress in your data journey, you'll come across many types of data cons
 | Accuracy | The degree to which the data conforms to the actual entity being measured or described | If values for zip codes are validated by street location, the accuracy of the data goes up |
 | Completeness | The degree to which the data contains all desired components or measures | If data for personal profiles required hair and eye color, and both are collected, the data is complete |
 | Consistency | The degree to which the data is repeatable from different points of entry or collection | If a customer has the same address in the sales and repair databases, the data is consistent |
-
-: Data constraints and examples
 
 ## Well-aligned objectives and data
 
@@ -720,12 +722,12 @@ To start off, the data analyst verifies that the data exported to spreadsheets i
 
 Cloud Gate, a software company, recently hosted a series of public webinars as free product introductions. The data analyst and webinar program manager want to identify companies that had five or more people attend these sessions. They want to give this list of companies to sales managers who can follow up for potential sales.
 
+: Webinar attendance data includes the fields
+
 | **Name** | **Research methods** | **Additional information** |
 |----------|----------------------|----------------------------|
 | Email Address | `xxxxx@company.com`  | Required information attendees had to submit |
 | Company | \<company name\> | Optional information attendees could provide |
-
-: Webinar attendance data includes the fields
 
 The webinar attendance data seems to align with the business objective. But the data analyst and program manager decide that some **data cleaning** is needed before the analysis. They think data cleaning is required because:
 
@@ -753,23 +755,25 @@ Consider the following data issues and suggestions on how to work around them:
 
 ### No data
 
+: Data issue of no data
+
 | **Possible Solutions** | **Examples of solutions in real life** |
 |------------------------|----------------------------------------|
 | Gather the data on a small scale to perform a preliminary analysis and then request additional time to complete the analysis after you have collected more data | If you are surveying employees about what they think about a new performance and bonus plan, use a sample for a preliminary analysis. Then, ask for another 3 weeks to collect the data from all employees. |
 | If there isn't time to collect data, perform the analysis using proxy data from other datasets. This is the most common workaround. | If you are analyzing peak travel times for commuters but don't have the data for a particular city, use the data from another city with a similar size and demographic. |
 
-: Data issue of no data
-
 ### Too little data
+
+: Data issue of too little data
 
 | **Possible Solutions** | **Examples of solutions in real life** |
 |------------------------|----------------------------------------|
 | Do the analysis using proxy data along with actual data. | If you are analyzing trends for owners of golden retrievers, make your dataset larger by including the data from owners of labradors. |
 | Adjust your analysis to align with the data you already have. | If you are missing data for 18 to 24-year-olds, do the analysis but note the following limitation in your report: this conclusion applies to adults 25 years and older only. |
 
-: Data issue of too little data
-
 ### Wrong data, including data with errors
+
+: Data issue of wrong data and errors
 
 | **Possible Solutions** | **Examples of solutions in real life** |
 |------------------------|----------------------------------------|    
@@ -777,13 +781,13 @@ Consider the following data issues and suggestions on how to work around them:
 | Identify errors in the data and, if possible, correct them at the source by looking for a pattern in the errors. | If your data is in a spreadsheet and there is a conditional statement or boolean causing calculations to be wrong, change the conditional statement instead of just fixing the calculated values. |
 | If you can't correct data errors yourself, you can ignore the wrong data and go ahead with the analysis if your sample size is still large enough and ignoring the data won't cause systematic bias. | If your dataset was translated from a different language and some of the translations don't make sense, ignore the data with bad translation and go ahead with the analysis of the other data. |
 
-: Data issue of wrong data and errors
-
 Use the following decision tree as a reminder of how to deal with data errors or not enough data:
 
 ![Decision tree of how to deal with data errors or not enough data](https://github.com/x-square/visual-resources/blob/main/data-errors-not-enough.png?raw=true 'Decision tree of how to deal with data errors or not enough data')
 
 ## Calculating sample size
+
+: Statistical terms and definitions
 
 | **Terminology** | **Definitions** |
 |-----------------|-----------------|
@@ -794,8 +798,6 @@ Use the following decision tree as a reminder of how to deal with data errors or
 | **Confidence interval** | The range of possible values that the population's result would be at the confidence level of the study. This range is the sample result plus and minus the margin of error. Briefly, `confidence interval = sample mean ± margin of error`. |
 | **Effect size** | The effect size is a quantitative measure of the magnitude of the experimental effect. The larger the effect size the stronger the relationship between two variables. You can look at the effect size when comparing any two groups e.g. control group and experimental group to see how substantially different they are. A significant *p* value tells us that an intervention works, whereas an effect size tells us how much it works. |
 | **Statistical power** | It can be calculated and reported e.g. `0.8` or `80%` for a completed experiment to comment on the confidence one might have in the conclusions drawn from the results of the study. It can also be used as a tool to estimate the number of observations or sample size required in order to detect an effect in an experiment. |
-
-: Statistical terms and definitions
 
 When figuring out a sample size, here are things to keep in mind:
 
@@ -855,6 +857,8 @@ All you need is **population size**, **confidence level**, and **sample size**.
 
 ![Types of dirty data](https://github.com/x-square/visual-resources/blob/main/data-dirty.png?raw=true 'Types of dirty data')
 
+: Types of dirty data
+
 | **Description** | **Possible causes** | **Potential harm to businesses** |
 |-----------------|---------------------|----------------------------------|
 | Duplicate data that shows up more than once | Manual data entry, batch data imports, or data migration | Skewed metrics or analyses, inflated or inaccurate counts or predictions, or confusion during data retrieval |
@@ -862,8 +866,6 @@ All you need is **population size**, **confidence level**, and **sample size**.
 | Incomplete data that is missing important fields | Improper data collection or incorrect data entry | Decreased productivity, inaccurate insights, or inability to complete essential services |
 | Inaccurate data that is complete but inaccurate | Human error inserted during data input, fake information, or mock data | Inaccurate insights or decision-making based on bad information resulting in revenue loss |
 | Inconsistent data that uses different formats to represent the same thing | Data stored incorrectly or errors inserted during data transfer | Contradictory data points leading to confusion or inability to classify or segment customers |
-
-: Types of dirty data
  
 ### Business impact of dirty data
 
@@ -908,6 +910,8 @@ Top ten lists for data cleaning:
 
 ## Workflow automation
 
+: What can be automated?
+
 | **Task** | **Can it be automated?** | **Why?** |
 |----------|--------------------------|----------|
 | Communicating with your team and stakeholders | No | Communication is key to understanding the needs of your team and stakeholders as you complete the tasks you are working on. There is no replacement for person-to-person communications. |
@@ -915,8 +919,6 @@ Top ten lists for data cleaning:
 | Preparing and cleaning data | Partially | Some tasks in data preparation and cleaning can be automated by setting up specific processes, like using a programming script to automatically detect missing values. |
 | Data exploration | Partially | Sometimes the best way to understand data is to see it. Luckily, there are plenty of tools available that can help automate the process of visualising data. These tools can speed up the process of visualizing and understanding the data, but the exploration itself still needs to be done by a data analyst. |
 | Modelling the data | Yes | Data modelling is a difficult process that involves lots of different factors Luckily there are tools that can completely automate the different stages. |
-
-: What can be automated?
 
 ## Embrace changelogs
 
@@ -1145,7 +1147,3 @@ There are nine basic principles of design that data analysts should think about 
 ![Nine principles of design](https://github.com/x-square/visual-resources/blob/main/design-principles-nine.png?raw=true 'Nine principles of design')
 
 `Any questions, please reach out!`
-
-Chiawei Wang, PhD\
-Data & Product Analyst\
-<chiawei.w@outlook.com>
