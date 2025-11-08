@@ -1,6 +1,8 @@
 ---
 title: 'Notes on Advanced Data Analytics'
-author: 'Chiawei Wang'
+author: 'Chiawei Wang, PhD'
+role: 'Data & Product Analyst'
+email: 'chiawei.w@outlook.com'
 date: 'February 2024'
 ---
 
@@ -79,6 +81,8 @@ Data analytics and business intelligence share a lot of commonalities. Both fiel
 
 There are so many different industries taking advantage of data analytics in so many different ways. Here is just a sample of some of these industries and how they use data:
 
+: How data is used in different industries
+
 | **Industry** | **Overview** | **How data is used** |
 |--------------|--------------|----------------------|
 | App-driven business (sharing economy service) | Facilitates users acquiring, providing, or sharing access to goods and services, often through online or app-based communities | <li> Maintaining functioning mobile applications <li> Delivering customized content based on user history including discounts <li> Using machine learning models to send notifications at key times or even locations |
@@ -90,8 +94,6 @@ There are so many different industries taking advantage of data analytics in so 
 | Streaming media and entertainment | Provides access to live and recorded content on-demand, delivered via the internet to computers, smart devices, and mobile devices | <li> Analyzing and monitoring user interactions to better understand customer sentiment <li> Matching users with advertisers with real-time analytics <li> Guiding future content decisions <li> Personalizing marketing campaigns |
 | Telecommunications| Primarily involves operating and providing access to facilities for the transmission of voice, data, text, sound, and video | <li> Assisting the deployment, optimization, and predictive maintenance of telecommunications networks <li> Optimizing pricing models <li> Targeting advertisement and incentive campaigns, as well as detecting fraudulent activity <li> Analyzing customer data to customize subscriber plans |
 | Travel and tourism | Encompasses a variety of services from transportation, accommodations, attractions, booking, and much more | <li> Marketing to individuals based on their previous travel or searched destinations <li> Directing machine learning systems that can adjust a traveler's itinerary based on set factors including weather and availability <li> Generating recommendations based on personal preferences and location-based discounts <li> Managing reservations and processing transactions |
-
-: How data is used in different industries
 
 ### Data trends for the future
 
@@ -228,14 +230,14 @@ As you have been learning, all data professionals are responsible for ensuring t
 
 RACI matrix is a tool that many organizations use to structure their projects. It also helps to outline, communicate, and understand the responsibilities of data analytics professionals and other cross-functional team members.
 
+: Assign responsibility
+
 | **Task** | **Business Intelligence Engineer** | **Data Scientist** | **Analytic Team Manager** | **Data Engineer** | **Chief Data Officer** |
 |---|---|---|---|---|---|
 | **Access to data** | R | C | R | R | A |
 | **Create models to analyze data** | C | R | C | I | A |
 | **Drive insights and recommendations based on data** | C | R | C | I | A |
 | **Ensure data compliance** | C | I | C | R | A |
-
-: Assign responsibility
 
 - Responsible
     - Those who do the work to complete the task 
@@ -252,6 +254,8 @@ As a data professional, you will continue learning new skills and applying your 
 
 ### Tools today
 
+: Common tools data professionals use everyday
+
 | **Tool** | **Definition** | **Examples** | **Transferable skills** |
 |----------|----------------|--------------|-------------------------|
 | Spreadsheets | A digital worksheet where data can be manipulated and used for calculations | <li> Google Sheets <li> Microsoft Excel |  <li> Data entry <li> Mathematical calculations <li> Manage datasets <li> Task automation <li> Data manipulation <li> Data analysis |
@@ -259,8 +263,6 @@ As a data professional, you will continue learning new skills and applying your 
 | Programming languages | A system of words and symbols used to write instructions that computers follow | <li> SQL <li> R <li> Python <li> Java <li> C++ | <li> Communicate with computer systems <li> Write and input commands <li> Manage datasets <li> Data manipulation <li> Data analysis |
 | Data visualization | The graphical representation of data | <li> Tableau <li> Matplotlib <li> Seaborn <li> Google Charts <li> InfoGram <li> ChartBlocks | <li> Communicate data insights  <li> Design compelling visuals <li> Identify key metrics|
 | Dashboards | A tool that monitors live, incoming data | <li> Tableau <li> LookerStudio <li> Microsoft PowerBI | <li> Communicate data insights <li> Monitor real-time data <li> Develop data visualizations <li> Design filters and custom calculations |
-
-: Common tools data professionals use everyday
 
 More specifically used tools for data analytics and machine learning with Python:
 
@@ -787,6 +789,8 @@ End-of-course projects emphasize technical and professional workplace skills, as
 
 ## Python versus other programming languages
 
+: Programming language comparisons
+
 | **Features by software** | **Python** | **R** | **Java** | **C++** |
 |--------------------------|------------|-------|----------|---------|
 | **Speed** | Slower | Depends on configuration and add-ons | Faster | Very fast |
@@ -794,8 +798,6 @@ End-of-course projects emphasize technical and professional workplace skills, as
 | **Variable** | Dynamic | Dynamic | Static | Declarative |
 | **Data science focus** | Machine learning and automated analysis | Exploratory data analysis and building extensive statistical libraries | Used across projects with open-source assets | Not as widely used but very powerful implementations |
 | **Programming paradigm** | Object-oriented | Functional language | Object-oriented | Multi-paradigm (imperative & object-oriented) |
-
-: Programming language comparisons
 
 ## More about object-oriented programming
 
@@ -4351,6 +4353,8 @@ This process requires you to set up a payment method. However, new users get a $
 
 ### Manipulating datetime strings in Python
 
+: Datetime function
+
 | **Code** | **Format** | **Example** |
 |----------|------------|-------------|
 | **%a** | Abbreviated weekday | Sun |
@@ -4376,8 +4380,7 @@ This process requires you to set up a payment method. However, new users get a $
 | **%z** | Offset | +0900 |
 | **%Z** | Time zone | EDT/JST/WET etc (GMT) |
 
-: Datetime function
-
+: Date string manipulations
 
 | **Code** | **Input Type** | **Input Example** | **Output Type** | **Output Example** |
 |----------|----------------|-------------------|-----------------|--------------------|
@@ -4390,8 +4393,6 @@ This process requires you to set up a payment method. However, new users get a $
 | **from pytz import timezone**<br>**ny_time = datetime.strptime <br> ('25-11-2022  09:34:00-0700', <br> '%d-%m-%Y  %H:%M:%S%z')** <br> **Tokyo_time = ny_time.astimezone <br> (timezone(‘Asia/Tokyo'))** | string | NewYork timezone '25-11-2022  09:34:00-0700' | DateTime | Tokyo timezone 2022, 11, 26, 1, 34, JST+9:00:00 STD> |
 | **datetime.strptime <br> ('20:00', '%H:%M') <br> .strftime('%I:%M %p')** | string | '20:00' | string | '08:00 PM' |
 | **datetime <br> .strptime('08:00 PM', '%I:%M  %p') <br> .strftime('%H:%M')** | string | '08:00 PM' | string | '20:00' |
-
-: Date string manipulations
 
 ### Date string manipulations
 
@@ -4951,6 +4952,8 @@ For categorical or qualitative data types, data professionals often need to tran
 
 ### Label encoding
 
+: Label encoding
+
 | **Mushroom Type** | **Code** |
 |-------------------|----------|
 | Black truffle     |  0       |
@@ -4963,8 +4966,6 @@ For categorical or qualitative data types, data professionals often need to tran
 | Shiitake          |  7       |
 | Toadstool         |  8       |
 
-: Label encoding
-
 ### Some potential problems with label encoding 
 
 With this label encoding, the resulting machine learning model could derive not only a ranking, but also a closer connection between `1` and `2` because of how close they are numerically than, say, `1` and `4`). In addition to these presumed relationships, which you may or may not want in your analysis, you should also notice that each code is equidistant from the other in the numeric sequence, as in `1` to `2` is the same distance as `5` to `6`. The question is, does that equidistant relationship accurately represent the relationships between the music genres in your dataset? To ask another question, after encoding, will the visualization or model you build treat the encoded labels as a ranking?
@@ -4974,6 +4975,8 @@ With this label encoding, the resulting machine learning model could derive not 
 Another method for categorical encoding that may help with these potential problems. In machine learning, a one-hot is a group of bits among which the legal combinations of values are only those with a single high or hot `1` bit and all the others low or cold `0`.
 
 With this method, we solve the problem of the unintended and problematic relationships that label encoding presented. But one-hot encoding does present its own set of problems, particularly when it comes to logistic and linear regression.
+
+: One-hot encoding 
 
 | **N/A** | **Mild** | **Scattered** | **Heavy** | **Severe** |
 |---------|----------|---------------|-----------|------------|
@@ -4990,8 +4993,6 @@ With this method, we solve the problem of the unintended and problematic relatio
 |    10   |     1    |       0       |     0     |     0      |
 |    11   |     1    |       0       |     0     |     0      |
 |    12   |     0    |       1       |     0     |     0      |
-
-: One-hot encoding 
 
 ### Label encoding or one-hot encoding: How to decide?
 
@@ -6132,6 +6133,8 @@ The effect of all this sampling is that the base learners each see only a fracti
 
 No! In fact, not only is it possible for model scores to improve with sampling, but they also require significantly less time to run, since each tree is built from less data.
 
+: Comparison between bagging and random forest
+
 | | **Bootstrap sample size** | **Features sampled** | **Accuracy score** | **Runtime** |
 |-|---------------------------|----------------------|--------------------|-------------|
 | **Bagging** | 100% | 10 | 0.8596 | 15m 49s |
@@ -6139,8 +6142,6 @@ No! In fact, not only is it possible for model scores to improve with sampling, 
 | **Random forest** | 100% | 4 | 0.8704 | 8m 19s |
 | **Random forest** | 30% | 4 | 0.8736 | 4m 53s |
 | **Random forest** | 5% | 4 | 0.8652 | 3m 41s |
-
-: Comparison between bagging and random forest
 
 The bagging model with only 30% bootstrapped samples performed better than the one that used 100% samples, and the random forest model that used 30% bootstrapped samples and just 4 features performed better than all the others. Not only that, but runtime was cut by nearly 70% using the random forest model with 30% bootstrap samples. 
 
@@ -6204,7 +6205,3 @@ As a data specialist working for Salifort Motors, you have received the results 
 For this deliverable, you are asked to choose a method to approach this data challenge based on your prior course work. Select either a regression model or a tree-based machine learning model to predict whether an employee will leave the company. Both approaches are shown in the project exemplar, but only one is needed to complete your project.
 
 `Any questions, please reach out!`
-
-Chiawei Wang, PhD\
-Data & Product Analyst\
-<chiawei.w@outlook.com>
