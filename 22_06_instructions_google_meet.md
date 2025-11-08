@@ -1,12 +1,14 @@
 ---
 title: 'Attending Remote User Interviews via Google Meet'
-author: 'Chiawei Wang'
+author: 'Chiawei Wang, PhD'
+role: 'Data & Product Analyst'
+email: 'chiawei.w@outlook.com'
 date: 'June 2022'
 ---
 
 `This document introduces what to expect when attending remote user interviews.`
 
-## Key Points
+# Key Points
 
 When joining an interview, the most important rules are to:
 
@@ -15,13 +17,13 @@ When joining an interview, the most important rules are to:
 - Put down **VIEWER** as your display name
 - **REMOVE** your profile picture
 
-## Before the Interview
+# Before the Interview
 
 You should receive a link Meeting ID starting with `https://meet.google.com` in order to dial in via Google Meet to attend a remote interview.
 
 Before each session starts or at the start of the day, we will share relevant information about the participant joining the next session via WhatsApp, Slack or email.
 
-## What to Expect When Entering the Meeting Room
+# What to Expect When Entering the Meeting Room
 
 There are a few things we recommend to do and watch out for when you enter the meeting room:
 
@@ -34,7 +36,7 @@ There are a few things we recommend to do and watch out for when you enter the m
 7. **Discussion guide**: The discussion guide is not a verbatim script. When needed, the order and questions may be adjusted accordingly by the moderator.
 8. **Attendance**: The thoughts, feelings and experiences of each participant can be very different. We suggest you not make assumptions based on listening to one participant. Attend as many sessions as you can to benefit from these different learnings.
 
-## How to Join with Google Meet?
+# How to Join with Google Meet?
 
 You will be able to dial in on a web browser without downloading an app.
 
@@ -47,10 +49,4 @@ You will be able to dial in on a web browser without downloading an app.
 4. Put down **Viewer** as your display name.
 5. Click **Ask to join** to attend the session.
 
-**Enjoy your time!**
-
 `Any questions, please reach out!`
-
-Chiawei Wang, PhD\
-Data & Product Analyst\
-<chiawei.w@outlook.com>
