@@ -1,6 +1,8 @@
 ---
 title: 'Attending Remote User Interviews via Zoom'
-author: 'Chiawei Wang'
+author: 'Chiawei Wang, PhD'
+role: 'Data & Product Analyst'
+email: 'chiawei.w@outlook.com'
 date: 'June 2022'
 ---
 
@@ -66,8 +68,8 @@ Using the meeting link or the meeting ID:
 Using the meeting link or the meeting ID:
 
 1. By using the meeting link:
-    - Click the meeting link or copy it into a web browser.
     - Click **Cancel** when you are prompted to open zoom.us.app.
+    - Click the meeting link or copy it into a web browser.
     - Click **Launch Meeting**.
     - After you are again prompted to open zoom.us.app, click Cancel and then click the link **Join from Your Browser** at the bottom of the page.
     - Select **Mute** and **Stop Video** and put down **Viewer** as your display name.
@@ -81,10 +83,4 @@ Using the meeting link or the meeting ID:
     - Select **Mute** and **Stop Video** and put down **Viewer** as your display name.
     - Click **Join** to attend the session.
 
-**Enjoy your time!**
-
 `Any questions, please reach out!`
-
-Chiawei Wang, PhD\
-Data & Product Analyst\
-<chiawei.w@outlook.com>
