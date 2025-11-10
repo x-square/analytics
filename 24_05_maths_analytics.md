@@ -12,7 +12,7 @@ date: 'May 2024'
 
 [^2]: Howell, E. https://medium.com/@egorhowell
 
-# Basic maths and calculus 
+# Basic maths and calculus
 
 **Maths** is the study of **numbers**, **shapes**, **patterns**, and **relationships**. It provides tools and methods for solving problems, understanding the world around us, and making predictions in various fields.
 
