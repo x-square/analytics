@@ -8,7 +8,7 @@ date: 'July 2023'
 
 `This document provides an overview of terms used in analytics and research.`
 
-# Applied Research
+# Applied Research 
 
 Applied research focuses on practical problem-solving and finding real-world solutions. Its primary goal is to address specific issues, improve processes or develop new products, and technologies. Unlike pure research, applied research is directly connected to making tangible improvements and positive impacts in various fields. It uses existing theories and knowledge as a foundation to generate actionable results and practical insights. Some common types and approaches of applied research include:
 
