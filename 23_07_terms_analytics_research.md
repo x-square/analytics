@@ -1,5 +1,5 @@
 ---
-title: "Beginner's Guide to Terms in Analytics and Research"
+title: "A Beginner's Guide to Terms in Analytics and Research"
 author: 'Chiawei Wang, PhD'
 role: 'Data & Product Analyst'
 email: 'chiawei.w@outlook.com'
