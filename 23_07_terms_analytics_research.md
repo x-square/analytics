@@ -8,135 +8,24 @@ date: 'July 2023'
 
 `This document provides an overview of terms used in analytics and research.`
 
-# Applied Research 
-
-Applied research focuses on practical problem-solving and finding real-world solutions. Its primary goal is to address specific issues, improve processes or develop new products, and technologies. Unlike pure research, applied research is directly connected to making tangible improvements and positive impacts in various fields. It uses existing theories and knowledge as a foundation to generate actionable results and practical insights. Some common types and approaches of applied research include:
-
-: Types of applied research
-
-| **Generative research** | **Evaluative research** | **Research approaches** |
-|-------------------------|-------------------------|-------------------------|
-| Exploratory             | Formative               | Traditional             |
-| Explanatory             | Summative               | Agile                   |
-
-## Generative Research
-
-This type of research focused on generating new ideas and insights during the early stages of product development. It aims to explore user needs and behaviours through qualitative methods like interviews and observations. By uncovering user context and pain points, generative research inspires creative and user-centred design solutions, leading to more effective and meaningful products or services.
-
-- **Exploratory research** often qualitative is a preliminary and open-ended investigation that aims to explore and gain a deeper understanding of a topic or problem. It uses qualitative methods to generate insights, ideas and hypotheses, rather than testing specific hypotheses or making definitive conclusions. The insights from exploratory research provide a solid foundation for further investigation and decision-making in subsequent research studies.
-- **Explanatory research** often quantitative aims to provide a deeper understanding of the relationships between variables and uncover the reasons behind observed phenomena. It goes beyond exploratory research to establish cause-and-effect relationships and test specific hypotheses. Using a combination of qualitative and quantitative methods, explanatory research helps researchers make predictions and draw conclusions about the effects of variables on outcomes. It plays a crucial role in confirming or refuting existing theories and guiding future research and decision-making.
-
-## Evaluative Research
-
-This type of research focuses on assessing and judging the effectiveness and impact of existing products, services or interventions, unlike exploratory or explanatory research, which seeks to understand phenomena. Evaluative research aims to make informed decisions and improve designs based on collected data. Using qualitative and quantitative methods, it gathers feedback from users or participants to refine and optimise products or services, measure intervention impact and ensure they meet user needs and expectations. Evaluative research plays a crucial role in data-driven decision-making and enhancing the overall user experience.
-
-- **Formative research** often qualitative is conducted in the early stages of a project or program to gather insights and feedback that inform its development and design. It focuses on understanding the target audience's needs and behaviours, using qualitative and quantitative methods like interviews and surveys. By involving users and stakeholders, formative research ensures that the final product or program is well-informed and relevant, leading to more effective solutions and successful outcomes.
-- **Summative research** often quantitative evaluates the overall effectiveness and impact of a project, program or intervention at its conclusion. Unlike formative research, which informs the design, summative research measures the extent to which objectives have been achieved. It uses quantitative methods like surveys and assessments to collect data and draw conclusions about the success of the initiative. The insights from summative research are valuable for stakeholders, guiding future improvements and decision-making based on the project's outcomes.
-
-## Research Approaches
-
-- **Traditional approach** is the usual way of doing research, following a step-by-step process. It includes planning, data collection, analysis and reporting in a specific order. It has a fixed design and is focused on getting accurate results, but it may take longer because it's less flexible.
-- **Agile approach** is a flexible and adaptive approach to research, inspired by agile software development. It breaks down the process into smaller tasks, allowing continuous data gathering and analysis. Researchers can make real-time adjustments based on insights, focusing on high-priority areas. It is valuable in dynamic environments with evolving research questions.
-
-# Empirical Research
-
-Empirical research is a systematic investigation that relies on observation, experimentation and data collection to answer specific questions or test hypotheses. It involves gathering evidence through various methods, such as experiments, surveys, interviews and observations, to draw conclusions based on real-world data. Empirical research is essential in fields like social sciences, natural sciences and applied research, as it provides a solid foundation for understanding phenomena and making informed decisions.
-
-## Data Collection
-
-Data collection is the process of gathering information to answer research questions or test hypotheses. It involves systematically collecting data from various sources, such as surveys, interviews, experiments or observations. The goal is to obtain accurate and reliable data that can be analysed to draw meaningful conclusions. Data collection methods can be qualitative or quantitative, depending on the nature of the research and the type of data needed.
-
-### Three basic types
-
-- **Sample survey** is like asking a small group of people questions to learn something about a bigger group. Imagine you want to know what ice cream flavour your whole school likes. Instead of asking everyone, that'd take forever, you ask a few kids from different classes. Their answers give you a hint about what the whole school might prefer.
-    - Faster, cheaper and easier to analyse
-- **Observational study** is like watching and recording things without interfering. You don't control anything. You just track what happens and try to see if there are any patterns. Imagine you're a detective at the zoo, trying to figure out why the zebras love stripes so much. You can't ask them directly, so you do the next best thing. You observe! You watch how they spend their days, what makes them happy, and even how they interact with other animals.
-    - Discover secrets, no cheating, useful everywhere
-- **Experimental study** is like asking a question of the world, but not just with words, with actions! It's your way of getting proof and understanding something better. Imagine you're trying to figure out which plant grows faster, sunlight or shade. You wouldn't just guess, right? You'd set up two pots, put one in the sun and one in the shade, and watch what happens.
-    - Ask a question, make a guess, set up a test, collect data, analyse the result
-
-### Classification of user data
-
-- **Demographic data** is information about your customers, like their age, gender, income, and education. It helps you know who your customers are and what they need. You can use this data to group your customers for marketing. For instance, if you sell anti-wrinkle cream, you might concentrate on age groups that are more likely to buy it. Gathering this data makes your marketing more focused and improves the outcomes.
-- **Psychographic data** includes a customer's values, personality traits, opinions, attitudes, beliefs, and lifestyle. It goes beyond just demographic information. While demographics appeal to the logical side, psychographic data helps tap into the emotional aspect of buying decisions. Businesses and products don't have emotions, but humans do. Understanding what motivates your customer emotionally, what messaging resonates with them, and what brand attitude connects with them, becomes clearer with psychographic data. It's about making customers feel something to drive their buying decisions.
-- **Behavioural data** includes customer actions, like purchases, website visits, or signing up for newsletters. It helps you grasp what your customers want and how they engage with your business. For instance, in the wrinkle cream case, if users of a certain age visit your website, click on product pages, and later sign up for your newsletter, it shows brand awareness and buyer intent. Analysing such data helps optimise touch points in your customer journey. Understanding when and why customers act the way they do enhances your marketing efforts, especially in re-engaging returning customers.
-- **Transactional data** is details about a customer's financial activities, like how much they spend, how often they make purchases, the time it takes for them to buy, and how many items they return. This data helps marketers grasp spending habits and trends among customers, which becomes crucial when market conditions change, new technology emerges, or new factors affect buying decisions.
-
-### Direction of investigation
-
-- **Retrospective study** refers to the study looks back at **past data** that has already been collected. It's like analysing old footage to learn something new.
-    - **Retrospective cohort study** is a type of longitudinal cohort study that looks back in time to analyse data about a group of people who share a common exposure or characteristic. Researchers examine the health outcomes of this group over a specific period to investigate the potential association between the exposure and the outcome.
-- **Prospective study** refers to the study is designed and conducted in the present, with **future data** collected specifically for the research question. It's like filming a new documentary with a specific focus.
-    - **Prospective cohort study** is another type of longitudinal cohort study. Unlike its retrospective counterpart, it looks forward in time. Researchers actively recruit a group of people who share a common exposure or characteristic and then follow them over a period to observe their health outcomes.
-
-## Statistical Sample
-
-Statistical sample is a subset of a larger population that is selected for analysis in a research study. The sample is used to draw conclusions about the entire population based on the data collected from the sample. The goal is to ensure that the sample is representative of the population, allowing researchers to make generalisations and predictions about the larger group.
-
-### Modes of administration
-
-- **Sourcing** in an experiment refers to the process of finding and selecting participants, materials, or data for the study. For example, researchers might source participants through online advertisements or use specific criteria to select data sets for analysis. Proper sourcing is crucial for ensuring the experiment's validity and reliability.
-    - **Email survey** is a questionnaire sent via email to collect data for research or feedback. Participants receive the survey in their inbox, complete it at their convenience, and then submit their responses electronically. It's a cost-effective and quick way to gather information, though response rates can vary.
-    - **In-product survey** is a questionnaire that appears within a software application or website, targeting users while they are actively engaged with the product. This method aims to collect real-time feedback or data, providing insights into user behaviour, satisfaction, or specific features. It's a direct way to gauge user experience without requiring participants to leave the product environment.
-    - **Panel** in a database context refers to a curated list of respondents maintained by service providers for research purposes. Members of the panel may participate in various studies and can be revisited for data collection over extended periods. This allows for consistent and reliable research findings.
-- **Screening** in research refers to the initial process of evaluating potential participants to determine their suitability for a study. Criteria may include age, health status, or specific behaviours. The aim is to ensure that the selected participants fit the study's objectives and requirements, thereby making the results more reliable and applicable.
-
-### Sampling methods
-
-- **Probability sampling** is the process of randomly selecting a subset of individuals from a larger population to study, where each member of the population has a known, non-zero chance of being selected into the sample. This smaller group, or sample, is chosen to represent the larger population and help researchers draw conclusions about it. The idea is to study the sample and then make generalisations about the larger group based on the findings.
-    - **Simple random sample** is a subset of individuals chosen from a larger population. Each individual is selected randomly and entirely by chance, such that each individual has the same probability of being chosen at any stage during the sampling process. This method is like drawing names out of a hat and aims to give every individual an equal chance of being included in the sample. It's a straightforward way to get a snapshot of a larger group. The sample can be heterogeneous, and homogeneity is not considered in this method.\
-    ![Simple random sampling](https://github.com/x-square/visual-resources/blob/main/sampling-simple-random.png?raw=true 'Simple random sampling')
-    - **Systematic sample** involves arranging every member of a population in a specific order. Then, you randomly select a starting point in the sequence and pick members for your sample at consistent intervals. Same as simple random sampling, the sample can be heterogeneous, and homogeneity is not considered in this method.\
-    ![Systematic sampling](https://github.com/x-square/visual-resources/blob/main/sampling-systematic.png?raw=true 'Systematic sampling')
-    - **Stratified sample** is where the population is divided into different subgroups, or strata, usually based on a specific characteristic like age or income. Random samples are then taken from each stratum. This method aims to ensure that each subgroup is adequately represented in the final sample. Strata are homogeneous within but heterogeneous between.\
-    ![Stratified sampling](https://github.com/x-square/visual-resources/blob/main/sampling-stratified.png?raw=true 'Stratified sampling')
-    - **Cluster sample** is where the population is divided into clusters, often geographically or by some other natural grouping. A random sample of clusters is chosen, and then either all individuals in the selected clusters are surveyed, or a random sample from each selected cluster is surveyed. Clusters are heterogeneous and similar to the entire population. Homogeneity is not required within clusters.\
-    ![Cluster sampling](https://github.com/x-square/visual-resources/blob/main/sampling-cluster.png?raw=true 'Cluster sampling')
-- **Non-probability sampling** lacks random selection, leading to uneven representation and a higher risk of bias. Every individual in the population is not guaranteed to have an equal chance of being selected. Despite this limitation, they offer cost and time efficiencies for researchers. When resources are limited, this method provides a practical solution, particularly for exploratory studies focused on initial insights rather than making broad conclusions about a population.
-    - **Convenience sample** involves selecting easily accessible members of a population. It's called convenience because you gather samples from places convenient to you, like your workplace, a nearby school, or a public park.
-    - **Voluntary response sample** includes population members who choose to join a study. Similar to convenience sampling, it's often based on easy access to the population. But here, participants decide to join on their own, rather than being selected by the researcher.
-    - **Snowball sample** involves researchers initially recruiting participants for a study and then asking them to invite others to join. This method gradually increases the sample size, similar to how a snowball grows in size as it rolls. It's commonly used when accessing the desired population is challenging.
-    - **Purposive sample** involves researchers selecting participants based on the goals of their study. Only individuals who meet the criteria are chosen, while others are excluded.
-
-## Experimental Design
-
-- **Randomisation** is a way to put people into different groups in a study so that everyone has an equal chance of being picked. It helps make the study more reliable because it reduces the chance that other factors could affect the results. This is what makes it a true experiment rather than just an observation. While there's a slight risk of the groups being unbalanced, using a large enough number of people can manage this risk. If the people in the study have important differences, you can use a method called 'stratified sampling' to make sure each group is fairly represented. This helps in getting results that can be applied to a larger group of people.
-- **Blocking** in research is the practice of organising experimental units into groups, or blocks, that are similar in some way that might affect the result of the experiment. For example, if you're studying the effects of a drug on people of different ages, you might create blocks of participants who are similarly aged. This helps to make the study's findings more accurate by controlling for variables like age.
-- **Between-subjects design** is a research approach where each participant is exposed to only one condition or treatment. For instance, in a study comparing two types of painkillers, one group of people would take Painkiller A while another group would take Painkiller B. This design helps to avoid issues like practice effects but may require more participants to ensure accurate results.
-- **Within-subjects design** is a research method where the same participants are used in all the different conditions of an experiment. For example, if you're testing two types of exercises for improving fitness, each participant would try both exercises at different times. This approach helps to reduce the number of participants needed and controls for individual differences, but it can be affected by factors like fatigue or learning effects.
-- **Blind** **experiment** is a study where the participants don't know certain details about the experiment, such as whether they're receiving a treatment or a placebo. This helps to prevent bias, ensuring the results are more reliable. For example, in a medical trial, a blind experiment would mean that patients don't know if they're taking real medicine or a sugar pill, making their responses more genuine.
-- **Double-blind experiment** is one where neither the participants nor the researchers know who is receiving the treatment or the placebo. This helps to eliminate both participant and experimenter bias, making the study's results more trustworthy. For example, in a drug trial, a double-blind setup ensures that neither the patient nor the medical staff knows who is receiving the real medication, which makes the findings more reliable.
-- **Unblinding** happens when someone in a blind experiment figures out information they're not supposed to know, like whether they got the real treatment or a fake one. This can mess up the results because it adds bias. Sometimes unblinding happens by accident or too early, which isn't ideal. The success of keeping the experiment blind is usually checked by asking people questions to see if they've figured anything out. While it's hard to measure unblinding perfectly, you can still get a good idea of how well the experiment was kept blind.
-- **Replication** is the process of repeating a study or experiment to see if the same results are obtained. This helps to confirm the findings are reliable and not just a one-off occurrence. For example, if one research team finds that a certain diet helps in weight loss, another team might replicate the study to ensure the results hold true.
-
-## Statistical Inference
-
-- **Correlation** measures the degree of association between two variables, ranging from **positive** that values move together to **negative** that values move in opposite directions to zero that **no relationship**, that is, strength of relationship.
-    - In general, the presence of a correlation is not sufficient to infer the presence of a causal relationship.
-    - The direction of correlation doesn't inherently reveal which variable is influencing the other. That's where causality comes into play.
-- **Association** simply indicates that two variables are related in some way without specifying the strength or direction.
-- **Dependence** occurs when one variable **independent** influences another variable **dependent**.
-- **Independence** indicates two variables are not statistically related and have no influence on each other.
-- **Causality** or **cause-and-effect** is a specific type of statistical relationship where **one variable directly influences another and not the other way round**. Establishing strong evidence for causality requires more than just observing a correlation or association. Researchers typically conduct experiments to control variables and isolate the potential cause.
-
 # Analytics
 
 Analytics is the systematic analysis of data to extract meaningful insights and support decision-making. It involves collecting, processing, and interpreting data to uncover patterns, trends, and relationships that can inform strategies and actions. Analytics can be applied in various fields, including business, healthcare, finance, and social sciences, to improve performance, optimise processes, and enhance understanding of complex systems.
 
-## Chronological Levels of Analytics
+## Chronological levels of analytics
 
 - **Descriptive analytics** focuses on summarising historical data to understand what has happened in the past. It provides insights into trends, patterns, and performance metrics. Common analyses include **funnel analysis**, **customer segmentation**, and **trend analysis**. For example, a company might use descriptive analytics to analyse sales data from the previous year to identify seasonal trends and customer preferences.
 - **Diagnostic analytics** is a type of analytics that focuses on understanding the reasons behind past events or outcomes. It goes beyond descriptive analytics by analysing historical data to identify patterns and relationships that explain why certain events occurred. Common analyses include **root cause analysis**, **session replays**, and **A/B testing**. For example, a company might use diagnostic analytics to investigate a sudden drop in sales by examining customer feedback, market trends, and competitor actions. It helps to find the causes of friction like **interactive friction**, **cognitive friction**, and **emotional friction**.
 - **Predictive analytics** uses statistical models and machine learning techniques to forecast future outcomes based on historical data. It helps organisations anticipate trends and make proactive decisions. Common analyses include **churn prediction**, **sales forecasting**, and **risk assessment**. For instance, a retail company might use predictive analytics to forecast demand for specific products during the holiday season, allowing them to optimise inventory levels.
 - **Prescriptive analytics** goes beyond predictive analytics by recommending actions to optimise outcomes. It uses advanced algorithms and simulations to suggest the best course of action based on predicted scenarios. Common analyses include **optimisation models**, **what-if analysis**, and **resource allocation models**. For example, a logistics company might use prescriptive analytics to determine the most efficient delivery routes based on traffic patterns and weather conditions, minimising costs and improving customer satisfaction.
 
-## Scaler Levels of Analysis
+## Scaler levels of analysis
 
 - **Micro level** refers to the smallest unit of analysis that is an individual within their social setting. At the micro level, also known as the local level, the research often focuses on individuals or small groups in a specific social context. Examples of micro level analysis include various individual-focused approaches: `person`, `partnership`, `family`, `household`, `neighbourhood`, `citizen`
 - **Meso level** focuses on populations larger than individuals (micro) but smaller than society as a whole (macro), like communities or organizations. Additionally, meso level analysis can aim to uncover connections between micro and macro levels. This is sometimes termed mid-range, particularly in sociology. Examples of meso level units of analysis include communities and organisations: `clan`, `tribe`, `community`, `village`, `town`, `city`
 - **Macro level** examine the results of interactions, like large-scale economic or resource transfers across populations. This is also known as the global level. Examples of macro level units of analysis encompass various large-scale phenomena: `society`, `nation`, `international`, `global`, `civilisation`
 
-# Product Analytics
+# Product analytics
 
 Product analytics is the process of collecting and analysing data related to a product's performance, user behaviour and overall impact. It helps organisations understand how users interact with their products, identify areas for improvement and make data-driven decisions to enhance user experience and product success. Product analytics can involve various metrics, such as user engagement, conversion rates, retention rates and feature usage.
 
@@ -151,12 +40,12 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 | Attitudinal              | Qualitative          | Scripted           |
 | Behaviour                | Quantitative         | Natural            |
 
-## What Users Say or Do
+## What users say or do
 
 - **Attitudinal research** is a type of user research that aims to understand users' perceptions, beliefs, opinions and feelings about a product, service or problem. It uses methods like interviews, focus groups, surveys and diary studies to gain insights into users' subjective experiences, preferences and decision-making processes.
 - **Behavioural research** focuses on observing and measuring how people actually interact with a product or service in real-world situations. This type of research examines users' actions, interactions and usage patterns. Usability studies, web analytics and click rates are typical methods for analysing user behaviours on websites and digital platforms.
 
-## Research Methods
+## Research methods
 
 ### Qualitative research
 
@@ -311,9 +200,120 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 
 [^3]: Keiningham, T; Cooil, B; Andreassen, T & Aksoy, L. 2007. A longitudinal examination of net promoter and firm revenue growth. *Journal of Marketing*, 71(3), 39–51. <https://doi.org/10.1509/jmkg.71.3.039>
 
-## Context of Use
+## Context of use
 
 - **Scripted use** of the product is commonly employed in lab-based or usability studies, focusing on testing or examining specific aspects of the product. This approach allows researchers to control and standardise the testing process, ensuring the desired aspects are thoroughly assessed.
 - **Natural use** of the product involves testing products in a real-world or near-natural setting with minimal interference from researchers. This method provides highly valid data as users interact with the product in authentic contexts. However, the drawback is that researchers cannot ask clarifying questions to users during the process, potentially limiting the depth of insights obtained.
+
+# Applied research
+
+Applied research focuses on practical problem-solving and finding real-world solutions. Its primary goal is to address specific issues, improve processes or develop new products, and technologies. Unlike pure research, applied research is directly connected to making tangible improvements and positive impacts in various fields. It uses existing theories and knowledge as a foundation to generate actionable results and practical insights. Some common types and approaches of applied research include:
+
+: Types of applied research
+
+| **Generative research** | **Evaluative research** | **Research approaches** |
+|-------------------------|-------------------------|-------------------------|
+| Exploratory             | Formative               | Traditional             |
+| Explanatory             | Summative               | Agile                   |
+
+## Generative research
+
+This type of research focused on generating new ideas and insights during the early stages of product development. It aims to explore user needs and behaviours through qualitative methods like interviews and observations. By uncovering user context and pain points, generative research inspires creative and user-centred design solutions, leading to more effective and meaningful products or services.
+
+- **Exploratory research** often qualitative is a preliminary and open-ended investigation that aims to explore and gain a deeper understanding of a topic or problem. It uses qualitative methods to generate insights, ideas and hypotheses, rather than testing specific hypotheses or making definitive conclusions. The insights from exploratory research provide a solid foundation for further investigation and decision-making in subsequent research studies.
+- **Explanatory research** often quantitative aims to provide a deeper understanding of the relationships between variables and uncover the reasons behind observed phenomena. It goes beyond exploratory research to establish cause-and-effect relationships and test specific hypotheses. Using a combination of qualitative and quantitative methods, explanatory research helps researchers make predictions and draw conclusions about the effects of variables on outcomes. It plays a crucial role in confirming or refuting existing theories and guiding future research and decision-making.
+
+## Evaluative research
+
+This type of research focuses on assessing and judging the effectiveness and impact of existing products, services or interventions, unlike exploratory or explanatory research, which seeks to understand phenomena. Evaluative research aims to make informed decisions and improve designs based on collected data. Using qualitative and quantitative methods, it gathers feedback from users or participants to refine and optimise products or services, measure intervention impact and ensure they meet user needs and expectations. Evaluative research plays a crucial role in data-driven decision-making and enhancing the overall user experience.
+
+- **Formative research** often qualitative is conducted in the early stages of a project or program to gather insights and feedback that inform its development and design. It focuses on understanding the target audience's needs and behaviours, using qualitative and quantitative methods like interviews and surveys. By involving users and stakeholders, formative research ensures that the final product or program is well-informed and relevant, leading to more effective solutions and successful outcomes.
+- **Summative research** often quantitative evaluates the overall effectiveness and impact of a project, program or intervention at its conclusion. Unlike formative research, which informs the design, summative research measures the extent to which objectives have been achieved. It uses quantitative methods like surveys and assessments to collect data and draw conclusions about the success of the initiative. The insights from summative research are valuable for stakeholders, guiding future improvements and decision-making based on the project's outcomes.
+
+## Research approaches
+
+- **Traditional approach** is the usual way of doing research, following a step-by-step process. It includes planning, data collection, analysis and reporting in a specific order. It has a fixed design and is focused on getting accurate results, but it may take longer because it's less flexible.
+- **Agile approach** is a flexible and adaptive approach to research, inspired by agile software development. It breaks down the process into smaller tasks, allowing continuous data gathering and analysis. Researchers can make real-time adjustments based on insights, focusing on high-priority areas. It is valuable in dynamic environments with evolving research questions.
+
+# Empirical research
+
+Empirical research is a systematic investigation that relies on observation, experimentation and data collection to answer specific questions or test hypotheses. It involves gathering evidence through various methods, such as experiments, surveys, interviews and observations, to draw conclusions based on real-world data. Empirical research is essential in fields like social sciences, natural sciences and applied research, as it provides a solid foundation for understanding phenomena and making informed decisions.
+
+## Data collection
+
+Data collection is the process of gathering information to answer research questions or test hypotheses. It involves systematically collecting data from various sources, such as surveys, interviews, experiments or observations. The goal is to obtain accurate and reliable data that can be analysed to draw meaningful conclusions. Data collection methods can be qualitative or quantitative, depending on the nature of the research and the type of data needed.
+
+### Three basic types
+
+- **Sample survey** is like asking a small group of people questions to learn something about a bigger group. Imagine you want to know what ice cream flavour your whole school likes. Instead of asking everyone, that'd take forever, you ask a few kids from different classes. Their answers give you a hint about what the whole school might prefer.
+    - Faster, cheaper and easier to analyse
+- **Observational study** is like watching and recording things without interfering. You don't control anything. You just track what happens and try to see if there are any patterns. Imagine you're a detective at the zoo, trying to figure out why the zebras love stripes so much. You can't ask them directly, so you do the next best thing. You observe! You watch how they spend their days, what makes them happy, and even how they interact with other animals.
+    - Discover secrets, no cheating, useful everywhere
+- **Experimental study** is like asking a question of the world, but not just with words, with actions! It's your way of getting proof and understanding something better. Imagine you're trying to figure out which plant grows faster, sunlight or shade. You wouldn't just guess, right? You'd set up two pots, put one in the sun and one in the shade, and watch what happens.
+    - Ask a question, make a guess, set up a test, collect data, analyse the result
+
+### Classification of user data
+
+- **Demographic data** is information about your customers, like their age, gender, income, and education. It helps you know who your customers are and what they need. You can use this data to group your customers for marketing. For instance, if you sell anti-wrinkle cream, you might concentrate on age groups that are more likely to buy it. Gathering this data makes your marketing more focused and improves the outcomes.
+- **Psychographic data** includes a customer's values, personality traits, opinions, attitudes, beliefs, and lifestyle. It goes beyond just demographic information. While demographics appeal to the logical side, psychographic data helps tap into the emotional aspect of buying decisions. Businesses and products don't have emotions, but humans do. Understanding what motivates your customer emotionally, what messaging resonates with them, and what brand attitude connects with them, becomes clearer with psychographic data. It's about making customers feel something to drive their buying decisions.
+- **Behavioural data** includes customer actions, like purchases, website visits, or signing up for newsletters. It helps you grasp what your customers want and how they engage with your business. For instance, in the wrinkle cream case, if users of a certain age visit your website, click on product pages, and later sign up for your newsletter, it shows brand awareness and buyer intent. Analysing such data helps optimise touch points in your customer journey. Understanding when and why customers act the way they do enhances your marketing efforts, especially in re-engaging returning customers.
+- **Transactional data** is details about a customer's financial activities, like how much they spend, how often they make purchases, the time it takes for them to buy, and how many items they return. This data helps marketers grasp spending habits and trends among customers, which becomes crucial when market conditions change, new technology emerges, or new factors affect buying decisions.
+
+### Direction of investigation
+
+- **Retrospective study** refers to the study looks back at **past data** that has already been collected. It's like analysing old footage to learn something new.
+    - **Retrospective cohort study** is a type of longitudinal cohort study that looks back in time to analyse data about a group of people who share a common exposure or characteristic. Researchers examine the health outcomes of this group over a specific period to investigate the potential association between the exposure and the outcome.
+- **Prospective study** refers to the study is designed and conducted in the present, with **future data** collected specifically for the research question. It's like filming a new documentary with a specific focus.
+    - **Prospective cohort study** is another type of longitudinal cohort study. Unlike its retrospective counterpart, it looks forward in time. Researchers actively recruit a group of people who share a common exposure or characteristic and then follow them over a period to observe their health outcomes.
+
+## Statistical sample
+
+Statistical sample is a subset of a larger population that is selected for analysis in a research study. The sample is used to draw conclusions about the entire population based on the data collected from the sample. The goal is to ensure that the sample is representative of the population, allowing researchers to make generalisations and predictions about the larger group.
+
+### Modes of administration
+
+- **Sourcing** in an experiment refers to the process of finding and selecting participants, materials, or data for the study. For example, researchers might source participants through online advertisements or use specific criteria to select data sets for analysis. Proper sourcing is crucial for ensuring the experiment's validity and reliability.
+    - **Email survey** is a questionnaire sent via email to collect data for research or feedback. Participants receive the survey in their inbox, complete it at their convenience, and then submit their responses electronically. It's a cost-effective and quick way to gather information, though response rates can vary.
+    - **In-product survey** is a questionnaire that appears within a software application or website, targeting users while they are actively engaged with the product. This method aims to collect real-time feedback or data, providing insights into user behaviour, satisfaction, or specific features. It's a direct way to gauge user experience without requiring participants to leave the product environment.
+    - **Panel** in a database context refers to a curated list of respondents maintained by service providers for research purposes. Members of the panel may participate in various studies and can be revisited for data collection over extended periods. This allows for consistent and reliable research findings.
+- **Screening** in research refers to the initial process of evaluating potential participants to determine their suitability for a study. Criteria may include age, health status, or specific behaviours. The aim is to ensure that the selected participants fit the study's objectives and requirements, thereby making the results more reliable and applicable.
+
+### Sampling methods
+
+- **Probability sampling** is the process of randomly selecting a subset of individuals from a larger population to study, where each member of the population has a known, non-zero chance of being selected into the sample. This smaller group, or sample, is chosen to represent the larger population and help researchers draw conclusions about it. The idea is to study the sample and then make generalisations about the larger group based on the findings.
+    - **Simple random sample** is a subset of individuals chosen from a larger population. Each individual is selected randomly and entirely by chance, such that each individual has the same probability of being chosen at any stage during the sampling process. This method is like drawing names out of a hat and aims to give every individual an equal chance of being included in the sample. It's a straightforward way to get a snapshot of a larger group. The sample can be heterogeneous, and homogeneity is not considered in this method.\
+    ![Simple random sampling](https://github.com/x-square/visual-resources/blob/main/sampling-simple-random.png?raw=true 'Simple random sampling')
+    - **Systematic sample** involves arranging every member of a population in a specific order. Then, you randomly select a starting point in the sequence and pick members for your sample at consistent intervals. Same as simple random sampling, the sample can be heterogeneous, and homogeneity is not considered in this method.\
+    ![Systematic sampling](https://github.com/x-square/visual-resources/blob/main/sampling-systematic.png?raw=true 'Systematic sampling')
+    - **Stratified sample** is where the population is divided into different subgroups, or strata, usually based on a specific characteristic like age or income. Random samples are then taken from each stratum. This method aims to ensure that each subgroup is adequately represented in the final sample. Strata are homogeneous within but heterogeneous between.\
+    ![Stratified sampling](https://github.com/x-square/visual-resources/blob/main/sampling-stratified.png?raw=true 'Stratified sampling')
+    - **Cluster sample** is where the population is divided into clusters, often geographically or by some other natural grouping. A random sample of clusters is chosen, and then either all individuals in the selected clusters are surveyed, or a random sample from each selected cluster is surveyed. Clusters are heterogeneous and similar to the entire population. Homogeneity is not required within clusters.\
+    ![Cluster sampling](https://github.com/x-square/visual-resources/blob/main/sampling-cluster.png?raw=true 'Cluster sampling')
+- **Non-probability sampling** lacks random selection, leading to uneven representation and a higher risk of bias. Every individual in the population is not guaranteed to have an equal chance of being selected. Despite this limitation, they offer cost and time efficiencies for researchers. When resources are limited, this method provides a practical solution, particularly for exploratory studies focused on initial insights rather than making broad conclusions about a population.
+    - **Convenience sample** involves selecting easily accessible members of a population. It's called convenience because you gather samples from places convenient to you, like your workplace, a nearby school, or a public park.
+    - **Voluntary response sample** includes population members who choose to join a study. Similar to convenience sampling, it's often based on easy access to the population. But here, participants decide to join on their own, rather than being selected by the researcher.
+    - **Snowball sample** involves researchers initially recruiting participants for a study and then asking them to invite others to join. This method gradually increases the sample size, similar to how a snowball grows in size as it rolls. It's commonly used when accessing the desired population is challenging.
+    - **Purposive sample** involves researchers selecting participants based on the goals of their study. Only individuals who meet the criteria are chosen, while others are excluded.
+
+## Experimental design
+
+- **Randomisation** is a way to put people into different groups in a study so that everyone has an equal chance of being picked. It helps make the study more reliable because it reduces the chance that other factors could affect the results. This is what makes it a true experiment rather than just an observation. While there's a slight risk of the groups being unbalanced, using a large enough number of people can manage this risk. If the people in the study have important differences, you can use a method called 'stratified sampling' to make sure each group is fairly represented. This helps in getting results that can be applied to a larger group of people.
+- **Blocking** in research is the practice of organising experimental units into groups, or blocks, that are similar in some way that might affect the result of the experiment. For example, if you're studying the effects of a drug on people of different ages, you might create blocks of participants who are similarly aged. This helps to make the study's findings more accurate by controlling for variables like age.
+- **Between-subjects design** is a research approach where each participant is exposed to only one condition or treatment. For instance, in a study comparing two types of painkillers, one group of people would take Painkiller A while another group would take Painkiller B. This design helps to avoid issues like practice effects but may require more participants to ensure accurate results.
+- **Within-subjects design** is a research method where the same participants are used in all the different conditions of an experiment. For example, if you're testing two types of exercises for improving fitness, each participant would try both exercises at different times. This approach helps to reduce the number of participants needed and controls for individual differences, but it can be affected by factors like fatigue or learning effects.
+- **Blind** **experiment** is a study where the participants don't know certain details about the experiment, such as whether they're receiving a treatment or a placebo. This helps to prevent bias, ensuring the results are more reliable. For example, in a medical trial, a blind experiment would mean that patients don't know if they're taking real medicine or a sugar pill, making their responses more genuine.
+- **Double-blind experiment** is one where neither the participants nor the researchers know who is receiving the treatment or the placebo. This helps to eliminate both participant and experimenter bias, making the study's results more trustworthy. For example, in a drug trial, a double-blind setup ensures that neither the patient nor the medical staff knows who is receiving the real medication, which makes the findings more reliable.
+- **Unblinding** happens when someone in a blind experiment figures out information they're not supposed to know, like whether they got the real treatment or a fake one. This can mess up the results because it adds bias. Sometimes unblinding happens by accident or too early, which isn't ideal. The success of keeping the experiment blind is usually checked by asking people questions to see if they've figured anything out. While it's hard to measure unblinding perfectly, you can still get a good idea of how well the experiment was kept blind.
+- **Replication** is the process of repeating a study or experiment to see if the same results are obtained. This helps to confirm the findings are reliable and not just a one-off occurrence. For example, if one research team finds that a certain diet helps in weight loss, another team might replicate the study to ensure the results hold true.
+
+## Statistical inference
+
+- **Correlation** measures the degree of association between two variables, ranging from **positive** that values move together to **negative** that values move in opposite directions to zero that **no relationship**, that is, strength of relationship.
+    - In general, the presence of a correlation is not sufficient to infer the presence of a causal relationship.
+    - The direction of correlation doesn't inherently reveal which variable is influencing the other. That's where causality comes into play.
+- **Association** simply indicates that two variables are related in some way without specifying the strength or direction.
+- **Dependence** occurs when one variable **independent** influences another variable **dependent**.
+- **Independence** indicates two variables are not statistically related and have no influence on each other.
+- **Causality** or **cause-and-effect** is a specific type of statistical relationship where **one variable directly influences another and not the other way round**. Establishing strong evidence for causality requires more than just observing a correlation or association. Researchers typically conduct experiments to control variables and isolate the potential cause.
 
 `Any questions, please reach out!`
