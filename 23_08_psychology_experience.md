@@ -8,13 +8,13 @@ date: 'August 2023'
 
 `This document introduces what psychology concepts can be applied for better customer experience.`
 
-# Psychology for Better Customer Experience
+# Psychology for better customer experience
 
 Humans have a built-in way of understanding the world, and psychology helps us understand it better. Researchers and designers can use this knowledge to create experiences that customers find easy and enjoyable. Instead of making customers adjust to a design, we can use psychology to create designs that work naturally with how people think.
 
 # Mind and Behaviour
 
-## Mental Process
+## Mental process
 
 - **Mental model** is like a personal guide in our minds that helps us understand and predict how things work. We build it from what we've experienced and learned. It simplifies complex stuff, making it easier to understand and make decisions about the world around us. It's like our inner map for navigating our surroundings.
 - **Conceptual model** is like a simplified explanation of how something functions. It's typically created based on a person's experiences, training, or instruction. This model helps individuals understand and make sense of complex systems or processes by breaking them down into more understandable and simplified representations. In essence, it's a mental framework that aids in comprehending how something works, even if the real system is more intricate.
@@ -22,15 +22,17 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Working memory** is the brain's ability to temporarily hold and manipulate a limited amount of information for a short period. It serves as a mental workspace for immediate tasks and problem-solving, with a small capacity and short duration. This cognitive function is vital for activities requiring concentration, reasoning, and the temporary retention of information.
 - **Chunking** is a cognitive process that involves breaking down a large amount of information into smaller, more manageable groups or chunks. These chunks are then organised in a meaningful way to make it easier for the brain to process and remember the information. It is a valuable strategy for enhancing memory and cognitive performance in various contexts.
 
-## Decision-Making
+## Decision-making
 
 - **Bias** in user experience refers to subjective preferences or stereotypes that can influence the design and evaluation of digital products, potentially leading to unequal or unfair experiences for certain user groups. To address bias, diverse teams, thorough user research, accessibility considerations, testing with real users, data-driven decisions, and ethical guidelines are essential. Mitigating bias is crucial for creating inclusive and user-friendly products that serve a diverse user base fairly.
 - **Cognitive bias** refers to recurring patterns of errors in our thinking and decision-making that can influence how we perceive the world. These biases can lead us to make judgments that may not always be rational or objective. Understanding cognitive biases is crucial for making more informed and objective decisions in various aspects of life.
 - **Cognitive dissonance** happens when a user feels puzzled or uncomfortable because they expect something to work a certain way in an interface, but it behaves differently, giving unexpected results. It's important for designers to prevent this to ensure a smooth user experience.
 - **Analysis paralysis** is when a person struggles to make decisions because they've overanalysed a problem, leading to inaction. This occurs when excessive data gathering and consideration prevent decision-making. To combat it, setting criteria, deadlines, and seeking input from others can help simplify complex decisions and avoid prolonged indecision.
 - **Paradox of choice** means that when people are given too many options, it can be stressful and confusing for them to make a decision. This concept is applied to avoid overwhelming users. Designers achieve this by carefully selecting a smaller set of choices for users and providing tools to help them filter and decide. This simplifies the decision-making process and leads to a better user experience.
+- **COA** stands for **challenge**, **outcome**, and **action**, a modern method to used to organise thoughts and deliver concise answers, particularly for busy CEOs. This result-driven approach starts with the challenge faced, followed by the outcome achieved to address the challenge, and concludes with the action taken to reach the outcome. It is also effective in interviews to answer behavioural **tell me about a time when** questions.
+- **PAR** stands for **problem**, **action**, and **result**, a traditional method used to structure responses in interviews, showing how one handled a challenge and what they achieved. It details the problem faced, the action taken to address the problem, and the result achieved through the action. However, it is less preferred than its modern equivalent, as this context-driven approach focuses more on details than results.
+- **STAR** stands for **situation**, **task**, **action**, and **result**. It is now considered obsolete or less effective than methods like COA or PAR, as the situation and task steps often overlap and cause confusion, since both describe the context.
 - **Pyramid principle** begins with the main idea or conclusion at the top, followed by supporting points and details below. This structure helps readers quickly grasp the key message and see how the supporting information connects to it. It is often used in writing and presentations to make communication more effective when answering strategic **what** questions.
-- **PAR** stands for **problem**, **action**, and **result**. It helps organise thoughts and deliver concise answers. It is a method for describing a situation by explaining the problem, the action taken to resolve it, and the result. This approach is often used in interviews to answer behavioural **tell me about a time when** questions, clearly showing how someone handled a challenge and what they achieved.
 - **PACE** is a simple model for solving problems using data. In the **plan** step, the team decides what question they want to answer. In the **analyse** step, they do research or tests and examine the data to find patterns. In the **construct** step, they build models or solutions based on what they found. In the **execute** step, they document and share their results to help others make decisions. Not all steps are required every time or followed in the same order. The model helps keep data work clear and focused.
 - **Double Diamond** is a design framework that shows how people solve problems in two big steps. In the first diamond, people **discover** the problem by looking at it from many sides, then they **define** the most important part to focus on. In the second diamond, they **develop** different ideas to solve the problem and then **deliver** the best solution.
 
@@ -47,9 +49,9 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Flow** is a mental state marked by deep immersion, intense focus, and enjoyment in an activity. It occurs when the challenge of the task matches an individual's skill level, creating a fulfilling and rewarding experience. Flow is associated with heightened creativity, productivity, and a sense of accomplishment, making it a sought-after state for personal and professional growth.
 - **Satisfaction** is a feeling of contentment or fulfilment that arises when one's desires, expectations, or needs are met. It's the sense of pleasure and reassurance you get when you believe that a specific situation, outcome, or experience was positive, worthwhile, or met a particular standard. In essence, satisfaction is a measure of the gap between one's expectations and the reality of a situation. When expectations are met or exceeded, satisfaction typically ensues.
 
-# User Interaction
+# User interaction
 
-## Design Principles
+## Design principles
 
 - **Consistency** means keeping things in a design uniform and predictable. This includes elements like buttons, fonts, and colours. By doing this, users can expect a familiar and expected experience, making it easier for them to understand and use the product or interface.
 - **Aesthetics** refers to how something looks and feels, especially in design. When it comes to interfaces, it means making them visually appealing. However, it's important to keep in mind that aesthetics should not make the interface difficult to use. In other words, while making it look good is important, it shouldn't sacrifice usability, meaning it should still be easy and practical for users to navigate and interact with.
@@ -58,7 +60,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Terminology-free** means explaining something without using complicated or technical words. It's about using plain and easy-to-understand language so that everyone can grasp the information easily.
 - **Standards** are guidelines that help make products and interfaces better. These guidelines cover things like how things should look, how easy they should be to use, and how safe they should be. Following these guidelines makes products more user-friendly and reliable, benefiting both users and companies.
 
-## Usability Principles
+## Usability principles
 
 - **Learnability** is all about how easy it is for users, especially new ones, to figure out how to use an interface or a product. It involves making the learning process smooth and user-friendly. This can be achieved by providing clear onboarding steps and helpful resources when needed. In essence, it ensures that users can quickly understand how to use a system, making their initial experience more enjoyable and less confusing.
 - **Memorability** refers to how easily users can remember how to use a product or service after they've previously interacted with it. It's a key component of usability. When a product has high memorability, users can return to it after a period of not using it and still recall how to perform tasks without having to relearn the interface.
@@ -68,7 +70,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Error handling** involves designing a digital product with the aim of preventing errors whenever possible. However, when errors do occur, it means providing users with clear and informative error messages that help them understand what went wrong. Additionally, error handling includes creating pathways for users to recover from mistakes smoothly and continue using the product without frustration. It's about making the user experience forgiving and user-friendly even when errors happen.
 - **Help and documentation** involves providing users with resources like user manuals, online guides, and FAQs to assist them in understanding how to use a product or system effectively and troubleshoot issues. It ensures a positive user experience and helps users get the support they need.
 
-## Cognitive Principles
+## Cognitive principles
 
 - **Discoverability** refers to how easily users can find out what a system or interface does, how it functions, and what actions or operations are available to them. It's about making sure that users can quickly and intuitively explore and understand the capabilities of a system without having to guess or struggle to figure it out. A design with good discoverability guides users effectively, helping them uncover and utilise its features, resulting in a more user-friendly experience.
 - **Visibility** means making sure that important elements and options are easily seen and reachable. Users should not have to search for information or features. They should be readily available and obvious. This ensures a smoother and more user-friendly experience.
@@ -84,7 +86,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Freedom** means providing users with the flexibility to explore, interact, and make decisions within a system or application without unnecessary constraints. It implies that users should feel free to experiment without the fear of making irreversible errors. Designing for freedom involves offering clear and accessible options for users to undo actions, correct mistakes, and move around the interface fluidly. This freedom encourages users to explore and engage with the system confidently.
 - **Gestalt principles** are rules for how we visually perceive and organise information. They include principles like completing shapes, grouping similar elements, seeing smooth lines, distinguishing objects from backgrounds, valuing symmetry, and simplifying complex shapes. These principles are essential in design for creating attractive and clear visuals.
 
-## What Users Need to Achieve
+## What users need to achieve
 
 - **Findability** is all about how easily people can locate information or content within a website, app, or system. It's about making sure users can quickly and effortlessly find what they're looking for, which contributes to a better overall user experience. Think of it as a measure of how well something helps users find what they need.
 - **Accessibility** means making sure that everyone, including those with disabilities, can easily use and interact with a design or digital product. It involves following specific guidelines and standards to ensure that people with various abilities can access and use the interface without barriers. This inclusive approach is essential for creating a user-friendly and considerate experience for all users.
@@ -93,9 +95,9 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Desirability** refers to the quality of a product or service that makes people want to use it. It's about creating an emotional connection and appeal that goes beyond mere functionality. Desirable products or experiences often evoke positive feelings, such as satisfaction, enjoyment, or a sense of delight in users. In simpler terms, desirability means making something not just useful but also attractive and appealing to users, so they genuinely want to engage with it.
 - **Valuable product or service** is something that is really important and helpful to users. It means it effectively meets their needs or provides benefits that they truly like and find worthwhile. In simple terms, if something is seen as valuable, it's highly important and useful for specific purposes.
 
-# Laws of User Experience
+# Laws of user experience
 
-## Selective Attention: Focusing on Specific Information
+## Selective attention: Focusing on specific information
 
 - **Aesthetic-usability effect** means that when something looks nice, people often assume it's easy to use, even if they haven't tried it. It shows that aesthetics can impact how users think about a product's usability.
 - **Goal-gradient effect** means that when you're close to achieving a goal, you tend to work even harder to reach it. It's like a boost of motivation as you get nearer to your target. This effect is often used to encourage people to take action and make progress towards their goals.
@@ -112,7 +114,7 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **F-pattern** for reading web content is how most people quickly scan a webpage. They first look across the top, then a bit below, and finally, they scan down the left side. It's important for web designers to put the most important information where people are likely to look first and make content easy to skim.
 - **Google golden triangle** is where most people look first on a search results page. They check the top result, then the second and third ones. It's called a triangle because of the shape their eyes make when reading these top spots. Websites want to be in this area because that's where users usually click.
 
-## Flow: Deep Focus and Immersion
+## Flow: Deep focus and immersion
 
 - **Doherty threshold** is a guideline in computer interaction. It suggests that for optimal user-computer interaction, the response time between the user's action and the computer's response should be under 400 milliseconds. When interactions happen at this speed, it leads to a more efficient and satisfying experience because neither the user nor the computer has to wait for each other.
 - **Parkinson's law**, also known as the **last-minute effect**, means that work often takes as long as you give it, even if it could be done faster. So, setting reasonable deadlines is important to avoid unnecessary delays.
@@ -137,14 +139,14 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Law of navigation** is like having clear signs and roads in a city. In a website or app, it means making sure there are easy-to-find menus and buttons so users can quickly go where they want to.
 - **Miller's law** means that most people can remember about 7±2 things in their working memory. This helps us understand how much information people can hold in their minds at once.
 
-## Analysis Paralysis: Overthinking Prevents Decision-Making
+## Analysis paralysis: Overthinking prevents decision-making
 
 - **Jakob's law** or the **law of least astonishment** in web design means that people prefer websites that look and work like ones they've used before. It's about making websites familiar and easy to use by following common design patterns.
 - **Occam's razor** is a problem-solving principle that means when you have several possible explanations for something, the simplest one is usually the right one. It's about choosing the easiest and most straightforward answer that makes sense.
 - **Pareto principle**, also known as the **80/20 rule** or the **law of the vital few**, is a concept that suggests that roughly 80% of results or effects come from 20% of causes or efforts. In simpler terms, it means that a small portion of your actions or inputs often leads to the majority of your outcomes or results. This principle is used in various contexts, such as business and time management, to focus efforts on the most productive or impactful activities.
 - **Law of conservation of detail** means that in storytelling or design, you should include only the essential information or elements. Don't add unnecessary stuff that can confuse or distract from the main point. It's like making a recipe with just the right ingredients, not too many.
 
-## Cognitive Bias: Systematic Error in Thinking
+## Cognitive biases: Systematic error in thinking
 
 - **Peak-end rule** says we remember experiences mainly by how they felt at their most intense moment and how they ended, rather than the whole experience. It shows that these moments have a big impact on our memories.
 - **Campbell's law** means that when a measurement is very important in making decisions, people are more likely to try and change or manipulate that measurement to their benefit, even if it's not entirely accurate. It warns us to be careful when using critical metrics in decision-making.
@@ -153,14 +155,14 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 - **Hofstadter's law** says that things usually take longer than you think, even if you consider that they might take longer. It reminds us that tasks can be more complex and unpredictable than we expect, so we should be ready for delays and challenges in our plans.
 - **Amara's law** suggests that we often overestimate the immediate impact of new technologies and underestimate their long-term effects. In simpler terms, we tend to get too excited about new tech, thinking it will change everything right away, but the real changes take longer to show up and can be significant. So, it's essential to be patient and consider the bigger picture when evaluating new technologies.
 
-## Affordances: Action Possibilities in an Environment
+## Affordances: Action possibilities in an environment
 
 - **Law of context** says that where and when we do something affects how we do it. For example, how you behave at work is different from how you act at a party.
 - **Fogg behaviour model** explains why people do things. It says for an action to happen, you need motivation, ability, and a trigger. If any of these is missing or weak, the action won't occur. It's used to design things that make it easier for people to do what you want, like using an app or buying a product.
 - **Metcalfe's law**, also known as **the more the better effect**, says that the more people or devices are in a network, the more valuable it becomes. For example, a social media platform is more useful when more people join because there are more connections and interactions. So, more users make a network much more valuable.
 - **Long neck theory** means it's profitable to sell many different, less popular things to niche markets instead of just a few popular items. It's about offering variety and serving diverse interests.
 
-## Get Ready and Move Swiftly
+## Get ready and move swiftly
 
 - **Moore's law** says that computer chips get smaller and more powerful every two years. This makes our devices faster and cheaper. It's why technology keeps improving so quickly.
 - **Law of locality** is a computer rule that says it's faster to use data that's stored close together in memory. It's like having a bookshelf where you keep the pages you need next to each other, so you don't have to keep moving around to find them. This helps computers work more efficiently.
