@@ -89,10 +89,10 @@ Humans have a built-in way of understanding the world, and psychology helps us u
 
 ## What users need from a product or service
 
-- **Accessible** means anyone can reach and use it. For example, a virtual library that anyone can log into from home and an app that lets visually impaired users explore maps through sound.
-- **Usable** means it is simple and intuitive. People should never feel confused or stuck. For example, an interactive recipe app that automatically adjusts ingredients for any serving size or a travel booking tool that shows the cheapest flights visually on a map.
-- **Credible** means people can trust it. The information is accurate, it looks professional, and it feels secure. For example, a digital health tracker that syncs with verified medical records or a crowdfunding platform that transparently shows how funds are used.
-- **Valuable** means it genuinely helps people or offers something worthwhile. Users feel it is worth their time. For example, a language learning app that turns your own photos into vocabulary lessons or a virtual wardrobe app that suggests outfits based on the weather and your calendar.
+- **Accessibility** means anyone can reach and use it. For example, a virtual library that anyone can log into from home and an app that lets visually impaired users explore maps through sound.
+- **Usability** means it is simple and intuitive. People should never feel confused or stuck. For example, an interactive recipe app that automatically adjusts ingredients for any serving size or a travel booking tool that shows the cheapest flights visually on a map.
+- **Credibility** means people can trust it. The information is accurate, it looks professional, and it feels secure. For example, a digital health tracker that syncs with verified medical records or a crowdfunding platform that transparently shows how funds are used.
+- **Value** means it genuinely helps people or offers something worthwhile. Users feel it is worth their time. For example, a language learning app that turns your own photos into vocabulary lessons or a virtual wardrobe app that suggests outfits based on the weather and your calendar.
 
 # Laws of user experience
 
