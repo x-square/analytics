@@ -12,7 +12,7 @@ date: 'July 2023'
 
 Analytics is the systematic analysis of data to extract meaningful insights and support decision-making. It involves collecting, processing, and interpreting data to uncover patterns, trends, and relationships that can inform strategies and actions. Analytics can be applied in various fields, including business, healthcare, finance, and social sciences, to improve performance, optimise processes, and enhance understanding of complex systems.
 
-## Chronological levels of analytics
+## Maturity of analytics
 
 - **Descriptive analytics** focuses on summarising historical data to understand what has happened in the past. It provides insights into trends, patterns, and performance metrics. Common analyses include **funnel analysis**, **customer segmentation**, and **trend analysis**. For example, a company might use descriptive analytics to analyse sales data from the previous year to identify seasonal trends and customer preferences.
 - **Diagnostic analytics** is a type of analytics that focuses on understanding the reasons behind past events or outcomes. It goes beyond descriptive analytics by analysing historical data to identify patterns and relationships that explain why certain events occurred. Common analyses include **root cause analysis**, **session replays**, and **A/B testing**. For example, a company might use diagnostic analytics to investigate a sudden drop in sales by examining customer feedback, market trends, and competitor actions. It helps to find the causes of friction like **interactive friction**, **cognitive friction**, and **emotional friction**.
@@ -35,12 +35,12 @@ Rohrer (2022) suggests that the choice of research method should be based on wha
 
 : Three-dimensional framework of research
 
-| **What users say or do** | **Research methods** | **Context of use** |
-|--------------------------|----------------------|--------------------|
-| Attitudinal              | Qualitative          | Scripted           |
-| Behaviour                | Quantitative         | Natural            |
+| **What users think or do** | **Research methods** | **Context of use** |
+| -------------------------- | -------------------- | ------------------ |
+| Attitudinal                | Qualitative          | Scripted           |
+| Behaviour                  | Quantitative         | Natural            |
 
-## What users say or do
+## What users think or do
 
 - **Attitudinal research** is a type of user research that aims to understand users' perceptions, beliefs, opinions and feelings about a product, service or problem. It uses methods like interviews, focus groups, surveys and diary studies to gain insights into users' subjective experiences, preferences and decision-making processes.
 - **Behavioural research** focuses on observing and measuring how people actually interact with a product or service in real-world situations. This type of research examines users' actions, interactions and usage patterns. Usability studies, web analytics and click rates are typical methods for analysing user behaviours on websites and digital platforms.
@@ -212,7 +212,7 @@ Applied research focuses on practical problem-solving and finding real-world sol
 : Types of applied research
 
 | **Generative research** | **Evaluative research** | **Research approaches** |
-|-------------------------|-------------------------|-------------------------|
+| ----------------------- | ----------------------- | ----------------------- |
 | Exploratory             | Formative               | Traditional             |
 | Explanatory             | Summative               | Agile                   |
 
