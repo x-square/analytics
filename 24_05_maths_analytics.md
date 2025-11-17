@@ -446,12 +446,12 @@ $$
 ```python
 from sympy import * 
 
-z = (x**2 + 1)**3 - 2 
-dz_dx = diff(z, x)
+z = (x**2+1)**3-2 
+dz_dx = diff(z,x)
 print(dz_dx)
 
 # Output
-6*x*(x**2 + 1)**2
+6*x*(x**2+1)**2
 ```
 
 ## Integral
@@ -1826,10 +1826,10 @@ Type I errors can result in **unnecessary actions** e.g. over a million patients
 
 : Type I and type II errors
 
-| **Decision about H0** | **H0 is true** | **H0 is false** |
-|-----------------------|----------------|-----------------|
-| **Fail to reject** | True negative <br> Correct inference <br> Probability = 1 − α | False negative <br> Type II error <br> Probability = β  |
-| **Reject** | False positive <br> Type I error <br> Probability = α | True positive <br> correct inference <br> Probability = 1 - β |
+| Decision about H0 | H0 is true | H0 is false |
+| ----------------- | ---------- | ----------- |
+| Fail to reject | True negative <br> Correct inference <br> Probability = 1 − α | False negative <br> Type II error <br> Probability = β  |
+| Reject | False positive <br> Type I error <br> Probability = α | True positive <br> correct inference <br> Probability = 1 - β |
 
 ![Probability of making type I and type II errors](https://github.com/x-square/visual-resources/blob/main/types-i-ii-errors.png?raw=true 'Probability of making type I and type II errors')
 
@@ -2158,58 +2158,57 @@ graph TD
 ### Examples of parametric and non-parametric tests
 
 | Parametric test | What it checks | Example |
-| - | - | - |
-| **t-test** | Means between groups | Compare test scores of two classes |
-| **ANOVA** | Means among 3 or more groups | Compare weights of 3 different diets |
-| **MANOVA** | More than one dependent variable | Compare reading and maths scores across schools |
-| **Logistic regression** | Predicts a yes/no outcome | Predict if someone passes or fails an exam |
-| **Linear regression** | Relationship between two continuous variables | Predict height from age |
-| **Multiple regression** | Relationship between one outcome and several predictors | Predict income using education, age, and experience |
-
+| --------------- | -------------- | ------- |
+| t-test | Means between groups | Compare test scores of two classes |
+| ANOVA | Means among 3 or more groups | Compare weights of 3 different diets |
+| MANOVA | More than one dependent variable | Compare reading and maths scores across schools |
+| Logistic regression | Predicts a yes/no outcome | Predict if someone passes or fails an exam |
+| Linear regression | Relationship between two continuous variables | Predict height from age |
+| Multiple regression | Relationship between one outcome and several predictors | Predict income using education, age, and experience |
 
 | Non-parametric test on nominal scale | What it checks | Example |
-| - | - | - |
-| **Chi-square goodness of fit** | If one categorical variable follows an expected pattern | Check if colours of sweets are evenly distributed |
-| **Chi-square independence** | If two categorical variables are related | Check if gender is linked to sport preference |
-| **Chi-square homogeneity** | If different groups have the same distribution | Check if three schools have similar music genre preferences |
-| **McNemar** | Change in paired categorical data (before/after) | Check if opinions changed after a campaign |
-| **Cochran's Q** | Like repeated-measures Chi-square (for 3+ conditions) | Check if people's choices differ across 3 brands they tried |
+| ------------------------------------ | -------------- | ------- |
+| Chi-square goodness of fit | If one categorical variable follows an expected pattern | Check if colours of sweets are evenly distributed |
+| Chi-square independence | If two categorical variables are related | Check if gender is linked to sport preference |
+| Chi-square homogeneity | If different groups have the same distribution | Check if three schools have similar music genre preferences |
+| McNemar | Change in paired categorical data (before/after) | Check if opinions changed after a campaign |
+| Cochran's Q | Like repeated-measures Chi-square (for 3+ conditions) | Check if people's choices differ across 3 brands they tried |
 
 | Non-parametric test on ordinal scale | What it checks | Example |
-| - | - | - |
-| **One-sample Wilcoxon signed-rank** | Median of one sample vs a known value | Check if median satisfaction = 5 |
-| **Mann–Whitney U** | Two independent groups | Compare pain levels between two treatments |
-| **Paired Wilcoxon signed-rank** | Two related groups (before/after) | Compare stress before and after meditation |
-| **Kruskal–Wallis** | 3+ independent groups | Compare test scores of three different schools |
-| **Friedman** | 3+ related groups (repeated measures) | Compare same students' mood under 3 conditions |
+| ------------------------------------ | -------------- | ------- |
+| One-sample Wilcoxon signed-rank | Median of one sample vs a known value | Check if median satisfaction = 5 |
+| Mann–Whitney U | Two independent groups | Compare pain levels between two treatments |
+| Paired Wilcoxon signed-rank | Two related groups (before/after) | Compare stress before and after meditation |
+| Kruskal–Wallis | 3+ independent groups | Compare test scores of three different schools |
+| Friedman | 3+ related groups (repeated measures) | Compare same students' mood under 3 conditions |
 
 ### Alternative non-parametric tests when parametric assumptions are not met
 
-| **Parametric tests** | **Non-parametric alternatives** | **When to use the non-parametric tests** |
-| - | - | - |
-| **t-test** | **Sign** (one), **Proportion** (independent), or **McNemar** (paired) | When comparing two groups and data are not normally distributed or are ordinal |
-| **ANOVA** | **Kruskal–Wallis** | When comparing more than two independent groups and the data are not normal |
-| **MANOVA** | **PERMANOVA** | When analysing multiple dependent variables but assumptions such as multivariate normality and homogeneity of covariances are violated |
-| **Logistic regression** | **Rank-based logistic regression** or **classification trees** | When assumptions about linearity in the logit or large samples are violated |
-| **Linear regression** | **Spearman's rank correlation**, **Theil–Sen estimator**, or **LOESS** | When the relationship isn't linear or residuals aren't normally distributed |
-| **Multiple regression** | **Rank-based multiple regression** or **non-parametric bootstrap regression** | When assumptions of normality, linearity, or homoscedasticity are not met |
+| Parametric tests | Non-parametric alternatives | When to use the non-parametric tests |
+| ---------------- | --------------------------- | ------------------------------------ |
+| t-test | Sign (one), Proportion (independent), or McNemar (paired) | When comparing two groups and data are not normally distributed or are ordinal |
+| ANOVA | Kruskal–Wallis | When comparing more than two independent groups and the data are not normal |
+| MANOVA | PERMANOVA | When analysing multiple dependent variables but assumptions such as multivariate normality and homogeneity of covariances are violated |
+| Logistic regression | Rank-based logistic regression or classification trees | When assumptions about linearity in the logit or large samples are violated |
+| Linear regression | Spearman's rank correlation, Theil–Sen estimator, or LOESS | When the relationship isn't linear or residuals aren't normally distributed |
+| Multiple regression | Rank-based multiple regression or non-parametric bootstrap regression | When assumptions of normality, linearity, or homoscedasticity are not met |
 
 ### Different types of t-tests
 
-| **Type** | **Description** | **Use case** |
-| - | - | - |
-| **One-sample** | Compare the mean of a single group to a known value | Check if average height of students is different from 160 cm |
-| **Independent** | Compare means of two independent groups | Compare test scores of boys vs girls |
-| **Paired** | Compare means of two related groups | Compare blood pressure before and after treatment |
+| Type | Description | Use case |
+| ---- | ----------- | -------- |
+| One-sample | Compare the mean of a single group to a known value | Check if average height of students is different from 160 cm |
+| Independent | Compare means of two independent groups | Compare test scores of boys vs girls |
+| Paired | Compare means of two related groups | Compare blood pressure before and after treatment |
 
 ### Different types of ANOVA
 
-| **Type** | **Description** | **Use case** |
-| - | - | - |
-| **One-way** | Compare means of three or more independent groups | Compare test scores of students from different schools |
-| **Two-way** | Examine the influence of two independent variables on a dependent variable | Study the effect of teaching method and student gender on test scores |
-| **Repeated measures** | Compare means of the same group at different times or conditions | Measure weight loss of participants at multiple time points during a diet program |
-| **Mixed** | Combine between-subjects and within-subjects factors | Investigate the effect of a new drug (between-subjects) over time (within-subjects) on blood pressure |
+| Type | Description | Use case |
+| ---- | ----------- | -------- |
+| One-way | Compare means of three or more independent groups | Compare test scores of students from different schools |
+| Two-way | Examine the influence of two independent variables on a dependent variable | Study the effect of teaching method and student gender on test scores |
+| Repeated measures | Compare means of the same group at different times or conditions | Measure weight loss of participants at multiple time points during a diet program |
+| Mixed | Combine between-subjects and within-subjects factors | Investigate the effect of a new drug (between-subjects) over time (within-subjects) on blood pressure |
 
 ### Accuracy and precision
 
