@@ -1,7 +1,7 @@
 ---
 title: 'Psychology for Better Customer Experience'
 author: 'Chiawei Wang, PhD'
-role: 'Data & Product Analyst'
+role: 'Analytics Professional'
 email: 'chiawei.w@outlook.com'
 date: 'August 2023'
 ---
