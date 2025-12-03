@@ -1,7 +1,7 @@
 ---
 title: 'Attending Remote User Interviews via Zoom'
 author: 'Chiawei Wang, PhD'
-role: 'Data & Product Analyst'
+role: 'Analytics Professional'
 email: 'chiawei.w@outlook.com'
 date: 'June 2022'
 ---
