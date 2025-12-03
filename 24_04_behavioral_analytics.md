@@ -1,7 +1,7 @@
 ---
 title: 'Notes on Behavioral Analytics'
 author: 'Chiawei Wang, PhD'
-role: 'Data & Product Analyst'
+role: 'Analytics Professional'
 email: 'chiawei.w@outlook.com'
 date: 'April 2024'
 ---
