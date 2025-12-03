@@ -1,7 +1,7 @@
 ---
 title: 'Notes on Data Analytics'
 author: 'Chiawei Wang, PhD'
-role: 'Data & Product Analyst'
+role: 'Analytics Professional'
 email: 'chiawei.w@outlook.com'
 date: 'January 2024'
 ---
@@ -171,8 +171,8 @@ When thinking about the benefits and challenges of big data, it helps to think a
 
 : Four Vs for big data
 
-| **Volume** | **Variety** | **Velocity** | **Veracity** |
-|------------|-------------|--------------|--------------|
+| Volume         | Variety                 | Velocity                           | Veracity                            |
+| -------------- | ----------------------- | ---------------------------------- | ----------------------------------- |
 | Amount of data | Different kinds of data | How fast the data can be processed | Quality and reliability of the data |
 
 ## Structured thinking and scope of work
@@ -324,9 +324,9 @@ Data is powerful, but it has its limitations. Has someone's personal opinion fou
 
 : Data format examples
 
-| **Data Format Classification** | **Definition** | **Examples** |
-| ------------------------------ | -------------- | ------------ |
-| Primary data | Collected by a researcher from first-hand sources | <li> Data from an interview you conducted <li>Data from a survey returned from 20 participants <li> Data from questionnaires you got back from a group of workers |
+| Data format classification | Definition | Examples |
+| -------------------------- | ---------- | -------- |
+| Primary data | Collected by a researcher from first-hand sources | <li> Data from an interview you conducted <li> Data from a survey returned from 20 participants <li> Data from questionnaires you got back from a group of workers |
 | Secondary data | Gathered by other people or from other research | <li> Data you bought from a local data analytics firm's customer profiles <li> Demographic data collected by a university <li> Census data gathered by the federal government |
 | Internal data | Data that lives inside a company's own systems | <li> Wages of employees across different business units tracked by HR <li> Sales data by store location <li> Product inventory levels across distribution centers |
 | External data | Data that lives outside of a company or organization | <li> National average wages for the various positions throughout your organization <li> Credit reports for customers of an auto dealership |
@@ -632,9 +632,9 @@ Knowing the content and context of your data, as well as how it is structured, i
 
 : Best practices for filename conventions to follow
 
-| **Formatting convention** | **Example** |
-|---------------------------|-------------|
-| Format dates as yyyymmdd | SalesReport20201125|
+| Formatting convention | Example |
+| --------------------- | ------- |
+| Format dates as yyyymmdd | SalesReport20201125 |
 | Lead revision numbers with 0 | SalesReport20201125v02 |
 | Use hyphens, underscores, or capitalized letters | <li> sales-report-2020-11-25-v02 <li> SalesReport_2020_11_25_v02 |
 
@@ -687,8 +687,8 @@ As you progress in your data journey, you'll come across many types of data cons
 
 : Data constraints and examples
 
-| **Data constraint** | **Definition** | **Examples** |
-|---------------------|----------------|--------------|
+| Data constraint | Definition | Examples |
+| --------------- | ---------- | -------- |
 | Data type | Values must be of a certain type: date, number, percentage, Boolean | If the data type is a date, a single number like 30 would fail the constraint and be invalid |
 | Data range | Values must fall between predefined maximum and minimum values | If the data range is 10-20, a value of 30 would fail the constraint and be invalid |
 | Mandatory | Values can't be left blank or empty | If age is mandatory, that value must be filled in |
@@ -724,10 +724,10 @@ Cloud Gate, a software company, recently hosted a series of public webinars as f
 
 : Webinar attendance data includes the fields
 
-| **Name** | **Research methods** | **Additional information** |
-|----------|----------------------|----------------------------|
-| Email Address | `xxxxx@company.com`  | Required information attendees had to submit |
-| Company | \<company name\> | Optional information attendees could provide |
+| Name          | Research methods    | Additional information                       |
+| ------------- | ------------------- | -------------------------------------------- |
+| Email Address | `xxxxx@company.com` | Required information attendees had to submit |
+| Company       | \<company name\>    | Optional information attendees could provide |
 
 The webinar attendance data seems to align with the business objective. But the data analyst and program manager decide that some **data cleaning** is needed before the analysis. They think data cleaning is required because:
 
@@ -757,8 +757,8 @@ Consider the following data issues and suggestions on how to work around them:
 
 : Data issue of no data
 
-| **Possible Solutions** | **Examples of solutions in real life** |
-|------------------------|----------------------------------------|
+| Possible solutions | Examples of solutions in real life |
+| ------------------ | ---------------------------------- |
 | Gather the data on a small scale to perform a preliminary analysis and then request additional time to complete the analysis after you have collected more data | If you are surveying employees about what they think about a new performance and bonus plan, use a sample for a preliminary analysis. Then, ask for another 3 weeks to collect the data from all employees. |
 | If there isn't time to collect data, perform the analysis using proxy data from other datasets. This is the most common workaround. | If you are analyzing peak travel times for commuters but don't have the data for a particular city, use the data from another city with a similar size and demographic. |
 
@@ -766,8 +766,8 @@ Consider the following data issues and suggestions on how to work around them:
 
 : Data issue of too little data
 
-| **Possible Solutions** | **Examples of solutions in real life** |
-|------------------------|----------------------------------------|
+| Possible solutions | Examples of solutions in real life |
+| ------------------ | ---------------------------------- |
 | Do the analysis using proxy data along with actual data. | If you are analyzing trends for owners of golden retrievers, make your dataset larger by including the data from owners of labradors. |
 | Adjust your analysis to align with the data you already have. | If you are missing data for 18 to 24-year-olds, do the analysis but note the following limitation in your report: this conclusion applies to adults 25 years and older only. |
 
@@ -775,8 +775,8 @@ Consider the following data issues and suggestions on how to work around them:
 
 : Data issue of wrong data and errors
 
-| **Possible Solutions** | **Examples of solutions in real life** |
-|------------------------|----------------------------------------|    
+| Possible solutions | Examples of solutions in real life |
+| ------------------ | ---------------------------------- |    
 | If you have the wrong data because requirements were misunderstood, communicate the requirements again. | If you need the data for female voters and received the data for male voters, restate your needs. |
 | Identify errors in the data and, if possible, correct them at the source by looking for a pattern in the errors. | If your data is in a spreadsheet and there is a conditional statement or boolean causing calculations to be wrong, change the conditional statement instead of just fixing the calculated values. |
 | If you can't correct data errors yourself, you can ignore the wrong data and go ahead with the analysis if your sample size is still large enough and ignoring the data won't cause systematic bias. | If your dataset was translated from a different language and some of the translations don't make sense, ignore the data with bad translation and go ahead with the analysis of the other data. |
@@ -789,15 +789,15 @@ Use the following decision tree as a reminder of how to deal with data errors or
 
 : Statistical terms and definitions
 
-| **Terminology** | **Definitions** |
-|-----------------|-----------------|
-| **Population** | The entire group that you are interested in for your study. For example, if you are surveying people in your company, the population would be all the employees in your company. |
-| **Sample** | A subset of your population. Just like a food sample, it is called a sample because it is only a taste. So if your company is too large to survey every individual, you can survey a representative sample of your population. |
-| **Margin of error** | Since a sample is used to represent a population, the sample's results are expected to differ from what the result would have been if you had surveyed the entire population. This difference is called the margin of error. The smaller the margin of error, the closer the results of the sample are to what the result would have been if you had surveyed the entire population. |
-| **Confidence level** | How confident you are in the survey results. For example, a `95%` confidence level means that if you were to run the same survey 100 times, you would get similar results 95 of those 100 times. Confidence level is targeted before you start your study because it will affect how big your margin of error is at the end of your study. |
-| **Confidence interval** | The range of possible values that the population's result would be at the confidence level of the study. This range is the sample result plus and minus the margin of error. Briefly, `confidence interval = sample mean ± margin of error`. |
-| **Effect size** | The effect size is a quantitative measure of the magnitude of the experimental effect. The larger the effect size the stronger the relationship between two variables. You can look at the effect size when comparing any two groups e.g. control group and experimental group to see how substantially different they are. A significant *p* value tells us that an intervention works, whereas an effect size tells us how much it works. |
-| **Statistical power** | It can be calculated and reported e.g. `0.8` or `80%` for a completed experiment to comment on the confidence one might have in the conclusions drawn from the results of the study. It can also be used as a tool to estimate the number of observations or sample size required in order to detect an effect in an experiment. |
+| Terminology | Definitions |
+| ----------- | ----------- |
+| Population | The entire group that you are interested in for your study. For example, if you are surveying people in your company, the population would be all the employees in your company. |
+| Sample | A subset of your population. Just like a food sample, it is called a sample because it is only a taste. So if your company is too large to survey every individual, you can survey a representative sample of your population. |
+| Margin of error | Since a sample is used to represent a population, the sample's results are expected to differ from what the result would have been if you had surveyed the entire population. This difference is called the margin of error. The smaller the margin of error, the closer the results of the sample are to what the result would have been if you had surveyed the entire population. |
+| Confidence level | How confident you are in the survey results. For example, a `95%` confidence level means that if you were to run the same survey 100 times, you would get similar results 95 of those 100 times. Confidence level is targeted before you start your study because it will affect how big your margin of error is at the end of your study. |
+| Confidence interval | The range of possible values that the population's result would be at the confidence level of the study. This range is the sample result plus and minus the margin of error. Briefly, `confidence interval = sample mean ± margin of error`. |
+| Effect size | The effect size is a quantitative measure of the magnitude of the experimental effect. The larger the effect size the stronger the relationship between two variables. You can look at the effect size when comparing any two groups e.g. control group and experimental group to see how substantially different they are. A significant *p* value tells us that an intervention works, whereas an effect size tells us how much it works. |
+| Statistical power | It can be calculated and reported e.g. `0.8` or `80%` for a completed experiment to comment on the confidence one might have in the conclusions drawn from the results of the study. It can also be used as a tool to estimate the number of observations or sample size required in order to detect an effect in an experiment. |
 
 When figuring out a sample size, here are things to keep in mind:
 
@@ -859,8 +859,8 @@ All you need is **population size**, **confidence level**, and **sample size**.
 
 : Types of dirty data
 
-| **Description** | **Possible causes** | **Potential harm to businesses** |
-|-----------------|---------------------|----------------------------------|
+| Description | Possible causes | Potential harm to businesses |
+| ----------- | --------------- | ---------------------------- |
 | Duplicate data that shows up more than once | Manual data entry, batch data imports, or data migration | Skewed metrics or analyses, inflated or inaccurate counts or predictions, or confusion during data retrieval |
 | Outdated data that should be replaced with newer and more accurate information | People changing roles or companies, or software and systems becoming obsolete | Inaccurate insights, decision-making, and analytics |
 | Incomplete data that is missing important fields | Improper data collection or incorrect data entry | Decreased productivity, inaccurate insights, or inability to complete essential services |
@@ -912,8 +912,8 @@ Top ten lists for data cleaning:
 
 : What can be automated?
 
-| **Task** | **Can it be automated?** | **Why?** |
-|----------|--------------------------|----------|
+| Task | Can it be automated? | Why? |
+| ---- | -------------------- | ---- |
 | Communicating with your team and stakeholders | No | Communication is key to understanding the needs of your team and stakeholders as you complete the tasks you are working on. There is no replacement for person-to-person communications. |
 | Presenting your findings | No | Presenting your data is a big part of your job as a data analyst. Making data accessible and understandable to stakeholders and creating data visualizations can't be automated for the same reasons that communications can't be automated. |
 | Preparing and cleaning data | Partially | Some tasks in data preparation and cleaning can be automated by setting up specific processes, like using a programming script to automatically detect missing values. |
