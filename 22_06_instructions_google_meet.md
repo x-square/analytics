@@ -1,7 +1,7 @@
 ---
 title: 'Attending Remote User Interviews via Google Meet'
 author: 'Chiawei Wang, PhD'
-role: 'Data & Product Analyst'
+role: 'Analytics Professional'
 email: 'chiawei.w@outlook.com'
 date: 'June 2022'
 ---
