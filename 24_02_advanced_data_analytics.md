@@ -1,7 +1,7 @@
 ---
 title: 'Notes on Advanced Data Analytics'
 author: 'Chiawei Wang, PhD'
-role: 'Data & Product Analyst'
+role: 'Analytics Professional'
 email: 'chiawei.w@outlook.com'
 date: 'February 2024'
 ---
@@ -83,8 +83,8 @@ There are so many different industries taking advantage of data analytics in so 
 
 : How data is used in different industries
 
-| **Industry** | **Overview** | **How data is used** |
-|--------------|--------------|----------------------|
+|  Industry | Overview | How data is used |
+| --------- | -------- | ---------------- |
 | App-driven business (sharing economy service) | Facilitates users acquiring, providing, or sharing access to goods and services, often through online or app-based communities | <li> Maintaining functioning mobile applications <li> Delivering customized content based on user history including discounts <li> Using machine learning models to send notifications at key times or even locations |
 | Automotive | Includes industries associated with the production, wholesaling, retailing, and maintenance of motor vehicles | <li> Gaining greater control over their supply chains <li> Improving production line performance, and designing new and more efficient vehicles <li> Enhancing vehicle safety and new features |
 | Cybersecurity | Protects networks, devices, and data from unauthorized access or criminal use and the practice of maintaining confidentiality, integrity, and availability of information | <li> Locating weak points within networks and systems using predictive analytics <li> Defending against security attacks <li> Detecting data breaches through logic, models, and data tools <li> Improving the ability to identify attacks and respond to them with Artificial Intelligence (AI) |
@@ -232,12 +232,12 @@ RACI matrix is a tool that many organizations use to structure their projects. I
 
 : Assign responsibility
 
-| **Task** | **Business Intelligence Engineer** | **Data Scientist** | **Analytic Team Manager** | **Data Engineer** | **Chief Data Officer** |
-|---|---|---|---|---|---|
-| **Access to data** | R | C | R | R | A |
-| **Create models to analyze data** | C | R | C | I | A |
-| **Drive insights and recommendations based on data** | C | R | C | I | A |
-| **Ensure data compliance** | C | I | C | R | A |
+| Task | Business Intelligence Engineer | Data Scientist | Analytic Team Manager | Data Engineer | Chief Data Officer |
+| ---- | ------------------------------ | -------------- | --------------------- | ------------- | ------------------ |
+| Access to data | R | C | R | R | A |
+| Create models to analyze data | C | R | C | I | A |
+| Drive insights and recommendations based on data | C | R | C | I | A |
+| Ensure data compliance | C | I | C | R | A |
 
 - Responsible
     - Those who do the work to complete the task 
@@ -256,8 +256,8 @@ As a data professional, you will continue learning new skills and applying your 
 
 : Common tools data professionals use everyday
 
-| **Tool** | **Definition** | **Examples** | **Transferable skills** |
-|----------|----------------|--------------|-------------------------|
+| Tool | Definition | Examples | Transferable skills |
+| ---- | ---------- | -------- | ------------------- |
 | Spreadsheets | A digital worksheet where data can be manipulated and used for calculations | <li> Google Sheets <li> Microsoft Excel |  <li> Data entry <li> Mathematical calculations <li> Manage datasets <li> Task automation <li> Data manipulation <li> Data analysis |
 | Databases | A collection of data stored in a computer system | <li> Google Cloud <li> CloudSQL <li> Oracle <li> Microsoft SQL Server | <li> Database design <li> Data storage management <li> Data integrity |
 | Programming languages | A system of words and symbols used to write instructions that computers follow | <li> SQL <li> R <li> Python <li> Java <li> C++ | <li> Communicate with computer systems <li> Write and input commands <li> Manage datasets <li> Data manipulation <li> Data analysis |
@@ -791,13 +791,13 @@ End-of-course projects emphasize technical and professional workplace skills, as
 
 : Programming language comparisons
 
-| **Features by software** | **Python** | **R** | **Java** | **C++** |
-|--------------------------|------------|-------|----------|---------|
-| **Speed** | Slower | Depends on configuration and add-ons | Faster | Very fast |
-|**Approachability** | Easy to learn | Complex | Easy to learn | Complex |
-| **Variable** | Dynamic | Dynamic | Static | Declarative |
-| **Data science focus** | Machine learning and automated analysis | Exploratory data analysis and building extensive statistical libraries | Used across projects with open-source assets | Not as widely used but very powerful implementations |
-| **Programming paradigm** | Object-oriented | Functional language | Object-oriented | Multi-paradigm (imperative & object-oriented) |
+| Features by software | Python | R | Java | C++ |
+| -------------------- | ------ | - | ---- | --- |
+| Speed | Slower | Depends on configuration and add-ons | Faster | Very fast |
+| Approachability | Easy to learn | Complex | Easy to learn | Complex |
+| Variable | Dynamic | Dynamic | Static | Declarative |
+| Data science focus | Machine learning and automated analysis | Exploratory data analysis and building extensive statistical libraries | Used across projects with open-source assets | Not as widely used but very powerful implementations |
+| Programming paradigm | Object-oriented | Functional language | Object-oriented | Multi-paradigm (imperative & object-oriented) |
 
 ## More about object-oriented programming
 
@@ -966,7 +966,7 @@ Coding languages are similar to spoken languages in that they have a way to clas
 ```python
 def to_celsius(x):
    '''Convert Fahrenheit to Celsius'''
-   return (x-32) * 5/9
+   return (x - 32) * 5 / 9
 
 to_celsius(75)
 
@@ -4355,44 +4355,44 @@ This process requires you to set up a payment method. However, new users get a $
 
 : Datetime function
 
-| **Code** | **Format** | **Example** |
-|----------|------------|-------------|
-| **%a** | Abbreviated weekday | Sun |
-| **%A** | Weekday | Sunday |
-| **%b** | Abbreviated month | Jan |
-| **%B** | Month name | January |
-| **%c** | Date and time | Sun Jan 1 00:00:00 2021 |
-| **%d** | Day (leading zeros) | 01 to 31 |
-| **%H** | 24 hours | 00 to 23 |
-| **%I** | 12 hours | 01 to 12 |
-| **%j** | Day of year | 001 to 366 |
-| **%m** | Month | 01 to 12 |
-| **%M** | Minute | 00 to 59 |
-| **%p** | AM or PM | AM/PM |
-| **%S** | Seconds | 00 to 61 |
-| **%U** | Week number (Sun) | 00 to 53 |
-| **%W** | Week number (Mon) | 00 to 53 |
-| **%w** | Weekday | 0 to 6 |
-| **%x** | Locale's appropriate date representation | 08/16/88 (None) <br> 08/16/1988 (en_US)<br> 16.08.1988 (de_DE) |
-| **%X** | A locale's appropriate time representation | 21:30:00 (en_US);<br>21:30:00 (de_DE) |
-| **%y** | Year without century | 00 to 99 |
-| **%Y** | Year | 2022 |
-| **%z** | Offset | +0900 |
-| **%Z** | Time zone | EDT/JST/WET etc (GMT) |
+| Code | Format | Example |
+| ---- | ------ | ------- |
+| %a | Abbreviated weekday | Sun |
+| %A | Weekday | Sunday |
+| %b | Abbreviated month | Jan |
+| %B | Month name | January |
+| %c | Date and time | Sun Jan 1 00:00:00 2021 |
+| %d | Day (leading zeros) | 01 to 31 |
+| %H | 24 hours | 00 to 23 |
+| %I | 12 hours | 01 to 12 |
+| %j | Day of year | 001 to 366 |
+| %m | Month | 01 to 12 |
+| %M | Minute | 00 to 59 |
+| %p | AM or PM | AM/PM |
+| %S | Seconds | 00 to 61 |
+| %U | Week number (Sun) | 00 to 53 |
+| %W | Week number (Mon) | 00 to 53 |
+| %w | Weekday | 0 to 6 |
+| %x | Locale's appropriate date representation | 08/16/88 (None) <br> 08/16/1988 (en_US)<br> 16.08.1988 (de_DE) |
+| %X | A locale's appropriate time representation | 21:30:00 (en_US);<br>21:30:00 (de_DE) |
+| %y | Year without century | 00 to 99 |
+| %Y | Year | 2022 |
+| %z | Offset | +0900 |
+| %Z | Time zone | EDT/JST/WET etc (GMT) |
 
 : Date string manipulations
 
-| **Code** | **Input Type** | **Input Example** | **Output Type** | **Output Example** |
-|----------|----------------|-------------------|-----------------|--------------------|
-| **datetime.strptime <br> ('25/11/2022', '%d/%m/%Y')** | string | '25/11/2022' | DateTime | '2022-11-25  00:00:00' |
-| **datetime.strftime <br> (dt_object, '%d/%m/%Y')** | DateTime | '2022-11-25  00:00:00' | string | '25/11/2022' |
-| **dt_object = datetime.strptime <br> ('25/11/2022', '%d/%m/%Y')<br>datetime.timestamp(dt_object)** | string | '25/11/2022' | float (UTC timestamp in seconds) | 1617836400.0 |
-| **datetime.strptime <br> ('25/11/2022', '%d/%m/%Y') <br> .strftime('%Y-%m-%d')** | string | '25/11/2022' | string | '2022-11-25' |
-| **datetime.fromtimestamp <br> (1617836400.0)** | float (UTC timestamp in seconds) | 1617836400.0 | DateTime | datetime.datetime <br> (2021, 4, 7, 23, 0) |
-| **datetime.datetime(2021, 4, 7, 23, 0) <br> datetime.fromtimestamp(1617836400.0) <br> .strftime('%d/%m/%Y')** | float (UTC timestamp in seconds) | 1617836400.0 | string | ''07/04/2021'' |
-| **from pytz import timezone**<br>**ny_time = datetime.strptime <br> ('25-11-2022  09:34:00-0700', <br> '%d-%m-%Y  %H:%M:%S%z')** <br> **Tokyo_time = ny_time.astimezone <br> (timezone(‘Asia/Tokyo'))** | string | NewYork timezone '25-11-2022  09:34:00-0700' | DateTime | Tokyo timezone 2022, 11, 26, 1, 34, JST+9:00:00 STD> |
-| **datetime.strptime <br> ('20:00', '%H:%M') <br> .strftime('%I:%M %p')** | string | '20:00' | string | '08:00 PM' |
-| **datetime <br> .strptime('08:00 PM', '%I:%M  %p') <br> .strftime('%H:%M')** | string | '08:00 PM' | string | '20:00' |
+| Code | Input type | Input example | Output type | Output example |
+| ---- | ---------- | ------------- | ----------- | -------------- |
+| datetime.strptime('25/11/2022', '%d/%m/%Y') | string | '25/11/2022' | DateTime | '2022-11-25  00:00:00' |
+| datetime.strftime(dt_object, '%d/%m/%Y') | DateTime | '2022-11-25  00:00:00' | string | '25/11/2022' |
+| dt_object = datetime.strptime('25/11/2022', '%d/%m/%Y') <br> datetime.timestamp(dt_object) | string | '25/11/2022' | float (UTC timestamp in seconds) | 1617836400.0 |
+| datetime.strptime('25/11/2022', '%d/%m/%Y') <br> .strftime('%Y-%m-%d') | string | '25/11/2022' | string | '2022-11-25' |
+| datetime.fromtimestamp(1617836400.0) | float (UTC timestamp in seconds) | 1617836400.0 | DateTime | datetime.datetime <br> (2021, 4, 7, 23, 0) |
+| datetime.datetime(2021, 4, 7, 23, 0) <br> datetime.fromtimestamp(1617836400.0).strftime('%d/%m/%Y') | float (UTC timestamp in seconds) | 1617836400.0 | string | ''07/04/2021'' |
+| from pytz import timezone <br> ny_time = datetime.strptime('25-11-2022  09:34:00-0700', '%d-%m-%Y  %H:%M:%S%z') <br> Tokyo_time = ny_time.astimezone(timezone('Asia/Tokyo')) | string | NewYork timezone '25-11-2022  09:34:00-0700' | DateTime | Tokyo timezone 2022, 11, 26, 1, 34, JST+9:00:00 STD> |
+| datetime.strptime('20:00', '%H:%M').strftime('%I:%M %p') | string | '20:00' | string | '08:00 PM' |
+| datetime.strptime('08:00 PM', '%I:%M  %p').strftime('%H:%M') | string | '08:00 PM' | string | '20:00' |
 
 ### Date string manipulations
 
@@ -4954,17 +4954,17 @@ For categorical or qualitative data types, data professionals often need to tran
 
 : Label encoding
 
-| **Mushroom Type** | **Code** |
-|-------------------|----------|
-| Black truffle     |  0       |
-| Button            |  1       |
-| Cremini           |  2       |
-| Hedgehog          |  3       |
-| King Trumpet      |  4       |
-| Morel             |  5       |
-| Portobello        |  6       |
-| Shiitake          |  7       |
-| Toadstool         |  8       |
+| Mushroom type | Code |
+| ------------- |----- |
+| Black truffle | 0    |
+| Button        | 1    |
+| Cremini       | 2    |
+| Hedgehog      | 3    |
+| King Trumpet  | 4    |
+| Morel         | 5    |
+| Portobello    | 6    |
+| Shiitake      | 7    |
+| Toadstool     | 8    |
 
 ### Some potential problems with label encoding 
 
@@ -4978,21 +4978,21 @@ With this method, we solve the problem of the unintended and problematic relatio
 
 : One-hot encoding 
 
-| **N/A** | **Mild** | **Scattered** | **Heavy** | **Severe** |
-|---------|----------|---------------|-----------|------------|
-|    0    |     1    |       0       |     0     |     0      |
-|    1    |     1    |       0       |     0     |     0      |
-|    2    |     0    |       1       |     0     |     0      |
-|    3    |     0    |       0       |     1     |     0      |
-|    4    |     0    |       0       |     0     |     1      |
-|    5    |     0    |       0       |     0     |     1      |
-|    6    |     0    |       0       |     0     |     1      |
-|    7    |     0    |       0       |     0     |     1      |
-|    8    |     0    |       0       |     1     |     0      |
-|    9    |     0    |       1       |     0     |     0      |
-|    10   |     1    |       0       |     0     |     0      |
-|    11   |     1    |       0       |     0     |     0      |
-|    12   |     0    |       1       |     0     |     0      |
+| N/A | Mild | Scattered | Heavy | Severe |
+| --- | ---- | --------- | ----- | ------ |
+| 0   | 1    | 0         | 0     | 0      |
+| 1   | 1    | 0         | 0     | 0      |
+| 2   | 0    | 1         | 0     | 0      |
+| 3   | 0    | 0         | 1     | 0      |
+| 4   | 0    | 0         | 0     | 1      |
+| 5   | 0    | 0         | 0     | 1      |
+| 6   | 0    | 0         | 0     | 1      |
+| 7   | 0    | 0         | 0     | 1      |
+| 8   | 0    | 0         | 1     | 0      |
+| 9   | 0    | 1         | 0     | 0      |
+| 10  | 1    | 0         | 0     | 0      |
+| 11  | 1    | 0         | 0     | 0      |
+| 12  | 0    | 1         | 0     | 0      |
 
 ### Label encoding or one-hot encoding: How to decide?
 
@@ -6135,13 +6135,13 @@ No! In fact, not only is it possible for model scores to improve with sampling, 
 
 : Comparison between bagging and random forest
 
-| | **Bootstrap sample size** | **Features sampled** | **Accuracy score** | **Runtime** |
-|-|---------------------------|----------------------|--------------------|-------------|
-| **Bagging** | 100% | 10 | 0.8596 | 15m 49s |
-| **Bagging** | 30% | 10 | 0.8692 |7m 41s |
-| **Random forest** | 100% | 4 | 0.8704 | 8m 19s |
-| **Random forest** | 30% | 4 | 0.8736 | 4m 53s |
-| **Random forest** | 5% | 4 | 0.8652 | 3m 41s |
+| Type          | Bootstrap sample size | Features sampled | Accuracy score | Runtime |
+| ------------- | --------------------- | ---------------- | -------------- | ------- |
+| Bagging       | 100%                  | 10               | 0.8596         | 15m 49s |
+| Bagging       | 30%                   | 10               | 0.8692         | 7m 41s  |
+| Random forest | 100%                  | 4                | 0.8704         | 8m 19s  |
+| Random forest | 30%                   | 4                | 0.8736         | 4m 53s  |
+| Random forest | 5%                    | 4                | 0.8652         | 3m 41s  |
 
 The bagging model with only 30% bootstrapped samples performed better than the one that used 100% samples, and the random forest model that used 30% bootstrapped samples and just 4 features performed better than all the others. Not only that, but runtime was cut by nearly 70% using the random forest model with 30% bootstrap samples. 
 
